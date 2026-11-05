@@ -1,0 +1,252 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-140","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-140",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T2052,<div class="guide-media"><a href="https://gemini.google.com/share/70580e9173cd" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Ты уже знаешь, что есть прилагательные, которые стоят просто так:</p>
+<blockquote>
+
+
+<p>Das Haus ist alt.</p>
+<p>Der Kaffee ist heiß.</p>
+</blockquote>
+
+
+
+<p>Но есть <b>особая порода прилагательных</b> — они <i>не ходят без предлога</i>.</p>
+<p>Они как «близнецы», у которых всегда есть спутник: <b>abhängig von</b>, <b>interessiert an</b>, <b>stolz auf</b> и т.д.</p>
+<p>И если забыть предлог — смысл рассыпается.</p>
+<hr>
+<h3><b>1️⃣ Почему это важно</b></h3>
+<p>В разговоре такие связки дают <b>чёткий смысл</b> и <b>нативность речи</b>.</p>
+<p>Сказать <i>„Ich bin interessiert.“</i> — вроде норм, но натив скажет:</p>
+<blockquote>
+
+
+<p>„Ich bin interessiert an neuen Technologien.“</p>
+<p>И это уже звучит <b>по-немецки</b>, а не «школьно».</p>
+</blockquote>
+
+
+
+<hr>
+<h3><b>2️⃣ Мини-таблица «всегда вместе»</b></h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Прилагательное + Präp.</th>
+<th>Падеж</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>abhängig von</b></td>
+<td>Dat</td>
+<td>Ich bin vom Wetter abhängig.</td>
+</tr>
+<tr>
+<td><b>stolz auf</b></td>
+<td>Akk</td>
+<td>Wir sind stolz auf dich.</td>
+</tr>
+<tr>
+<td><b>interessiert an</b></td>
+<td>Dat</td>
+<td>Er ist an Sprachen interessiert.</td>
+</tr>
+<tr>
+<td><b>bereit zu</b></td>
+<td>Dat</td>
+<td>Sie ist zu allem bereit.</td>
+</tr>
+<tr>
+<td><b>bekannt für</b></td>
+<td>Akk</td>
+<td>Berlin ist bekannt für Currywurst.</td>
+</tr>
+<tr>
+<td><b>zufrieden mit</b></td>
+<td>Dat</td>
+<td>Ich bin mit dem Ergebnis zufrieden.</td>
+</tr>
+</tbody></table></div>
+<p>📌 <b>Запомни:</b> предлог фиксированный, падеж меняется в зависимости от него.</p>
+<hr>
+<h3><b>3️⃣ Как тренировать</b></h3>
+<ul>
+<li>Возьми список (см. ниже).</li>
+<li>Выбери 5 штук.</li>
+<li>Придумай про себя <b>личные фразы</b>.</li>
+<li>Повтори их вслух 10 раз.</li>
+</ul>
+<p>Пример:</p>
+<blockquote>
+
+
+<p>„Ich bin abhängig von gutem Kaffee.“</p>
+<p>„Ich bin <b>stolz auf</b> meinen kleinen Garten.“</p>
+</blockquote>
+
+
+
+<hr>
+<h2><b>🔥 Причастия (Partizipien) с предлогами</b></h2>
+<p>Причастия — это глаголы в «аджективной форме». Они бывают:</p>
+<ul>
+<li><b>Partizip I</b> (laufend, singend) — действие в процессе.</li>
+<li><b>Partizip II</b> (gelaufen, gesungen) — действие завершено.</li>
+</ul>
+<hr>
+<h3><b>4️⃣ Partizip I с предлогами</b></h3>
+<p>Используется, когда действие идёт <b>прямо сейчас</b> или <b>параллельно</b> чему-то.</p>
+<blockquote>
+
+
+<p>Der lachende Mann trinkt Kaffee. (Смеющийся мужчина пьёт кофе.)</p>
+<p><b>Die an einer Lösung arbeitende Gruppe</b> findet schnell Ideen.</p>
+</blockquote>
+
+
+
+<p>В связке с предлогами:</p>
+<blockquote>
+
+
+<p>Der an einer Lösung arbeitende Mann hat viel Erfahrung.</p>
+<p><i>(Мужчина, работающий над решением, имеет большой опыт.)</i></p>
+</blockquote>
+
+
+
+<hr>
+<h3><b>5️⃣ Partizip II с предлогами</b></h3>
+<p>Это уже «готовое» действие. Часто в значении результата или состояния.</p>
+<blockquote>
+
+
+<p>Die geschlossene Tür blockiert den Weg.</p>
+<p><b>Der von allen bewunderte Schauspieler</b> kommt aus Wien.</p>
+<p><b>Die in Deutschland geborene Schriftstellerin</b> lebt jetzt in Paris.</p>
+</blockquote>
+
+
+
+<hr>
+<h3><b>6️⃣ Partizipialkonstruktionen</b></h3>
+<p>В немецком любят упаковывать целые предложения в «компактный пакет» перед существительным.</p>
+<p>Чем длиннее конструкция — тем «умнее» звучит.</p>
+<blockquote>
+
+
+<p>Der vor einem Jahr eröffnete Laden boomt.</p>
+<p><i>(Магазин, открытый год назад, процветает.)</i></p>
+</blockquote>
+
+
+
+
+
+<blockquote>
+
+
+<p>Die seit Wochen auf das Ergebnis wartenden Studenten werden langsam ungeduldig.</p>
+<p><i>(Студенты, которые уже несколько недель ждут результата, начинают нервничать.)</i></p>
+</blockquote>
+
+
+
+<p>📌 В повседневной речи можно заменить на <b>Relativsatz</b>:</p>
+<blockquote>
+<p>Die Studenten, die seit Wochen auf das Ergebnis warten, …</p>
+</blockquote>
+<hr>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/hSiBwCUvyls?si=L2G6W0aFYwCadiqS" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Дополните предложения подходящим предлогом и поставьте существительное в скобках в правильный падеж.</h3>
+<ol>
+<li>Wir sind sehr stolz <b>____</b> <b>(unsere Mannschaft)</b>.</li>
+<li>Er ist nicht mehr <b>____</b> <b>(seine Eltern)</b> abhängig.</li>
+<li>Ich bin <b>____</b> <b>(das Ergebnis)</b> zufrieden.</li>
+<li>Bist du <b>____</b> <b>(diese Aufgabe)</b> bereit?</li>
+<li>Sie ist <b>____</b> <b>(die deutsche Sprache)</b> interessiert.</li>
+<li>Die Stadt ist <b>____</b> <b>(ihr Nachtleben)</b> bekannt.</li>
+<li>Die an <b>____</b> <b>(diese Arbeit)</b> gewohnte Person macht es schneller.</li>
+<li>Wir sind <b>____</b> <b>(dich)</b> sehr dankbar.</li>
+</ol>
+<hr>
+<h3>Ответы и объяснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>auf unsere Mannschaft</b><ul>
+<li><b>Объяснение:</b> Прилагательное <b>stolz</b> всегда используется с предлогом <b>auf</b>, который требует Akkusativ.</li>
+</ul>
+</li>
+<li><b>von seinen Eltern</b><ul>
+<li><b>Объяснение:</b> Прилагательное <b>abhängig</b> всегда используется с предлогом <b>von</b>, который требует Dativ.</li>
+</ul>
+</li>
+<li><b>mit dem Ergebnis</b><ul>
+<li><b>Объяснение:</b> Прилагательное <b>zufrieden</b> всегда используется с предлогом <b>mit</b>, который требует Dativ.</li>
+</ul>
+</li>
+<li><b>zu dieser Aufgabe</b><ul>
+<li><b>Объяснение:</b> Прилагательное <b>bereit</b> всегда используется с предлогом <b>zu</b>, который требует Dativ.</li>
+</ul>
+</li>
+<li><b>an der deutschen Sprache</b><ul>
+<li><b>Объяснение:</b> Прилагательное <b>interessiert</b> всегда используется с предлогом <b>an</b>, который требует Dativ.</li>
+</ul>
+</li>
+<li><b>für ihr Nachtleben</b><ul>
+<li><b>Объяснение:</b> Прилагательное <b>bekannt</b> в значении &quot;известен чем-либо&quot; всегда используется с предлогом <b>für</b>, который требует Akkusativ.</li>
+</ul>
+</li>
+<li><b>an diese Arbeit</b><ul>
+<li><b>Объяснение:</b> Причастие <b>gewohnt</b> (привыкший к чему-то) используется с предлогом <b>an</b>, который в этом случае требует Akkusativ.</li>
+</ul>
+</li>
+<li><b>für dich</b><ul>
+<li><b>Объяснение:</b> Прилагательное <b>dankbar</b> всегда используется с предлогом <b>für</b>, который требует Akkusativ.</li>
+</ul>
+</li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-140","guide":{"title":"Прилагательные и причастия с предлогами","kind":"grammar","level":"C1","html":"$22","materials":[],"meta":"Недели 50-54"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

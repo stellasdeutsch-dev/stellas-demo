@@ -1,0 +1,195 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T1a01,<div class="guide-media"><a href="https://gemini.google.com/share/02a2be5d1c42" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h2><b>Как склоняются прилагательные после “einige, mehrere, viele…” — без скучных правил, но с пониманием</b></h2>
+<p>Ты уже знаешь, что в немецком окончания прилагательных зависят от того, <b>что стоит перед ними</b>.</p>
+<p>А вот с <b>неопределёнными числительными</b> вроде <i>einige, mehrere, viele, wenige, zahlreiche, folgende, verschiedene</i> есть своя фишка:</p>
+<p>они играют роль «полу-артиклей» — что-то между словом и артиклем.</p>
+<hr>
+<h3><b>1️⃣ Главная идея</b></h3>
+<p>После таких слов прилагательные <b>склоняются как без артикля</b>.</p>
+<p>То есть прилагательное берёт на себя роль главного маркера рода, числа и падежа.</p>
+<p>По сути, <b>числительное не даёт тебе готовой информации о падеже, как der/die/das</b>, поэтому прилагательному приходится «работать в полную силу».</p>
+<hr>
+<h3><b>2️⃣ Таблица окончаний</b></h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Падеж</th>
+<th>Маск.</th>
+<th>Фем.</th>
+<th>Нейтр.</th>
+<th>Pl.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>Nom.</b></td>
+<td>mehrere <b>kleine</b> Männer</td>
+<td>mehrere <b>kleine</b> Frauen</td>
+<td>mehrere <b>kleine</b> Kinder</td>
+<td>mehrere <b>kleine</b> Menschen</td>
+</tr>
+<tr>
+<td><b>Gen.</b></td>
+<td>mehrerer <b>kleiner</b> Männer</td>
+<td>mehrerer <b>kleiner</b> Frauen</td>
+<td>mehrerer <b>kleiner</b> Kinder</td>
+<td>mehrerer <b>kleiner</b> Menschen</td>
+</tr>
+<tr>
+<td><b>Dat.</b></td>
+<td>mehreren <b>kleinen</b> Männern</td>
+<td>mehreren <b>kleinen</b> Frauen</td>
+<td>mehreren <b>kleinen</b> Kindern</td>
+<td>mehreren <b>kleinen</b> Menschen</td>
+</tr>
+<tr>
+<td><b>Akk.</b></td>
+<td>mehrere <b>kleine</b> Männer</td>
+<td>mehrere <b>kleine</b> Frauen</td>
+<td>mehrere <b>kleine</b> Kinder</td>
+<td>mehrere <b>kleine</b> Menschen</td>
+</tr>
+</tbody></table></div>
+<p>📌 В <b>Nominativ</b> и <b>Akkusativ</b> в муж. и нейтр. роде — <b>-e</b>, в остальном — почти всегда <b>-en</b>.</p>
+<hr>
+<h3><b>3️⃣ Частые слова, после которых это работает</b></h3>
+<ul>
+<li><b>einige</b> — несколько</li>
+<li><b>mehrere</b> — несколько, многие</li>
+<li><b>viele</b> — много</li>
+<li><b>wenige</b> — мало</li>
+<li><b>verschiedene</b> — разные</li>
+<li><b>zahlreiche</b> — многочисленные</li>
+<li><b>folgende</b> — следующие</li>
+</ul>
+<hr>
+<h3><b>4️⃣ Примеры из реальных фраз</b></h3>
+<ul>
+<li><b>Einige neue Ideen</b> helfen uns bei diesem Projekt.<p>
+<i>(Несколько новых идей помогут нам в этом проекте.)</i>
+</p></li>
+<li><b>Mehrere große Städte</b> liegen am Rhein.<p>
+<i>(Несколько крупных городов расположены на Рейне.)</i>
+</p></li>
+<li><b>Viele interessante Bücher</b> stehen im Regal.<p>
+<i>(Много интересных книг стоит на полке.)</i>
+</p></li>
+<li><b>Wenige gute Freunde</b> bleiben für immer.<p>
+<i>(Мало хороших друзей остаются навсегда.)</i>
+</p></li>
+<li><b>Folgende wichtige Punkte</b> müssen wir besprechen.<p>
+<i>(Следующие важные пункты мы должны обсудить.)</i>
+</p></li>
+</ul>
+<hr>
+<h3><b>5️⃣ Как запомнить</b></h3>
+<ul>
+<li>После этих слов <b>артикля нет</b> → прилагательное «отдувается» само.</li>
+<li>В большинстве случаев <b>e</b> в Nom./Akk. ед.ч. муж. и ср. рода, в остальном — <b>en</b>.</li>
+<li>Если сомневаешься — почти всегда <b>en</b> будет верным выбором.</li>
+</ul>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/live/KKXEzicMMoA?si=HeqZ5NZKiZQXXfOA" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Склонение прилагательных после неопределённых числительных</h3>
+<h3>Дополните предложения, правильно склоняя прилагательные в скобках.</h3>
+<ol>
+<li>Ich habe <b>mehrere (gut)</b> Freunde.</li>
+<li><b>Einige (neu)</b> Kollegen sind sehr motiviert.</li>
+<li>Wir haben <b>viele (spannend)</b> Projekte.</li>
+<li>Ich habe <b>wenige (frisch)</b> Blumen gekauft.</li>
+<li><b>Zahlreiche (klein)</b> Details wurden übersehen.</li>
+<li>Sie hat <b>verschiedene (alt)</b> Bücher gelesen.</li>
+<li>Er hat <b>einige (wichtig)</b> Fragen gestellt.</li>
+<li><b>Folgende (interessant)</b> Informationen sind relevant.</li>
+</ol>
+<hr>
+<h3>Ответы и объяснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>gute</b><ul>
+<li><b>Объяснение:</b> <b>Mehrere</b> — Nominativ Plural. В этом случае окончание <b>e</b>.</li>
+</ul>
+</li>
+<li><b>neue</b><ul>
+<li><b>Объяснение:</b> <b>Einige</b> — Nominativ Plural. Окончание <b>e</b>.</li>
+</ul>
+</li>
+<li><b>spannende</b><ul>
+<li><b>Объяснение:</b> <b>Viele</b> — Nominativ Plural. Окончание <b>e</b>.</li>
+</ul>
+</li>
+<li><b>frische</b><ul>
+<li><b>Объяснение:</b> <b>Wenige</b> — Akkusativ Plural. Окончание <b>e</b>.</li>
+</ul>
+</li>
+<li><b>kleine</b><ul>
+<li><b>Объяснение:</b> <b>Zahlreiche</b> — Nominativ Plural. Окончание <b>e</b>.</li>
+</ul>
+</li>
+<li><b>alte</b><ul>
+<li><b>Объяснение:</b> <b>Verschiedene</b> — Akkusativ Plural. Окончание <b>e</b>.</li>
+</ul>
+</li>
+<li><b>wichtige</b><ul>
+<li><b>Объяснение:</b> <b>Einige</b> — Akkusativ Plural. Окончание <b>e</b>.</li>
+</ul>
+</li>
+<li><b>interessante</b><ul>
+<li><b>Объяснение:</b> <b>Folgende</b> — Nominativ Plural. Окончание <b>e</b>.</li>
+</ul>
+</li>
+</ol>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-138","guide":{"title":"Окончания прилагательных после неопределённых числительных","kind":"grammar","level":"C1","html":"$1c","materials":[],"meta":"Недели 50-54"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-138","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

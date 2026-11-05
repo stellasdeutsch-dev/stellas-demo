@@ -1,0 +1,163 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-082","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-082",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T20ea,<aside class="guide-callout">
+
+
+<p><b>Короткий гайд в PDF:</b> <a href="https://drive.google.com/file/d/1F0k6NLvJUP9_4G2lgXkLf7InFkfEVyy-/view" target="_blank" rel="noopener noreferrer">Reflexivpronomen im Dativ — открыть</a></p>
+</aside>
+
+
+
+
+
+<div class="guide-media"><a href="https://gemini.google.com/share/8bd086341493" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Возвратные местоимения используются в немецком языке, чтобы показать, что действие направлено на того же субъекта, который его выполняет. Они аналогичны русским местоимениям &quot;себя&quot; и &quot;себе&quot; или возвратной частице &quot;-ся&quot; в глаголах.</p>
+<hr>
+<h3><b>Основные возвратные местоимения</b></h3>
+<p>Возвратные местоимения в немецком языке изменяются по лицам и падежам (винительный и дательный). В таблице представлены все их формы:</p>
+<div class="guide-table"><table> <tr> <td> Лицо </td> <td> Akkusativ (Кого? Что?) </td> <td> Dativ (Кому? Чему?) </td> </tr> <tr> <td> ich </td> <td> mich </td> <td> mir </td> </tr> <tr> <td> du </td> <td> dich </td> <td> dir </td> </tr> <tr> <td> er/sie/es </td> <td> sich </td> <td> sich </td> </tr> <tr> <td> wir </td> <td> uns </td> <td> uns </td> </tr> <tr> <td> ihr </td> <td> euch </td> <td> euch </td> </tr> <tr> <td> sie/Sie </td> <td> sich </td> <td> sich </td> </tr> </table></div>
+
+
+
+<p><b>Важно:</b> Вежливая форма &quot;Sie&quot; всегда требует &quot;sich&quot;, но пишется со строчной буквы.</p>
+<hr>
+<h3><b>Использование возвратных местоимений</b></h3>
+<ol>
+<li><b>С возвратными глаголами</b> (обязательное употребление)<ul>
+<li><i>Ich wasche mich.</i> – Я моюсь.</li>
+<li><i>Er rasiert sich.</i> – Он бреется.</li>
+</ul>
+</li>
+<li><b>С возвратными глаголами, требующими дательного падежа</b><ul>
+<li><i>Ich wasche mir die Hände.</i> – Я мою (себе) руки.</li>
+<li><i>Sie kauft sich ein neues Kleid.</i> – Она покупает (себе) новое платье.</li>
+</ul>
+</li>
+<li><b>При выражении чувств и состояний</b><ul>
+<li><i>Ich fühle mich glücklich.</i> – Я чувствую себя счастливым.</li>
+<li><i>Er erinnert sich an den Urlaub.</i> – Он вспоминает об отпуске.</li>
+</ul>
+</li>
+<li><b>С глаголами движения и повседневными действиями</b><ul>
+<li><i>Wir setzen uns an den Tisch.</i> – Мы садимся за стол.</li>
+<li><i>Ich ziehe mich an.</i> – Я одеваюсь.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3><b>Часто используемые возвратные глаголы</b></h3>
+<p>В немецком языке многие глаголы требуют возвратного местоимения:</p>
+<ul>
+<li><b>sich freuen</b> – радоваться (<i>Ich freue mich.</i> – Я радуюсь.)</li>
+<li><b>sich interessieren für</b> – интересоваться (<i>Sie interessiert sich für Kunst.</i> – Она интересуется искусством.)</li>
+<li><b>sich erinnern an</b> – вспоминать (<i>Ich erinnere mich an meine Kindheit.</i> – Я вспоминаю своё детство.)</li>
+<li><b>sich setzen</b> – садиться (<i>Er setzt sich auf den Stuhl.</i> – Он садится на стул.)</li>
+<li><b>sich waschen</b> – умываться (<i>Ich wasche mich jeden Morgen.</i> – Я умываюсь каждое утро.)</li>
+<li><b>sich beeilen</b> – торопиться (<i>Wir müssen uns beeilen!</i> – Нам нужно торопиться!)</li>
+</ul>
+<hr>
+<h3><b>Различие между Akkusativ и Dativ</b></h3>
+<p>Выбор возвратного местоимения в винительном (Akkusativ) или дательном (Dativ) падеже зависит от наличия в предложении дополнения:</p>
+<ul>
+<li><b>Если нет дополнения, используем Akkusativ:</b><ul>
+<li><i>Ich rasiere mich.</i> – Я бреюсь.</li>
+<li><i>Sie schminkt sich.</i> – Она красится.</li>
+</ul>
+</li>
+<li><b>Если есть прямое дополнение, используем Dativ:</b><ul>
+<li><i>Ich wasche mir die Hände.</i> – Я мою (себе) руки.</li>
+<li><i>Er kauft sich ein Auto.</i> – Он покупает (себе) машину.</li>
+</ul>
+</li>
+</ul>
+<p>❌ <b>Неправильно:</b> <i>Er wäscht sich seinen Salat.</i> (Нельзя, так как &quot;Salat&quot; уже объект в Akkusativ.)<br>✅ <b>Правильно:</b> <i>Er wäscht sich die Hände.</i> (Dativ используется для выражения косвенного дополнения.)</p>
+<hr>
+<h3><b>Отличие возвратных и обычных глаголов</b></h3>
+<p>Некоторые глаголы в русском языке возвратные, но в немецком – нет:</p>
+<ul>
+<li><b>hoffen</b> – надеяться (<i>Ich hoffe auf eine gute Zukunft.</i> – Я надеюсь на хорошее будущее.)</li>
+<li><b>gefallen</b> – нравиться (<i>Das Buch gefällt mir.</i> – Книга мне нравится.)</li>
+<li><b>bewundern</b> – восхищаться (<i>Ich bewundere deine Arbeit.</i> – Я восхищаюсь твоей работой.)</li>
+</ul>
+<p>Напротив, некоторые немецкие глаголы требуют возвратного местоимения, хотя их русский аналог – нет:</p>
+<ul>
+<li><b>sich unterhalten</b> – разговаривать (<i>Wir unterhalten uns über Politik.</i> – Мы разговариваем о политике.)</li>
+<li><b>sich erholen</b> – отдыхать (<i>Wir erholen uns im Urlaub.</i> – Мы отдыхаем в отпуске.)</li>
+<li><b>sich bedanken</b> – благодарить (<i>Ich bedanke mich für das Geschenk.</i> – Я благодарю за подарок.)</li>
+</ul>
+<hr>
+<h3><b>Заключение</b></h3>
+<p>Возвратные местоимения – важная часть немецкой грамматики, особенно при изучении возвратных глаголов. Различие между Akkusativ и Dativ может показаться сложным, но практика поможет быстро разобраться. Запоминай примеры, тренируйся в речи – и немецкий станет проще! 🇩🇪🚀</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=OP0cePiSXcE" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3><b>Упражнение</b></h3>
+<p>Поставь возвратное местоимение в правильной форме (<b>Akkusativ</b> или <b>Dativ</b>).</p>
+<ol>
+<li>Ich setze  auf den Stuhl.</li>
+<li>Er wäscht  die Haare.</li>
+<li>Wir treffen  um 18 Uhr.</li>
+<li>Sie kauft  ein neues Kleid.</li>
+<li>Du musst  beeilen!</li>
+<li>Ich erinnere  an dich.</li>
+<li>Habt ihr  gut erholt?</li>
+<li>Maria freut  über das Geschenk.</li>
+<li>Ich putze  die Zähne.</li>
+<li>Peter interessiert  für Musik.</li>
+</ol>
+<hr>
+<h3><b>Ответы</b></h3><details><summary>Показать ответы</summary>
+<ol>
+<li>Ich setze <b>mich</b> auf den Stuhl.</li>
+<li>Er wäscht <b>sich</b> die Haare.</li>
+<li>Wir treffen <b>uns</b> um 18 Uhr.</li>
+<li>Sie kauft <b>sich</b> ein neues Kleid.</li>
+<li>Du musst <b>dich</b> beeilen!</li>
+<li>Ich erinnere <b>mich</b> an dich.</li>
+<li>Habt ihr <b>euch</b> gut erholt?</li>
+<li>Maria freut <b>sich</b> über das Geschenk.</li>
+<li>Ich putze <b>mir</b> die Zähne.</li>
+<li>Peter interessiert <b>sich</b> für Musik.</li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-082","guide":{"title":"Возвратное местоимение в Dativ","kind":"grammar","level":"B1","html":"$22","materials":[],"meta":"Недели 10-12"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

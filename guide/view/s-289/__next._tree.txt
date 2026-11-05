@@ -1,0 +1,7 @@
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"id","t":"d","k":"s-289","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"view","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"guide","h":96,"c":"$Q2"}]]
+0:{"b":"omUwgOKK1HY3VqOGPJEvX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

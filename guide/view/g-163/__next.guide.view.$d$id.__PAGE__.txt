@@ -1,0 +1,453 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T2fdf,<div class="guide-media"><a href="https://gemini.google.com/share/40fe8857df09" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3>Partizipialsätze — таблицы, чтобы писать короче и умнее</h3>
+<h3>Быстрый конспект</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Форма</th>
+<th>Значение</th>
+<th>Время/аспект</th>
+<th>Оттенок залога</th>
+<th>Пример (DE)</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Partizip I (P1)</td>
+<td>одновременность, способ</td>
+<td>одновременно с действием сказуемого</td>
+<td>актив</td>
+<td><b>Telefonierend</b> fuhr er weiter.</td>
+<td>Ехал, <b>разговаривая по телефону</b>.</td>
+</tr>
+<tr>
+<td>Partizip II (P2)</td>
+<td>предшествование, результат</td>
+<td>раньше основного действия / итог</td>
+<td>часто пассив</td>
+<td><b>Erschöpft</b> legte er sich hin.</td>
+<td><b>Устав</b>, он лёг.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Что заменяем (придаточные → Partizip)</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Придаточное</th>
+<th>Связь</th>
+<th>Лучше использовать</th>
+<th>Шаблон</th>
+<th>Пример (DE)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>während, indem</td>
+<td>одновременность/способ</td>
+<td><b>P1</b></td>
+<td><b>[P1],</b> + основное действие</td>
+<td><b>Langsam sprechend,</b> gewann er das Publikum.</td>
+</tr>
+<tr>
+<td>nachdem/als (Prät.)</td>
+<td>предшествование</td>
+<td><b>P2</b></td>
+<td><b>[P2],</b> + основное действие</td>
+<td><b>Gegessen,</b> begann sie zu arbeiten.</td>
+</tr>
+<tr>
+<td>weil/da</td>
+<td>причина</td>
+<td><b>P1/P2</b> + маркер причины</td>
+<td><b>Krank,</b> blieb er zu Hause. / <b>Von Fieber geschüttelt,</b> …</td>
+<td></td>
+</tr>
+<tr>
+<td>obwohl</td>
+<td>уступка</td>
+<td><b>P2</b> + маркер уступки</td>
+<td><b>[P2],</b> <b>trotzdem/dennoch</b> …</td>
+<td><b>Durchnässt,</b> gingen sie <b>trotzdem</b> spazieren.</td>
+</tr>
+<tr>
+<td>wenn/falls</td>
+<td>условие</td>
+<td><b>P2/P1</b> рамка</td>
+<td><b>Richtig eingesetzt,</b> …</td>
+<td><b>Richtig ausgewertet,</b> ergeben die Daten Einsichten.</td>
+</tr>
+<tr>
+<td>indem</td>
+<td>средство/инструмент</td>
+<td><b>P1</b></td>
+<td><b>[P1],</b> …</td>
+<td><b>Schnell handelnd,</b> verhinderte sie den Fehler.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Как образуем форму</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Форма</th>
+<th>Правило</th>
+<th>Управление</th>
+<th>Типичные прилагательные/предлоги рядом</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>P1</td>
+<td>Infinitiv + <b>-d</b></td>
+<td>сохраняет дополнения глагола</td>
+<td>leise, schnell, bewusst</td>
+<td><b>Die Zahlen prüfend</b> erklärte sie die Strategie.</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>Partizip II</td>
+<td>доп. часто через <b>von/mit/in/unter</b></td>
+<td>von Kritik, unter Druck, mit Blick auf</td>
+<td><b>Von Experten geprüft,</b> ist das Verfahren zugelassen.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Позиция и пунктуация</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Позиция группы</th>
+<th>Запятые</th>
+<th>Нюанс</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>В начале</td>
+<td>да</td>
+<td>сильный акцент</td>
+<td><b>Gut vorbereitet,</b> bestand sie die Prüfung.</td>
+</tr>
+<tr>
+<td>В середине</td>
+<td>с двух сторон</td>
+<td>уточнение</td>
+<td>Die Studie, <b>kürzlich veröffentlicht,</b> sorgte für Debatten.</td>
+</tr>
+<tr>
+<td>В конце</td>
+<td>да</td>
+<td>завершающий штрих</td>
+<td>Er verließ den Raum, <b>schweigend</b>.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Смысловые маркеры (делают связь очевидной) 🙂</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Функция</th>
+<th>Маркеры</th>
+<th>Конструкция</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Причина</td>
+<td>daher, deshalb, aus…, wegen</td>
+<td><b>[P1/P2],</b> <b>daher</b> … / <b>Aus Zeitmangel, [P2]</b> …</td>
+<td><b>Krank, daher</b> blieb er zu Hause. / <b>Aus Zeitmangel,</b> improvisierend, …</td>
+</tr>
+<tr>
+<td>Уступка</td>
+<td>trotzdem, dennoch, gleichwohl</td>
+<td><b>[P2], trotzdem</b> …</td>
+<td><b>Erschöpft, trotzdem</b> arbeitete er weiter.</td>
+</tr>
+<tr>
+<td>Условие</td>
+<td>bei, im Falle, vorausgesetzt</td>
+<td><b>Bei [Subst.], [P2]</b> …</td>
+<td><b>Bei begrenztem Budget,</b> priorisieren wir.</td>
+</tr>
+<tr>
+<td>Способ</td>
+<td>durch, mittels, ohne</td>
+<td><b>[P1]</b>, <b>ohne</b> … / <b>mittels</b> …</td>
+<td><b>Langsam sprechend,</b> <b>ohne</b> zu drängen, überzeugte er sie.</td>
+</tr>
+<tr>
+<td>Время</td>
+<td>zunächst, anschließend, zuvor</td>
+<td><b>Zuvor [P2],</b> …</td>
+<td><b>Zuvor unterschrieben,</b> trat der Vertrag in Kraft.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Типичные газетные клише</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Шаблон</th>
+<th>Смысл</th>
+<th>Где уместно</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>Mit + Subst. im P2</b></td>
+<td>фон/сопровождение</td>
+<td>репортаж, отчёт</td>
+<td><b>Mit verschärften Regeln</b> trat die Verordnung in Kraft.</td>
+</tr>
+<tr>
+<td><b>Von + Dativ + P2</b></td>
+<td>пассивный источник</td>
+<td>наука, бюрократия</td>
+<td><b>Von Experten bestätigt,</b> gilt das Verfahren als sicher.</td>
+</tr>
+<tr>
+<td><b>Adj + P2</b></td>
+<td>оценка + результат</td>
+<td>аналитика</td>
+<td><b>Sorgfältig vorbereitet,</b> verlief die Sitzung ruhig.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Атрибутивные конструкции (вместо придаточного определительного)</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Позиция</th>
+<th>Структура</th>
+<th>Эквивалент придаточного</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Перед сущ.</td>
+<td><b>[Partizip + Ergänzungen] + N</b></td>
+<td>…, <b>der/die/das …</b></td>
+<td>die <b>gestern veröffentlichte</b> Studie</td>
+</tr>
+<tr>
+<td>После сущ.</td>
+<td><b>N, [Partizip + Ergänzungen],</b></td>
+<td>…, <b>die …</b></td>
+<td>Die Mitarbeiter, <b>kürzlich entlassen,</b> …</td>
+</tr>
+<tr>
+<td>Много дополнений</td>
+<td>лучше <b>после</b> сущ.</td>
+<td>читаемость</td>
+<td>Die Option, <b>international geprüft und breit diskutiert,</b> …</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Контроль субъекта (чтобы не «висело»)</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Ситуация</th>
+<th>Можно Partizip?</th>
+<th>Почему</th>
+<th>Исправление</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Субъект общий</td>
+<td>да</td>
+<td>совпадает</td>
+<td><b>Müde,</b> arbeitete <b>er</b> weiter.</td>
+</tr>
+<tr>
+<td>Разные субъекты</td>
+<td>нет</td>
+<td>«висящее» причастие</td>
+<td>Лучше придаточное: <i>Während </i><i><b>es</b></i><i> regnete, gingen </i><i><b>sie</b></i> …</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Ошибки и как чинить</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Ошибка</th>
+<th>Почему плохо</th>
+<th>Починить</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Непонятная связь</td>
+<td>теряется логика</td>
+<td>добавь маркер: <b>daher/trotzdem/bei</b></td>
+</tr>
+<tr>
+<td>Перегруз из 3+ групп</td>
+<td>тяжело читать</td>
+<td>разбей на 2 предложения</td>
+</tr>
+<tr>
+<td>Неверная форма (P1 vs P2)</td>
+<td>временная путаница</td>
+<td>«одновременно» = <b>P1</b>, «до этого» = <b>P2</b></td>
+</tr>
+<tr>
+<td>Нет запятых</td>
+<td>синтаксическая ошибка</td>
+<td>отделяй группу запятыми</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Шаблоны для быстрого копирования</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Ситуация</th>
+<th>Шаблон</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Одновременность</td>
+<td><b>[P1],</b> + основное действие</td>
+<td><b>Lächelnd,</b> begrüßte sie das Team.</td>
+</tr>
+<tr>
+<td>Предшествование</td>
+<td><b>[P2],</b> + основное действие</td>
+<td><b>Abgelehnt,</b> stellte sie einen neuen Antrag.</td>
+</tr>
+<tr>
+<td>Причина</td>
+<td><b>Aus/Bei/ Wegen [Subst.], [P1/P2],</b> …</td>
+<td><b>Bei Zeitdruck,</b> <b>sorgfältig planend,</b> …</td>
+</tr>
+<tr>
+<td>Уступка</td>
+<td><b>[P2], trotzdem/dennoch</b> …</td>
+<td><b>Durchnässt, dennoch</b> pünktlich.</td>
+</tr>
+<tr>
+<td>Условие</td>
+<td><b>Richtig/Mehrfach [P2],</b> …</td>
+<td><b>Richtig eingesetzt,</b> wirkt die Methode sofort.</td>
+</tr>
+<tr>
+<td>Средство</td>
+<td><b>[P1]</b>, <b>ohne</b> …</td>
+<td><b>Langsam erklärend, ohne</b> zu vereinfachen, …</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Пара быстрых лайфхаков</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Цель</th>
+<th>Приём</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Сделать причинность явной</td>
+<td>добавь <b>daher/deshalb</b></td>
+<td><b>Gut vorbereitet, deshalb</b> souverän.</td>
+</tr>
+<tr>
+<td>Смягчить категоричность</td>
+<td>маркеры рамки: <b>bei, unter, mit Blick auf</b></td>
+<td><b>Unter Zeitdruck,</b> entschieden sie sich für Plan B.</td>
+</tr>
+<tr>
+<td>Сжать длинное придаточное</td>
+<td>перенеси обстоятельства к Partizip</td>
+<td><b>Im Ausland arbeitend,</b> sammelte sie Erfahrung.</td>
+</tr>
+</tbody></table></div>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/3oiWy0RuIdY?si=myWSWuvagLYlDGSb" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Замени придаточные предложения на Partizipialkonstruktionen</h3>
+<p>Преобразуй каждое предложение, используя <b>Partizip I</b> или <b>Partizip II</b>, сохраняя смысл.</p>
+<ol>
+<li>Während er die Präsentation hielt, улыбался он.</li>
+<li>Nachdem sie das Dokument unterschrieben hatte, отправила она его по почте.</li>
+<li>Weil er krank war, остался он дома.</li>
+<li>Obwohl es regnete, они пошли гулять.</li>
+<li>Wenn die Daten richtig ausgewertet werden, дают они полезные выводы.</li>
+</ol>
+<hr>
+<h3>Ответы и пояснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>Die Präsentation haltend,</b> lächelte er.<p>
+💬 Одновременность → Partizip I.
+</p></li>
+<li><b>Das Dokument unterschrieben,</b> schickte sie es per Post.<p>
+💬 Предшествование → Partizip II.
+</p></li>
+<li><b>Krank,</b> blieb er zu Hause.<p>
+💬 Причина → краткая форма с прилагательным от Partizip II (или Adj).
+</p></li>
+<li><b>Durchnässt,</b> gingen sie trotzdem spazieren.<p>
+💬 Уступка → Partizip II + маркер «trotzdem».
+</p></li>
+<li><b>Richtig ausgewertet,</b> ergeben die Daten nützliche Einsichten.<p>
+💬 Условие → Partizip II в рамочной конструкции.
+</p></li>
+</ol>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-163","guide":{"title":"Partizipialsätze: причастные предложения","kind":"grammar","level":"C1","html":"$1c","materials":[],"meta":"Недели 67-70"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-163","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

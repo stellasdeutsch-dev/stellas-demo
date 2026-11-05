@@ -1,0 +1,273 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-144","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-144",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T1e1c,<div class="guide-media"><a href="https://gemini.google.com/share/77a2818d79b0" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3>Verbindungsadverbien — магия, которая связывает твой текст</h3>
+<blockquote>
+
+
+<p>Хочешь писать сочинения, как носитель?</p>
+<p>Тогда забудь про «и», «а» и «но» на каждом шагу.</p>
+<p>Настоящая магия — в <b>Verbindungsadverbien</b>.</p>
+</blockquote>
+
+
+
+<hr>
+<h3>Что это?</h3>
+<p><b>Verbindungsadverbien</b> — это <b>союзные наречия</b>, которые:</p>
+<ul>
+<li>соединяют предложения;</li>
+<li>выражают логическую связь (причина, следствие, контраст, добавление и т.д.);</li>
+<li>стоят <b>на втором месте</b> в предложении (как нормальные члены предложения, а не как союз <i>weil</i>).</li>
+</ul>
+<p><b>Пример:</b></p>
+<p>Er hat viel gelernt. <b>Trotzdem</b> hat er die Prüfung nicht bestanden.</p>
+<p>→ <i>Он много учил. Тем не менее, не сдал.</i></p>
+<hr>
+<h3>Как это работает?</h3>
+<p>Схема:</p>
+<blockquote>
+<p>Предложение 1. Verbindungsadverb + глагол + ...</p>
+</blockquote>
+<p>⚠️ <b>Наречие → на 2-м месте → глагол сразу после него</b></p>
+<hr>
+<h3>Категории и примеры:</h3>
+<h3>Противопоставление (Kontrast)</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Немецкий</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>jedoch</b></td>
+<td>однако</td>
+</tr>
+<tr>
+<td><b>trotzdem</b></td>
+<td>тем не менее</td>
+</tr>
+<tr>
+<td><b>dennoch</b></td>
+<td>всё же</td>
+</tr>
+<tr>
+<td><b>allerdings</b></td>
+<td>впрочем</td>
+</tr>
+</tbody></table></div>
+<p><b>Пример:</b></p>
+<p>Ich war müde. <b>Dennoch</b> ging ich ins Fitnessstudio.</p>
+<p>→ <i>Я устал, но всё же пошёл в зал.</i></p>
+<hr>
+<h3>Следствие (Folge)</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Немецкий</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>deshalb</b></td>
+<td>поэтому</td>
+</tr>
+<tr>
+<td><b>darum</b></td>
+<td>по этой причине</td>
+</tr>
+<tr>
+<td><b>deswegen</b></td>
+<td>из-за этого</td>
+</tr>
+<tr>
+<td><b>infolgedessen</b></td>
+<td>вследствие этого</td>
+</tr>
+<tr>
+<td><b>demnach</b></td>
+<td>исходя из этого</td>
+</tr>
+</tbody></table></div>
+<p><b>Пример:</b></p>
+<p>Er ist krank. <b>Deshalb</b> bleibt er zu Hause.</p>
+<p>→ <i>Он болен. Поэтому остался дома.</i></p>
+<hr>
+<h3>Уточнение / добавление (Ergänzung)</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Немецкий</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>außerdem</b></td>
+<td>кроме того</td>
+</tr>
+<tr>
+<td><b>ferner</b></td>
+<td>далее</td>
+</tr>
+<tr>
+<td><b>zudem</b></td>
+<td>к тому же</td>
+</tr>
+<tr>
+<td><b>überdies</b></td>
+<td>сверх того</td>
+</tr>
+</tbody></table></div>
+<p><b>Пример:</b></p>
+<p>Sie ist intelligent. <b>Außerdem</b> spricht sie drei Sprachen.</p>
+<p>→ <i>Она умная. К тому же говорит на трёх языках.</i></p>
+<hr>
+<h3>Причина (Begründung)</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Немецкий</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>nämlich</b></td>
+<td>а именно / ведь</td>
+</tr>
+<tr>
+<td><b>deswegen</b></td>
+<td>из-за этого</td>
+</tr>
+<tr>
+<td><b>daher</b></td>
+<td>поэтому</td>
+</tr>
+</tbody></table></div>
+<p><b>Пример:</b></p>
+<p>Ich kann nicht kommen. Ich bin <b>nämlich</b> krank.</p>
+<p>→ <i>Я не могу прийти. Ведь я болен.</i></p>
+<hr>
+<h3>⏳ Хронология (Zeit)</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Немецкий</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>danach</b></td>
+<td>после этого</td>
+</tr>
+<tr>
+<td><b>dann</b></td>
+<td>затем</td>
+</tr>
+<tr>
+<td><b>zuvor</b></td>
+<td>до этого</td>
+</tr>
+<tr>
+<td><b>anschließend</b></td>
+<td>впоследствии</td>
+</tr>
+<tr>
+<td><b>inzwischen</b></td>
+<td>тем временем</td>
+</tr>
+</tbody></table></div>
+<p><b>Пример:</b></p>
+<p>Wir haben gegessen. <b>Danach</b> sind wir spazieren gegangen.</p>
+<p>→ <i>Мы поели. Потом пошли гулять.</i></p>
+<hr>
+<h3>Примени на практике</h3>
+<p>Сравни:</p>
+<p>🔴 <i>Ich war krank. Ich ging zur Arbeit.</i></p>
+<p>✅ <i>Ich war krank. </i><i><b>Trotzdem</b></i><i> ging ich zur Arbeit.</i></p>
+<p>Разница очевидна? Речь стала <b>связной</b>, <b>логичной</b>, <b>нативной</b>.</p>
+<hr>
+<h3>Трюки и советы</h3>
+<p>✅ Всегда ставь <b>Verbindungsadverb</b> на 2-е место</p>
+<p>✅ Эти наречия работают <b>как связующее звено между двумя Hauptsätze</b></p>
+<p>✅ Они часто используются <b>в формальной и письменной речи (B2–C1 level!)</b></p>
+<hr>
+<h3>Формула на экзамене:</h3>
+<blockquote>
+<p>[Hauptsatz]. Verbindungsadverb + Verb + ...</p>
+</blockquote>
+<p>💬 <i>Sie war sehr müde. Trotzdem machte sie die Präsentation fertig.</i></p>
+<hr>
+<h3>Топ-5 Verbindungsadverbien, которые тебя спасут:</h3>
+<ol>
+<li><b>trotzdem</b> — когда хочется сказать «вопреки»</li>
+<li><b>deshalb</b> — универсальное «поэтому»</li>
+<li><b>außerdem</b> — «и ещё вот это...»</li>
+<li><b>nämlich</b> — а именно</li>
+<li><b>danach</b> — чтобы выстроить рассказ</li>
+</ol>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/v4Ob1LPmwMU?si=KeB8moIvE2c-Lxlw" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение</h3>
+<p><b>Задание:</b> Соедини предложения с помощью подходящего <b>Verbindungsadverb</b> из списка:</p>
+<p>(<b>trotzdem, deshalb, außerdem, nämlich, danach</b>)</p>
+<p>Соблюдай порядок слов: наречие на 2-м месте, глагол сразу после него.</p>
+<ol>
+<li>Es hat den ganzen Tag geregnet. Wir gingen spazieren.</li>
+<li>Er hat fleißig gelernt. Er hat die Prüfung bestanden.</li>
+<li>Sie ist sehr sportlich. Sie kann gut schwimmen.</li>
+<li>Ich kann nicht teilnehmen. Ich habe heute einen Arzttermin.</li>
+<li>Wir haben Kaffee getrunken. Wir sind ins Kino gegangen.</li>
+</ol>
+<hr>
+<h3>Ответы</h3><details><summary>Показать ответы</summary>
+<ol>
+<li>Es hat den ganzen Tag geregnet. <b>Trotzdem</b> gingen wir spazieren. <i>(вопреки дождю)</i></li>
+<li>Er hat fleißig gelernt. <b>Deshalb</b> hat er die Prüfung bestanden. <i>(поэтому сдал)</i></li>
+<li>Sie ist sehr sportlich. <b>Außerdem</b> kann sie gut schwimmen. <i>(кроме того)</i></li>
+<li>Ich kann nicht teilnehmen. Ich habe heute <b>nämlich</b> einen Arzttermin. <i>(ведь у меня приём)</i></li>
+<li>Wir haben Kaffee getrunken. <b>Danach</b> sind wir ins Kino gegangen. <i>(после этого)</i></li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-144","guide":{"title":"Verbindungsadverbien: соединительные наречия","kind":"grammar","level":"C1","html":"$22","materials":[],"meta":"Недели 55-59"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

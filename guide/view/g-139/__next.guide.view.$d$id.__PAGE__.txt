@@ -1,0 +1,197 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T1d29,<div class="guide-media"><a href="https://gemini.google.com/share/0dde07894145" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h2><b>Как приручить адские окончания прилагательных после “alle, keine, solche…”</b></h2>
+<p>Ты уже знаешь, что в немецком прилагательные меняют окончания в зависимости от <b>пола</b>, <b>числа</b> и <b>падежа</b> существительного.</p>
+<p>Но вот подстава: перед существительным может стоять не только <b>der/die/das</b>, но и хитрые слова вроде <b>alle, keine, solche, welche, sämtliche</b>.</p>
+<p>И тут важно знать: <b>какое окончание прилагательного лепить</b>.</p>
+<hr>
+<h3><b>1️⃣ Кто тут главный?</b></h3>
+<p>В немецком у прилагательного есть “шеф” — <b>слово перед ним</b>. Оно и решает, какое будет окончание.</p>
+<p>Если шеф — одно из <b>alle, solche, welche…</b>, прилагательное ведёт себя <b>так же, как после определённого артикля</b> (<i>der/die/das</i>).</p>
+<p>Это называется <b>слабое склонение (schwache Deklination)</b>.</p>
+<p>💡 <b>Формула:</b></p>
+<pre><code>alle / solche / welche + Adjektiv (окончание как после der/die/das) + Substantiv
+</code></pre>
+<hr>
+<h3><b>2️⃣ Таблица, чтобы не сойти с ума</b></h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Падеж</th>
+<th>Маск.</th>
+<th>Фем.</th>
+<th>Нейтр.</th>
+<th>Pl.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>Nom.</b></td>
+<td>alle <b>schönen</b> Männer</td>
+<td>alle <b>schönen</b> Frauen</td>
+<td>alle <b>schönen</b> Kinder</td>
+<td>alle <b>schönen</b> Menschen</td>
+</tr>
+<tr>
+<td><b>Gen.</b></td>
+<td>aller <b>schönen</b> Männer</td>
+<td>aller <b>schönen</b> Frauen</td>
+<td>aller <b>schönen</b> Kinder</td>
+<td>aller <b>schönen</b> Menschen</td>
+</tr>
+<tr>
+<td><b>Dat.</b></td>
+<td>allen <b>schönen</b> Männern</td>
+<td>allen <b>schönen</b> Frauen</td>
+<td>allen <b>schönen</b> Kindern</td>
+<td>allen <b>schönen</b> Menschen</td>
+</tr>
+<tr>
+<td><b>Akk.</b></td>
+<td>alle <b>schönen</b> Männer</td>
+<td>alle <b>schönen</b> Frauen</td>
+<td>alle <b>schönen</b> Kinder</td>
+<td>alle <b>schönen</b> Menschen</td>
+</tr>
+</tbody></table></div>
+<p>📌 Почти везде <b>-en</b>, кроме пары исключений в <b>Nom. / Akk.</b> жен. рода и нейтрума — там <b>-e</b>.</p>
+<hr>
+<h3><b>3️⃣ Примеры из жизни</b></h3>
+<ul>
+<li><b>Alle schönen Orte</b> in Deutschland sollte man einmal besuchen.<p>
+<i>(Все красивые места в Германии стоит посетить хотя бы раз.)</i>
+</p></li>
+<li><b>Solche netten Nachbarn</b> findet man nicht oft.<p>
+<i>(Таких приятных соседей редко встретишь.)</i>
+</p></li>
+<li><b>Welche interessanten Bücher</b> kannst du mir empfehlen?<p>
+<i>(Какие интересные книги ты можешь мне порекомендовать?)</i>
+</p></li>
+</ul>
+<hr>
+<h3><b>4️⃣ “Keine” и компания</b></h3>
+<p>Слово <b>kein</b> и <b>все притяжательные местоимения</b> (<i>mein, dein, sein, ihr, unser, euer, Ihr</i>) — коварные.</p>
+<p>В <b>единственном числе</b> они ведут себя как <b>неопределённый артикль</b> (<i>ein/eine</i>) — это <b>смешанное склонение (gemischte Deklination)</b>.</p>
+<p>В <b>множественном числе</b> — как <b>определённый артикль</b>.</p>
+<p>📌 Формула:</p>
+<pre><code>kein + Adj. (как после ein в Sg / как после der в Pl) + Substantiv
+</code></pre>
+<p>Пример:</p>
+<ul>
+<li><b>Kein gutes Wetter</b> heute.</li>
+<li><b>Keine schönen Tage</b> im November.</li>
+</ul>
+<hr>
+<h3><b>5️⃣ Как запомнить</b></h3>
+<ul>
+<li><b>Alle / solche / welche</b> → <b>слабое склонение</b> (<i>как der</i>).</li>
+<li><b>Kein / mein / dein…</b> → <b>смешанное склонение</b> (<i>как ein в Sg / der в Pl</i>).</li>
+</ul>
+<hr>
+<h3><b>6️⃣ Лайфхак</b></h3>
+<p>Если сомневаешься в окончании — <b>ставь -en</b>. В 80% случаев это будет правильно.</p>
+<p>А уже потом выучи, где -e.</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/fbxurmkJvUQ?si=1sd5_7onVQtCXdPj" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Окончания прилагательных после &quot;alle&quot;, &quot;keine&quot;, &quot;solche&quot;</h3>
+<h3>Дополните предложения, правильно склоняя прилагательные в скобках.</h3>
+<ol>
+<li><b>Alle (neu)</b> Autos sind sehr teuer.</li>
+<li>Ich habe <b>keine (gut)</b> Freunde hier.</li>
+<li>Ich mag <b>solche (spannend)</b> Filme.</li>
+<li><b>Welche (lang)</b> Wörter kennst du?</li>
+<li>Er hat <b>sämtliche (offen)</b> Fragen beantwortet.</li>
+<li><b>Alle (schön)</b> Blumen blühen im Frühling.</li>
+<li>Er hat <b>keine (dringend)</b> Termine heute.</li>
+<li>Wir haben <b>kein (gut)</b> Wetter mehr.</li>
+</ol>
+<hr>
+<h3>Ответы и объяснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>neuen</b><ul>
+<li><b>Объяснение:</b> После <b>alle</b> в Nominativ Plural прилагательное получает окончание <b>en</b>.</li>
+</ul>
+</li>
+<li><b>guten</b><ul>
+<li><b>Объяснение:</b> После <b>keine</b> в Nominativ Plural прилагательное получает окончание <b>en</b>.</li>
+</ul>
+</li>
+<li><b>spannenden</b><ul>
+<li><b>Объяснение:</b> После <b>solche</b> в Akkusativ Plural прилагательное получает окончание <b>en</b>.</li>
+</ul>
+</li>
+<li><b>langen</b><ul>
+<li><b>Объяснение:</b> После <b>welche</b> в Nominativ Plural прилагательное получает окончание <b>en</b>.</li>
+</ul>
+</li>
+<li><b>offenen</b><ul>
+<li><b>Объяснение:</b> После <b>sämtliche</b> в Akkusativ Plural прилагательное получает окончание <b>en</b>.</li>
+</ul>
+</li>
+<li><b>schönen</b><ul>
+<li><b>Объяснение:</b> После <b>alle</b> в Nominativ Plural прилагательное получает окончание <b>en</b>.</li>
+</ul>
+</li>
+<li><b>dringenden</b><ul>
+<li><b>Объяснение:</b> После <b>keine</b> в Akkusativ Plural прилагательное получает окончание <b>en</b>.</li>
+</ul>
+</li>
+<li><b>gutes</b><ul>
+<li><b>Объяснение:</b> После <b>kein</b> в Nominativ Singular среднего рода прилагательное получает окончание <b>es</b> (смешанное склонение).</li>
+</ul>
+</li>
+</ol>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-139","guide":{"title":"Окончания прилагательных после определённых слов","kind":"grammar","level":"C1","html":"$1c","materials":[],"meta":"Недели 50-54"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-139","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T1a23,<aside class="guide-callout">
+
+
+<p><b>PDF-гайд для телефона:</b> <a href="https://drive.google.com/open?id=1MswuY7jyFXe4SVN5JQConQ8uFN8EUfrX" target="_blank" rel="noopener noreferrer">weil · da · obwohl — скачать PDF</a></p>
+</aside>
+
+
+
+
+
+<div class="guide-media"><a href="https://gemini.google.com/share/ce06765cbf6d" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h2><b>1. Союзы „weil“ и „da“</b></h2>
+<div class="guide-table"><table> <tr> <td> <b>Союз</b> </td> <td> <b>Перевод</b> </td> <td> <b>Когда используется?</b> </td> <td> <b>Пример</b> </td> </tr> <tr> <td> <b>weil</b> </td> <td> потому что </td> <td> Причина <b>новая</b> для собеседника. </td> <td> <b>Ich bleibe zu Hause, weil ich krank bin.</b>Я остаюсь дома, потому что болен. </td> </tr> <tr> <td> <b>da</b> </td> <td> так как </td> <td> Причина уже <b>известна</b> или логически очевидна. </td> <td> <b>Da ich krank bin, bleibe ich zu Hause.</b>Так как я болен, я остаюсь дома. </td> </tr> </table></div>
+
+
+
+<p>📌 <b>Разница между weil и da:</b></p>
+<ul>
+<li><b>„weil“ чаще используется в разговорной речи.</b></li>
+<li><b>„da“ обычно стоит в начале предложения и встречается в письменной речи.</b></li>
+</ul>
+<p>🔹 <b>Примеры:</b></p>
+<p>✔ <b>Ich kann nicht kommen, weil ich arbeiten muss.</b></p>
+<p>✔ <b>Da ich arbeiten muss, kann ich nicht kommen.</b></p>
+<hr>
+<h2><b>2. Порядок слов</b></h2>
+<p>В придаточных предложениях с <b>weil/da</b> <b>глагол стоит в конце</b>.</p>
+<div class="guide-table"><table> <tr> <td> <b>Структура</b> </td> <td> <b>Пример</b> </td> </tr> <tr> <td> Главное + , + weil/da + Подлежащее + Дополнение + <b>Глагол в конце</b> </td> <td> <b>Ich bleibe zu Hause, weil ich krank bin.</b> </td> </tr> <tr> <td> Da + Подлежащее + Дополнение + Глагол в конце, + Главное </td> <td> <b>Da es regnet, nehmen wir einen Regenschirm.</b> </td> </tr> </table></div>
+
+
+
+<hr>
+<h2><b>3. Придаточные с „weil“ в разговорной речи</b></h2>
+<p>В неформальном разговоре немцы <b>часто используют „weil“ без подчинённого порядка слов</b>, но это считается <b>грамматически неправильным</b>.</p>
+<p>🔹 <b>Говорят:</b></p>
+<p>❌ <b>Ich bleibe zu Hause, weil ich bin krank.</b></p>
+<p>🔹 <b>Правильно:</b></p>
+<p>✔ <b>Ich bleibe zu Hause, weil ich krank bin.</b></p>
+<hr>
+<h2><b>4. Союз „obwohl“ (хотя)</b></h2>
+<p><b>„Obwohl“</b> – союз противопоставления. В отличие от „weil“, он не объясняет причину, а подчёркивает неожиданность или контраст между двумя событиями.</p>
+<div class="guide-table"><table> <tr> <td> <b>Союз</b> </td> <td> <b>Перевод</b> </td> <td> <b>Пример</b> </td> </tr> <tr> <td> <b>obwohl</b> </td> <td> хотя, несмотря на то что </td> <td> <b>Ich gehe ins Kino, obwohl ich müde bin.</b>(Я иду в кино, хотя устал.) </td> </tr> </table></div>
+
+
+
+<p>📌 <b>Порядок слов:</b></p>
+<p>В предложении с <b>„obwohl“</b> глагол <b>всегда стоит в конце</b>:</p>
+<p>✔ <b>Er arbeitet viel, obwohl er krank ist.</b></p>
+<p>✔ <b>Ich bin gekommen, obwohl ich keine Zeit hatte.</b></p>
+<hr>
+<h2><b>5. Сравнение weil, da и obwohl</b></h2>
+<div class="guide-table"><table> <tr> <td> <b>Союз</b> </td> <td> <b>Перевод</b> </td> <td> <b>Где стоит в предложении?</b> </td> <td> <b>Зачем используется?</b> </td> </tr> <tr> <td> <b>weil</b> </td> <td> потому что </td> <td> После главного </td> <td> <b>Причина неизвестна</b> </td> </tr> <tr> <td> <b>da</b> </td> <td> так как </td> <td> В начале предложения </td> <td> <b>Причина известна</b> </td> </tr> <tr> <td> <b>obwohl</b> </td> <td> хотя, несмотря на </td> <td> В начале или после главного </td> <td> <b>Противопоставление</b> </td> </tr> </table></div>
+
+
+
+<p>🔹 <b>Примеры:</b></p>
+<p>✔ <b>Ich bleibe zu Hause, weil ich müde bin.</b> (<i>новая причина для собеседника</i>)</p>
+<p>✔ <b>Da ich müde bin, bleibe ich zu Hause.</b> (<i>причина уже известна</i>)</p>
+<p>✔ <b>Ich gehe ins Kino, obwohl ich müde bin.</b> (<i>контраст – я устал, но всё равно иду в кино</i>)</p>
+<hr>
+<h2><b>6. Итог</b></h2>
+<p>✅ <b>weil</b> – причина <b>неизвестна</b>, разговорный стиль.</p>
+<p>✅ <b>da</b> – причина <b>уже известна</b>, официально.</p>
+<p>✅ <b>obwohl</b> – контраст, несмотря на что-то.</p>
+<p>✅ <b>Глагол всегда в конце!</b></p>
+<p>Теперь никакой путаницы! 🚀</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=T3QdoxddycM" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3><b>Упражнение</b></h3>
+<p>Вставь правильный союз: <b>weil</b>, <b>da</b> или <b>obwohl</b>.</p>
+<ol>
+<li>Ich nehme einen Regenschirm, ___ es regnet.</li>
+<li>___ ich krank bin, bleibe ich zu Hause.</li>
+<li>Er geht joggen, ___ er müde ist.</li>
+<li>Wir bleiben im Büro, ___ wir noch viel Arbeit haben.</li>
+<li>___ es schon spät ist, fahren wir jetzt nach Hause.</li>
+<li>Ich esse kein Eis, ___ ich Halsschmerzen habe.</li>
+<li>Sie geht spazieren, ___ es kalt ist.</li>
+<li>___ ich keine Zeit habe, kann ich nicht kommen.</li>
+<li>Er fährt nicht zur Arbeit, ___ sein Auto kaputt ist.</li>
+<li>Ich gehe ins Kino, ___ ich den Film schon gesehen habe.</li>
+</ol>
+<hr>
+<h3><b>Ответы</b></h3><details><summary>Показать ответы</summary>
+<ol>
+<li>weil</li>
+<li>Da</li>
+<li>obwohl</li>
+<li>weil</li>
+<li>Da</li>
+<li>weil</li>
+<li>obwohl</li>
+<li>Da</li>
+<li>weil</li>
+<li>obwohl</li>
+</ol>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-066","guide":{"title":"Придаточные с weil, da, obwohl","kind":"grammar","level":"B1","html":"$1c","materials":[],"meta":"Недели 4-6"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-066","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

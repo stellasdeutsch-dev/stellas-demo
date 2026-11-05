@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T1332,<div class="guide-media"><a href="https://gemini.google.com/share/b214555a41df" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p><b>Partizipien → Существительные?</b></p>
+<p>Да, и это ЛЕГАЛЬНО! Немцы делают из причастий настоящие существительные — и ты тоже можешь 🚀</p>
+<p>Если ты уже знаешь, что <b>lesen → der Lesende</b>, а <b>verwundet → der Verwundete</b>, но не уверен, как это работает — этот гайд тебя спасёт.</p>
+<hr>
+<h3>Что вообще происходит?</h3>
+<p>👉 Немцы <b>субстантивируют причастия</b> — превращают их в <b>существительные</b>.</p>
+<p>Ты берёшь <b>Partizip I или II</b>, добавляешь <b>артикль</b>, и оно становится живым грамматическим существом 😎</p>
+<hr>
+<h3>💡 Быстрое напоминание:</h3>
+<div class="guide-table"><table> <tr> <td> Partizip I </td> <td> 👉 Пример: <i>laufend</i> </td> <td> Значение: действующий (тот, кто делает что-то сейчас) </td> </tr> <tr> <td> Partizip II </td> <td> 👉 Пример: <i>verletzt</i> </td> <td> Значение: страдательный (тот, с кем уже сделали что-то) </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>🧱 Формула:</h3>
+<p><b>Artikel + Partizip + (Flexion)</b> → Существительное</p>
+<p>✅ Склоняется как прилагательное</p>
+<p>✅ Пишется <b>с заглавной буквы</b></p>
+<p>✅ Имеет <b>род и число</b> — определяется по контексту</p>
+<hr>
+<h3>🔥 Примеры в действии</h3>
+<div class="guide-table"><table> <tr> <td> 📍 Причастие </td> <td> 💥 Субстантивированное </td> <td> 💬 Перевод </td> </tr> <tr> <td> lesend </td> <td> <b>der Lesende</b> </td> <td> читающий (человек) </td> </tr> <tr> <td> reisend </td> <td> <b>die Reisende</b> </td> <td> путешествующая (женщина) </td> </tr> <tr> <td> verwundet </td> <td> <b>der Verwundete</b> </td> <td> раненый </td> </tr> <tr> <td> geschlossen </td> <td> <b>das Geschlossene</b> </td> <td> закрытое (что-то абстрактное) </td> </tr> <tr> <td> gewonnen </td> <td> <b>das Gewonnene</b> </td> <td> выигранное </td> </tr> </table></div>
+
+
+
+<p>📌 Они работают как обычные существительные в предложении:</p>
+<blockquote>
+
+
+<p>Ich spreche mit dem Verletzten.</p>
+<p>(Я говорю с раненым.)</p>
+</blockquote>
+
+
+
+
+
+<blockquote>
+
+
+<p>Die Reisende wartet auf ihren Zug.</p>
+<p>(Путешественница ждёт свой поезд.)</p>
+</blockquote>
+
+
+
+<hr>
+<h3>⚠️ ВАЖНО: они склоняются!</h3>
+<p>Вот краткий шаблон для склонения как прилагательных с определённым артиклем:</p>
+<div class="guide-table"><table> <tr> <td> Kasus </td> <td> Maskulin (der Lesende) </td> <td> Feminin (die Lesende) </td> <td> Neutrum (das Gelesene) </td> <td> Plural (die Lesenden) </td> </tr> <tr> <td> Nominativ </td> <td> der Lesende </td> <td> die Lesende </td> <td> das Gelesene </td> <td> die Lesenden </td> </tr> <tr> <td> Akkusativ </td> <td> den Lesenden </td> <td> die Lesende </td> <td> das Gelesene </td> <td> die Lesenden </td> </tr> <tr> <td> Dativ </td> <td> dem Lesenden </td> <td> der Lesenden </td> <td> dem Gelesenen </td> <td> den Lesenden </td> </tr> <tr> <td> Genitiv </td> <td> des Lesenden </td> <td> der Lesenden </td> <td> des Gelesenen </td> <td> der Lesenden </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>
+ Когда использовать Partizip как существительное?
+</h3>
+
+
+
+<div class="guide-table"><table> <tr> <td> 🛠 Ситуация </td> <td> 💬 Пример </td> </tr> <tr> <td> Когда <b>говоришь о человеке</b> по действию </td> <td> <b>Der Studierende</b> muss viele Prüfungen schreiben. </td> </tr> <tr> <td> Когда хочешь <b>избежать глагола</b> </td> <td> <b>Das Geschriebene</b> war unverständlich. </td> </tr> <tr> <td> Когда нужно <b>абстрактное понятие</b> </td> <td> <b>Das Gesagte</b> zählt mehr als das Geschriebene. </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>🧪 Проверь себя:</h3>
+<ol>
+<li>Кто такой <i>der Arbeitende</i>?</li>
+<li>Как будет &quot;помогающая женщина&quot; — с артиклем и склонением?</li>
+<li>Что значит <i>das Erlebte</i>?</li>
+</ol>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-106","guide":{"title":"Причастия как существительные","kind":"grammar","level":"B2","html":"$1c","materials":[],"meta":"Недели 25-28"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-106","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

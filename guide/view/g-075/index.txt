@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-075","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-075",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T2335,<div class="guide-media"><a href="https://gemini.google.com/share/7868b0c00cd2" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Кажется, что модальные глаголы – это просто: <b>„müssen“ – значит „должен“, „dürfen“ – значит „можно“</b>. Но потом появляются их формы <b>„musste/müsste“ и „durfte/dürfte“</b>, и тут уже приходится разбираться, потому что эти слова <b>могут обозначать не только прошлое, но и возможность, предположение и даже вежливость</b>.</p>
+<p>Итак, <b>musste ≠ müsste, а durfte ≠ dürfte</b> – давайте разберёмся, в чём разница.</p>
+<hr>
+<h2><b>1. Разница между „musste“ и „müsste“</b></h2>
+<h3><b>🔹 Musste (Präteritum от „müssen“) – „было необходимо“</b></h3>
+<p>Используется, когда в <b>прошлом</b> кто-то <b>должен был что-то сделать по необходимости или обязательству</b>.</p>
+<div class="guide-table"><table> <tr> <td> <b>Пример</b> </td> <td> <b>Перевод</b> </td> </tr> <tr> <td> <b>Ich musste gestern lange arbeiten.</b> </td> <td> <i>Вчера мне пришлось долго работать.</i> </td> </tr> <tr> <td> <b>Er musste früh aufstehen.</b> </td> <td> <i>Ему нужно было рано вставать.</i> </td> </tr> <tr> <td> <b>Wir mussten das Buch lesen.</b> </td> <td> <i>Мы должны были прочитать книгу.</i> </td> </tr> </table></div>
+
+
+
+<p>📌 <b>Musste</b> = <i>обязательство или необходимость в прошлом</i>.</p>
+<hr>
+<h3><b>🔹 Müsste (Konjunktiv II от „müssen“) – „должно быть“, „возможно, придётся“</b></h3>
+<p>Используется, когда мы <b>предполагаем необходимость или говорим о гипотетической ситуации в настоящем или будущем</b>.</p>
+<div class="guide-table"><table> <tr> <td> <b>Пример</b> </td> <td> <b>Перевод</b> </td> </tr> <tr> <td> <b>Ich müsste bald nach Hause gehen.</b> </td> <td> <i>Мне, возможно, скоро придётся идти домой.</i> </td> </tr> <tr> <td> <b>Wenn du mir hilfst, müsste ich nicht alles alleine machen.</b> </td> <td> <i>Если бы ты мне помог, мне не пришлось бы всё делать самому.</i> </td> </tr> <tr> <td> <b>Er müsste jetzt schon angekommen sein.</b> </td> <td> <i>Он, должно быть, уже приехал.</i> </td> </tr> </table></div>
+
+
+
+<p>📌 <b>Müsste</b> = <i>возможная необходимость, гипотетическая ситуация, вежливая рекомендация</i>.</p>
+<p>⚠ <b>Частая ошибка:</b></p>
+<p>🚫 <b>Ich müsste gestern arbeiten.</b> (<i>неправильно!</i>)</p>
+<p>✅ <b>Ich musste gestern arbeiten.</b> (<i>Я должен был работать вчера.</i>)</p>
+<hr>
+<h2><b>2. Разница между „durfte“ и „dürfte“</b></h2>
+<h3><b>Durfte (Präteritum от „dürfen“) – „имел разрешение“</b></h3>
+<p>Используется, когда <b>в прошлом что-то было разрешено или возможно</b>.</p>
+<div class="guide-table"><table> <tr> <td> <b>Пример</b> </td> <td> <b>Перевод</b> </td> </tr> <tr> <td> <b>Als Kind durfte ich nie lange aufbleiben.</b> </td> <td> <i>В детстве мне никогда не разрешали долго не спать.</i> </td> </tr> <tr> <td> <b>Er durfte alleine nach Hause gehen.</b> </td> <td> <i>Ему разрешили пойти домой одному.</i> </td> </tr> <tr> <td> <b>Wir durften den Zoo kostenlos besuchen.</b> </td> <td> <i>Нам разрешили бесплатно посетить зоопарк.</i> </td> </tr> </table></div>
+
+
+
+<p>📌 <b>Durfte</b> = <i>разрешение или запрет в прошлом</i>.</p>
+<hr>
+<h3><b>Dürfte (Konjunktiv II от „dürfen“) – „может быть разрешено“, „возможно“</b></h3>
+<p>Используется, когда мы <b>выражаем предположение, сомнение или вежливую просьбу</b>.</p>
+<div class="guide-table"><table> <tr> <td> <b>Пример</b> </td> <td> <b>Перевод</b> </td> </tr> <tr> <td> <b>Er dürfte schon zu Hause sein.</b> </td> <td> <i>Он, вероятно, уже дома.</i> </td> </tr> <tr> <td> <b>Ich dürfte meinen Schlüssel verloren haben.</b> </td> <td> <i>Я, возможно, потерял свой ключ.</i> </td> </tr> <tr> <td> <b>Dürfte ich bitte mal Ihr Telefon benutzen?</b> </td> <td> <i>Могу ли я воспользоваться вашим телефоном?</i> (вежливо) </td> </tr> </table></div>
+
+
+
+<p>📌 <b>Dürfte</b> = <i>вежливость, предположение, вероятность</i>.</p>
+<p>⚠ <b>Частая ошибка:</b></p>
+<p>🚫 <b>Ich dürfte gestern ins Kino gehen.</b> (<i>неправильно!</i>)</p>
+<p>✅ <b>Ich durfte gestern ins Kino gehen.</b> (<i>Мне разрешили пойти в кино вчера.</i>)</p>
+<hr>
+<h2><b>3. Главное различие в одной таблице</b></h2>
+<div class="guide-table"><table> <tr> <td> <b>Форма</b> </td> <td> <b>Время</b> </td> <td> <b>Значение</b> </td> <td> <b>Пример</b> </td> </tr> <tr> <td> <b>musste</b> </td> <td> Präteritum </td> <td> Было необходимо </td> <td> Ich musste früh aufstehen. (<i>Мне нужно было рано вставать.</i>) </td> </tr> <tr> <td> <b>müsste</b> </td> <td> Konjunktiv II </td> <td> Должно быть, возможно придётся </td> <td> Ich müsste bald nach Hause gehen. (<i>Мне, возможно, скоро придётся идти домой.</i>) </td> </tr> <tr> <td> <b>durfte</b> </td> <td> Präteritum </td> <td> Было разрешено </td> <td> Ich durfte gestern ins Kino gehen. (<i>Мне разрешили пойти в кино вчера.</i>) </td> </tr> <tr> <td> <b>dürfte</b> </td> <td> Konjunktiv II </td> <td> Возможно, вероятно, вежливость </td> <td> Er dürfte schon zu Hause sein. (<i>Он, вероятно, уже дома.</i>) </td> </tr> </table></div>
+
+
+
+<hr>
+<h2><b>4. Как быстро запомнить разницу?</b></h2>
+<p>📌 <b>Если речь о прошлом → musste / durfte</b> (<i>Я должен был / мне разрешили</i>)</p>
+<p>📌 <b>Если речь о предположениях, гипотетических ситуациях или вежливости → müsste / dürfte</b> (<i>Мне, возможно, придётся / Он, вероятно, уже дома / Могу ли я…?</i>)</p>
+<hr>
+<h3><b>5. Итог</b></h3>
+<p>✅ <b>Musste</b> → необходимость в прошлом (<i>Я должен был…</i>).</p>
+<p>✅ <b>Müsste</b> → гипотетическая необходимость, предположение (<i>Мне, возможно, придётся…</i>).</p>
+<p>✅ <b>Durfte</b> → разрешение в прошлом (<i>Мне разрешили…</i>).</p>
+<p>✅ <b>Dürfte</b> → предположение, вероятность, вежливая форма (<i>Он, вероятно, уже дома.</i>).</p>
+<p>Теперь, когда эти формы больше не кажутся одинаковыми, можно смело использовать их в речи! 🚀</p>
+<h3><b>Упражнение: Musste, Müsste, Durfte oder Dürfte?</b></h3>
+<p>Вставь правильную форму: <b>musste</b>, <b>müsste</b>, <b>durfte</b> или <b>dürfte</b>.</p>
+<ol>
+<li>Als Kind ___ ich immer früh ins Bett gehen.</li>
+<li>Er ___ jetzt schon angekommen sein.</li>
+<li>Ich ___ gestern viel arbeiten.</li>
+<li>___ ich Sie kurz sprechen?</li>
+<li>Wir ___ früher nie alleine reisen.</li>
+<li>Ich ___ heute eigentlich früher nach Hause gehen, aber ich habe noch viel zu tun.</li>
+<li>Er ___ gestern bis spät bleiben.</li>
+<li>Sie ___ ihre Hausaufgaben machen, sonst bekommt sie Ärger.</li>
+<li>Ich ___ meinen Schlüssel verloren haben.</li>
+<li>Du ___ gestern das Formular ausfüllen.</li>
+</ol>
+<hr>
+<h3><b>Ответы</b></h3><details><summary>Показать ответы</summary>
+<ol>
+<li>musste</li>
+<li>dürfte</li>
+<li>musste</li>
+<li>Dürfte</li>
+<li>durften</li>
+<li>müsste</li>
+<li>durfte</li>
+<li>müsste</li>
+<li>dürfte</li>
+<li>musstest</li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-075","guide":{"title":"musste и müsste, durfte и dürfte","kind":"grammar","level":"B1","html":"$22","materials":[],"meta":"Недели 7-9"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

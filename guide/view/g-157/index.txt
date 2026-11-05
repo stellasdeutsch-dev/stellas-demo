@@ -1,0 +1,215 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-157","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-157",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T1cf7,<h2>Indirekte Rede: Fragen und Imperativ</h2>
+<h2>как пересказать чужие слова — и звучать умнее, чем оригинал</h2>
+<blockquote>
+
+
+<p>Ты хочешь сказать, что кто-то что-то сказал,</p>
+<p>но не хочешь тупо цитировать.</p>
+<p>Тогда в ход идёт <b>косвенная речь</b>:</p>
+<p><b>„Sie fragte, ob...“</b>,</p>
+<p><b>„Er sagte, ich solle...“</b></p>
+<p>И ты уже не просто говоришь — ты передаёшь информацию на C1.</p>
+</blockquote>
+
+
+
+<hr>
+<h2>Что такое indirekte Rede?</h2>
+<p>Косвенная речь — это <b>пересказ</b> того, что было сказано, без прямых цитат.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Прямая речь</th>
+<th>Косвенная речь</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>„Kommst du morgen?“</td>
+<td>Sie fragte, <b>ob</b> ich morgen käme.</td>
+</tr>
+<tr>
+<td>„Lies das Buch!“</td>
+<td>Der Lehrer sagte, ich <b>solle</b> das Buch lesen.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>1. Indirekte Fragen</h2>
+<p>Чтобы передать <b>вопрос</b>, нам нужно:</p>
+<ul>
+<li>глагол-сказуемое (fragen, wissen wollen, sich erkundigen…)</li>
+<li>вопросительное слово (ob, wann, warum, wie, wo...)</li>
+<li>порядок слов как в конце (глагол уходит в конец)</li>
+<li>чаще всего — <b>Konjunktiv I</b>, реже — II</li>
+</ul>
+<h3>Ja/Nein-Fragen → mit <b>ob</b></h3>
+<p><b>Пример:</b></p>
+<p>„Kommst du morgen?“</p>
+<p>→ Sie fragte, <b>ob ich morgen käme.</b></p>
+<hr>
+<h3>W-Fragen → mit Fragewort</h3>
+<p><b>Пример:</b></p>
+<p>„Warum bist du müde?“</p>
+<p>→ Er wollte wissen, <b>warum ich müde sei.</b></p>
+<p>„Wann beginnt der Kurs?“</p>
+<p>→ Sie fragte, <b>wann der Kurs beginne.</b></p>
+<hr>
+<h2>Конструкция:</h2>
+<blockquote>
+<p>Verb + , ob / wann / warum... + Subjekt + Rest + Verb (am Ende)</p>
+</blockquote>
+<p><b>Глаголы, с которыми часто строится:</b></p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Глагол</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>fragen</td>
+<td>спрашивать</td>
+</tr>
+<tr>
+<td>wissen wollen</td>
+<td>хотеть знать</td>
+</tr>
+<tr>
+<td>sich erkundigen</td>
+<td>осведомляться</td>
+</tr>
+<tr>
+<td>sich interessieren, wie</td>
+<td>интересоваться</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>2. Indirekter Imperativ</h2>
+<p>Повелительное наклонение в косвенной речи передаётся через:</p>
+<ul>
+<li><b>sollen</b> — нейтральная просьба</li>
+<li><b>mögen</b> — вежливая просьба</li>
+<li><b>müssen</b> — настоятельное требование</li>
+<li><b>nicht sollen / nicht dürfen</b> — запрет</li>
+</ul>
+<h3>Прямая речь:</h3>
+<p>„Rufen Sie mich an!“</p>
+<p>→ Er bat mich, <b>ich solle ihn anrufen.</b></p>
+<hr>
+<h3>Формула:</h3>
+<blockquote>
+<p>Er sagte / meinte / forderte, ich solle / müsse / dürfe …</p>
+</blockquote>
+<hr>
+<h3>Примеры:</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Прямая речь</th>
+<th>Косвенная речь</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>„Schicken Sie die Bewerbung!“</td>
+<td>Sie sagte, <b>ich solle die Bewerbung schicken.</b></td>
+</tr>
+<tr>
+<td>„Lesen Sie die Studienordnung.“</td>
+<td>Sie riet mir, <b>ich möge die Studienordnung lesen.</b></td>
+</tr>
+<tr>
+<td>„Kommen Sie pünktlich!“</td>
+<td>Sie forderte, <b>ich müsse pünktlich kommen.</b></td>
+</tr>
+<tr>
+<td>„Lassen Sie sich nicht entmutigen!“</td>
+<td>Sie sagte, <b>ich solle mich nicht entmutigen lassen.</b></td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>Что ещё нужно знать?</h2>
+<ul>
+<li>В письменной речи чаще Konjunktiv I</li>
+<li>В разговорной — можно использовать Indikativ, если понятно, что речь передаётся</li>
+<li>Важно сохранять лицо, время и контекст</li>
+</ul>
+<hr>
+<h2>Лайфхаки:</h2>
+<ul>
+<li>Вопрос без вопросительного слова → <b>ob</b></li>
+<li>Конец предложения = глагол</li>
+<li>Повелительное → <b>sollen/müssen/mögen</b> в Konjunktiv I</li>
+<li>Не забывай: <b>kein вопросительный порядок</b> в косвенном вопросе</li>
+</ul>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/fSntdA-DThI?si=ohMSxIFwBZtaktIM" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3><b>Упражнение: Пересказ чужих слов</b></h3>
+<p>Представьте, что вы находитесь в кафе и слушаете разговоры за соседним столиком. Ваша задача — пересказать услышанное, используя косвенную речь.</p>
+<p><b>Задание:</b> Преобразуйте следующие фразы из прямой речи в косвенную. Не забудьте использовать <b>Konjunktiv I</b>.</p>
+<ol>
+<li>Wann kommt der Zug an? – спросил один человек.</li>
+<li>Lassen Sie die Tür offen! – попросил другой.</li>
+<li>Warum bist du nicht zur Party gekommen? – поинтересовался третий.</li>
+<li>Können Sie mir bitte helfen? – спросила девушка.</li>
+</ol>
+<hr>
+<h3><b>Правильные ответы и объяснения</b></h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>Er fragte, wann der Zug ankomme.</b><ul>
+<li><b>Объяснение:</b> Это <b>W-Frage</b> (вопрос с вопросительным словом), поэтому мы используем это же слово (<b>wann</b>). Глагол-сказуемое (<b>ankomme</b>) уходит в конец предложения.</li>
+</ul>
+</li>
+<li><b>Er bat, ich solle die Tür offen lassen.</b><ul>
+<li><b>Объяснение:</b> Это <b>Imperativ</b> (повелительное наклонение), поэтому мы используем модальный глагол <b>sollen</b> в <b>Konjunktiv I</b> для передачи просьбы.</li>
+</ul>
+</li>
+<li><b>Er wollte wissen, warum ich nicht zur Party gekommen sei.</b><ul>
+<li><b>Объяснение:</b> Здесь снова <b>W-Frage</b> (<b>warum</b>). Глагол-сказуемое (<b>sei</b>) уходит в конец. Мы используем <b>wollen wissen</b> для передачи &quot;поинтересовался&quot;.</li>
+</ul>
+</li>
+<li><b>Sie fragte, ob er ihr bitte helfen könne.</b><ul>
+<li><b>Объяснение:</b> Это <b>Ja/Nein-Frage</b> (вопрос, на который можно ответить &quot;да&quot; или &quot;нет&quot;), поэтому мы используем союз <b>ob</b>. Глагол (<b>könne</b>) отправляем в конец предложения.</li>
+</ul>
+</li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-157","guide":{"title":"Косвенная речь: вопросы и повелительное наклонение","kind":"grammar","level":"C1","html":"$22","materials":[],"meta":"Недели 60-66"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

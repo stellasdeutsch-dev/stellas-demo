@@ -1,0 +1,286 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T25bf,<div class="guide-media"><a href="https://gemini.google.com/share/5a2f76cafb2b" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3>1. Präsens – настоящее время, которое рулит! 🚀</h3>
+<p>В немецком языке нет отдельного варианта для текущего, будущего или исторического времени – <b>Präsens</b> всё охватывает. Хотите описать, что происходит прямо сейчас, что происходит регулярно или даже сказать, что будет завтра? Просто используйте Präsens!</p>
+<hr>
+<h3>2. Когда применять Präsens? Разбираем кейсы</h3>
+<p>Präsens – настоящий мастер на все руки. Вот несколько ситуаций, когда оно приходит на помощь:</p>
+<ul>
+<li><b>Текущее действие</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Georgiana isst heute Spaghetti Bolognese.</p>
+<p>  (Джорджиана сегодня ест спагетти болоньезе.)</p>
+<p>  <i>Сигнальные слова:</i> <b>jetzt, gerade</b></p>
+</blockquote>
+
+
+<ul>
+<li><b>Повторяющееся событие</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Georgiana geht jeden Montag zum Karate.</p>
+<p>  (Джорджиана ходит на карате каждый понедельник.)</p>
+<p>  <i>Сигнальные слова:</i> <b>jeden Montag, jeden Morgen</b></p>
+</blockquote>
+
+
+<ul>
+<li><b>Устойчивое состояние</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Georgiana ist seit letzter Woche krank.</p>
+<p>  (Джорджиана болеет с прошлой недели.)</p>
+<p>  <i>Сигнальное слово:</i> <b>seit</b></p>
+</blockquote>
+
+
+<ul>
+<li><b>Общепринятые факты</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Deutschland hat 16 Bundesländer.</p>
+<p>  (Германия насчитывает 16 федеральных земель.)</p>
+</blockquote>
+
+
+<ul>
+<li><b>Будущие события</b> (если план уже чёткий)</li>
+</ul>
+<blockquote>
+
+
+<p>  Nach meinem Studium mache ich ein Volontariat in einer Werbeagentur.</p>
+<p>  (После учёбы я буду стажировать в рекламном агентстве.)</p>
+</blockquote>
+
+
+<ul>
+<li><b>Историческое настоящее</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Die Titanic sinkt am 15. April 1912 gegen 2:20 Uhr.</p>
+<p>  (Титаник затонул около 2:20 ночи 15 апреля 1912 года.)</p>
+<p>  <i>Почему так ярко? Потому что история оживает!</i></p>
+</blockquote>
+
+
+
+<hr>
+<h3>3. Как образуется Präsens – простота в каждом глаголе</h3>
+<p>Первый шаг – определить, с каким глаголом вы имеете дело: <b>слабый</b> или <b>сильный</b>.</p>
+<h3>Слабые глаголы – стандартное спряжение</h3>
+<p>Берём инфинитив, отбрасываем окончание <b>-en</b> и добавляем личное окончание:</p>
+<blockquote>
+
+
+<p>Пример с gehen (идти):</p>
+<ul>
+<li><b>ich gehe</b></li>
+<li><b>du gehst</b></li>
+<li><b>er/sie/es geht</b></li>
+<li><b>wir gehen</b></li>
+<li><b>ihr geht</b></li>
+<li><b>sie/Sie gehen</b></li>
+</ul>
+</blockquote>
+
+
+
+<h3>Сильные глаголы – чуть больше волшебства</h3>
+<p>У них во 2-м и 3-м лице единственного числа часто меняется корневая гласная.</p>
+<blockquote>
+
+
+<p>Пример с essen (есть):</p>
+<ul>
+<li><b>ich esse</b></li>
+<li><b>du isst</b></li>
+<li><b>er/sie/es isst</b></li>
+<li><b>wir essen</b></li>
+<li><b>ihr esst</b></li>
+<li><b>sie/Sie essen</b></li>
+</ul>
+</blockquote>
+
+
+
+<p>Также обратите внимание на глаголы <b>fahren</b> и подобные – в них гласная может превращаться в умлаут (a → ä):</p>
+<blockquote>
+<p>ich fahre – du fährst – er fährt</p>
+</blockquote>
+<hr>
+<h3>4. Особые случаи и исключения – запомни их, чтобы не попасть в ловушку!</h3>
+<p>В немецком языке есть <b>исключения</b>, которые не вписываются в стандартную схему спряжения:</p>
+<ul>
+<li><b>Глаголы на -s, -ß, -ss или -z</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Пример: lesen</p>
+<ul>
+<li><b>ich lese</b></li>
+<li><b>du liest</b> (обрати внимание, что добавление –t опускается или модифицируется)</li>
+</ul>
+</blockquote>
+
+
+<ul>
+<li><b>Глаголы, основа которых заканчивается на t или d</b><p>
+Здесь в Präsens во 2-м и 3-м лице единственного числа добавляется дополнительное <b>e</b> для удобства произношения.
+</p></li>
+</ul>
+<blockquote>
+
+
+<p>  Пример: arbeiten</p>
+<ul>
+<li><b>ich arbeite</b></li>
+<li><b>du arbeitest</b></li>
+<li><b>er arbeitet</b></li>
+</ul>
+</blockquote>
+
+
+<ul>
+<li><b>Глаголы с окончанием -eln или -ern</b><p>
+В некоторых формах буква <b>e</b> может опускаться, а окончание <b>-n</b> уже служит личным окончанием.
+</p></li>
+</ul>
+<blockquote>
+
+
+<p>  Пример: bedauern</p>
+<ul>
+<li><b>ich bedauere</b></li>
+<li><b>du bedauerst</b></li>
+<li><b>wir bedauern</b></li>
+</ul>
+</blockquote>
+
+
+
+<p>Запомните: исключений много, но они не настолько страшны, как могут показаться. Просто старайтесь практиковаться, и скоро эти нюансы станут для вас естественными!</p>
+<hr>
+<h3>Итог</h3>
+<p><b>Präsens – настоящая сила немецкой грамматики:</b></p>
+<ul>
+<li>Оно описывает текущее, повторяющееся, общее, будущие и даже исторические события!</li>
+<li>Формируется по чётким правилам для слабых глаголов и по своим «магическим» правилам для сильных.</li>
+<li>Исключения? Да, они есть, но их можно запомнить и не переживать!</li>
+</ul>
+<p><b>Вывод:</b></p>
+<p>В мире немецкого языка Präsens – это ваш верный спутник. Не бойтесь экспериментировать, используйте сигнальные слова, запоминайте особенности спряжения и делайте ошибки – так учиться проще!</p>
+<p><b>Вперёд, к новым языковым вершинам!</b> 👊</p>
+<hr>
+<blockquote>
+<p>Подсказка: Практикуйте спряжение, составляйте таблицы для слабых и сильных глаголов, и уже скоро немецкий Präsens будет звучать у вас как родной!</p>
+</blockquote>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=IU1jX_ov79s" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения</h3>
+<div class="guide-media"><a href="https://talkpal.ai/ru/grammar_exercises/prasens-%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%B9-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8/" target="_blank" rel="noopener noreferrer">talkpal.ai</a></div>
+
+
+
+
+
+<div class="guide-media"><a href="https://infourok.ru/test-po-nemeckomu-yaziku-nastoyaschee-vremya-prsens-2558955.html" target="_blank" rel="noopener noreferrer">infourok.ru</a></div>
+
+
+
+
+
+<h3>Упражнение</h3>
+<hr>
+<p>Поставь глагол в Präsens. Потом сверяйся с ответами ниже.</p>
+<ol>
+<li>Ich (essen) jeden Morgen Müsli.</li>
+<li>Du (fahren) heute zur Arbeit mit dem Rad.</li>
+<li>Georgiana (arbeiten) seit letzter Woche von zu Hause.</li>
+<li>Wir (gehen) jeden Montag ins Fitnessstudio.</li>
+<li>Er (lesen) gerade ein interessantes Buch.</li>
+</ol>
+<hr>
+<h3>Ответы</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>Ich esse jeden Morgen Müsli.</b></li>
+<li><b>Du fährst heute zur Arbeit mit dem Rad.</b></li>
+<li><b>Georgiana arbeitet seit letzter Woche von zu Hause.</b></li>
+<li><b>Wir gehen jeden Montag ins Fitnessstudio.</b></li>
+<li><b>Er liest gerade ein interessantes Buch.</b></li>
+</ol>
+<hr>
+</details><h3>Разбор коротко и прямо</h3>
+<ol>
+<li><b>essen</b> - сильный глагол. Только du и er меняют корень, ich остается essen.</li>
+<li><b>fahren</b> - умлаут появляется в du, поэтому fährst.</li>
+<li><b>arbeiten</b> - глагол на t. Для удобства er arbeitet с дополнительным e.</li>
+<li><b>gehen</b> - слабый глагол. Чистое стандартное спряжение.</li>
+<li><b>lesen</b> - корневая гласная меняется в er, поэтому liest.</li>
+</ol>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-017","guide":{"title":"Präsens: настоящее время","kind":"grammar","level":"A1","html":"$1c","materials":[],"meta":"Недели 5-6"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-017","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

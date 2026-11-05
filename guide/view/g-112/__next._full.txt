@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-112","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-112",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T1ab8,<div class="guide-media"><a href="https://gemini.google.com/share/ea6cebb48934" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p><b>ГЛАГОЛЫ СТАЛИ СУЩЕСТВИТЕЛЬНЫМИ?!</b></p>
+<p>Что такое СУБСТАНТИВАЦИЯ и зачем она тебе в немецком</p>
+<p>Ты думал, инфинитив — это просто &quot;machen&quot;, &quot;schlafen&quot;, &quot;essen&quot;?</p>
+<p>А немцы такие: «<i>Warte mal</i>… давай сделаем из этого существительное!»</p>
+<p>Добро пожаловать в мир <b>субстантивации</b> — когда глаголы, прилагательные и даже междометия надевают костюм существительного.Что такое субстантивация?</p>
+<hr>
+<blockquote>
+
+
+<p>Substantivierung = превращение любой части речи в существительное</p>
+<p>Ставишь перед словом <b>артикль</b>, пишешь его с <b>заглавной</b>, и — та-дам! — у тебя уже <b>существительное среднего рода</b>.</p>
+</blockquote>
+
+
+
+<hr>
+<h3>Формула для глаголов</h3>
+<aside class="guide-callout">
+
+
+<p>Инфинитив + артикль <b>das</b> = <b>отглагольное существительное</b></p>
+</aside>
+
+
+
+<p>📌 Оно всегда среднего рода</p>
+<p>📌 Обозначает процесс или результат действия</p>
+<p>📌 Склоняется как обычное существительное</p>
+<div class="guide-table"><table> <tr> <td> 🔨 Глагол </td> <td> 🚀 Существительное </td> <td> 💬 Перевод </td> </tr> <tr> <td> grillen </td> <td> <b>das Grillen</b> </td> <td> приготовление на гриле </td> </tr> <tr> <td> essen </td> <td> <b>das Essen</b> </td> <td> еда / приём пищи / блюдо </td> </tr> <tr> <td> schlafen gehen </td> <td> <b>das Schlafengehen</b> </td> <td> отход ко сну </td> </tr> <tr> <td> lesen </td> <td> <b>das Lesen</b> </td> <td> чтение </td> </tr> <tr> <td> schreiben </td> <td> <b>das Schreiben</b> </td> <td> написание / письмо </td> </tr> </table></div>
+
+
+
+<p>📌 Пример:</p>
+<blockquote>
+
+
+<p>Nico soll die Tabletten nach dem Essen nehmen.</p>
+<p>(Нико должен принять таблетки <b>после еды</b>.)</p>
+</blockquote>
+
+
+
+<hr>
+<h3>🔥 НЕ ТОЛЬКО ГЛАГОЛЫ!</h3>
+<p>Немцы субстантивируют всё, что видят. Вот ещё, что можно превратить в существительное:</p>
+<hr>
+<h3>1️⃣ <b>Прилагательные</b></h3>
+<p>Ставим артикль → получаем человека или абстрактное понятие</p>
+<div class="guide-table"><table> <tr> <td> 🎯 Прилагательное </td> <td> 🧱 Субстантивация </td> <td> 💬 Пример </td> </tr> <tr> <td> alt </td> <td> <b>der Alte</b> </td> <td> старик </td> </tr> <tr> <td> neu </td> <td> <b>das Neue</b> </td> <td> новое (что-то) </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>2️⃣ <b>Причастия</b> (Partizip I/II)</h3>
+<div class="guide-table"><table> <tr> <td> 🔨 Глагол </td> <td> ➕ Причастие </td> <td> 🚀 Существительное </td> <td> 🧠 Значение </td> </tr> <tr> <td> reisen </td> <td> reisend </td> <td> <b>der Reisende</b> </td> <td> путешественник </td> </tr> <tr> <td> lesen </td> <td> lesend </td> <td> <b>der Lesende</b> </td> <td> читающий </td> </tr> <tr> <td> verwunden </td> <td> verwundet </td> <td> <b>der Verwundete</b> </td> <td> раненый (человек) </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>3️⃣ <b>Числительные</b></h3>
+<div class="guide-table"><table> <tr> <td> 🔢 Число </td> <td> 📍 Существительное </td> <td> 💬 Значение </td> </tr> <tr> <td> sieben </td> <td> <b>die Sieben</b> </td> <td> семёрка (цифра) </td> </tr> <tr> <td> sechzig </td> <td> <b>der Sechziger</b> </td> <td> мужчина 60+ </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>4️⃣ <b>Союзы и частицы</b></h3>
+<p>Да-да, даже “и” и “но” можно субстантивировать. Немцы и это смогли.</p>
+<div class="guide-table"><table> <tr> <td> 🧩 Слово </td> <td> 💡 Значение </td> </tr> <tr> <td> <b>das Und</b> </td> <td> "и" как объект (в дизайне, тексте) </td> </tr> <tr> <td> <b>das Aber</b> </td> <td> "но", часто как отговорка или замечание </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>5️⃣ <b>Междометия</b></h3>
+<div class="guide-table"><table> <tr> <td> Междометие </td> <td> 🚀 Субстантивация </td> </tr> <tr> <td> ach </td> <td> <b>das Ach</b> </td> </tr> <tr> <td> oi </td> <td> <b>das Oi</b> </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>Зачем это нужно?</h3>
+<p>📌 Выражать <b>процесс действия</b> без глагола</p>
+<p>📌 Делать речь <b>красивой и академичной</b></p>
+<p>📌 Понимать официальные и письменные тексты</p>
+<hr>
+<h2>Сравнение:</h2>
+<div class="guide-table"><table> <tr> <td> 🔨 Глагол </td> <td> 📄 Субстантивация </td> <td> 🤔 Значение </td> </tr> <tr> <td> schreiben </td> <td> <b>das Schreiben</b> </td> <td> процесс написания <b>или</b> письмо </td> </tr> <tr> <td> essen </td> <td> <b>das Essen</b> </td> <td> приём пищи <b>или</b> готовое блюдо </td> </tr> </table></div>
+
+
+
+<p>Один и тот же инфинитив = разный смысл в контексте.</p>
+<hr>
+<h3>ИТОГ</h3>
+<p><b>Substantivierung</b> = мощный навык, который:</p>
+<p>✅ Делает речь богаче</p>
+<p>✅ Помогает понимать сложные тексты</p>
+<p>✅ Даёт тебе суперсилу создавать <b>существительные из всего</b></p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=opeOycHiexo" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения</h3>
+<div class="guide-media"><a href="https://ifu-institut.at/ru/online-lernen/grammatik/grammatikbungen-zu-dem-thema-31-a2" target="_blank" rel="noopener noreferrer">ifu-institut.at</a></div>13:["$","$L21",null,{"id":"g-112","guide":{"title":"Субстантивация глаголов","kind":"grammar","level":"B2","html":"$22","materials":[],"meta":"Недели 29-32"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

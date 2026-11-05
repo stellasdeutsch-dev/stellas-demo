@@ -1,0 +1,169 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-022","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-022",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T1e27,<div class="guide-media"><a href="https://gemini.google.com/share/48d92fc7ae0d" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+
+
+<aside class="guide-callout">
+
+
+<p>Stellas - онлайн курсы немецкого языка</p>
+</aside>
+
+
+
+<p>Выучить порядок слов в вопросах на немецком — важный шаг в изучении языка. Разберём, как задавать вопросы, какие типы существуют, и какие правила применяются.</p>
+<hr>
+<h3><b>Виды вопросов на немецком</b></h3>
+<p>1️⃣ <b>Общие вопросы (Ja/Nein-Fragen):</b></p>
+<p>Вопросы без вопросительного слова. Ответить можно «да» или «нет».</p>
+<p>Пример:</p>
+<ul>
+<li><b>Gehst du?</b> — Ты идёшь?<br>Порядок слов:<b>Глагол</b> → на 1 месте, <b>подлежащее</b> → на 2 месте, далее всё остальное.</li>
+</ul>
+<div class="guide-table"><table> <tr> <td> <b>Сказуемое</b> </td> <td> <b>Подлежащее</b> </td> <td> <b>Остальное</b> </td> </tr> <tr> <td> Gehst </td> <td> du </td> <td> ? </td> </tr> <tr> <td> Ist </td> <td> das </td> <td> ein Tisch? </td> </tr> </table></div>
+
+
+
+<p>Если сказуемое состоит из двух частей:</p>
+<ul>
+<li><b>V1 (спрягаемая часть)</b> — на первом месте.</li>
+<li><b>V2 (неизменяемая часть)</b> — в конце.</li>
+</ul>
+<p>Примеры:</p>
+<ul>
+<li><b>Kann ich heute arbeiten?</b> — Я могу сегодня работать?</li>
+<li><b>Habe ich viel zu tun?</b> — Мне много нужно сделать?</li>
+</ul>
+<hr>
+<p>2️⃣ <b>Дополнительные вопросы (W-Fragen):</b></p>
+<p>Такие вопросы начинаются с вопросительного слова (<i>W-Wort</i>) и требуют развёрнутого ответа.</p>
+<p>Пример:</p>
+<ul>
+<li><b>Wann kommst du?</b> — Когда ты придёшь?<br>Порядок слов:<b>W-слово</b> → на 1 месте, <b>глагол</b> → на 2 месте, <b>подлежащее</b> → на 3 месте.</li>
+</ul>
+<div class="guide-table"><table> <tr> <td> <b>W-слово</b> </td> <td> <b>Сказуемое</b> </td> <td> <b>Подлежащее</b> </td> <td> <b>Остальное</b> </td> </tr> <tr> <td> Wann </td> <td> gehst </td> <td> du </td> <td> ? </td> </tr> <tr> <td> Warum </td> <td> ist </td> <td> dieser Tisch </td> <td> schön? </td> </tr> </table></div>
+
+
+
+<p>Если сказуемое составное:</p>
+<ul>
+<li>W-слово → V1 → подлежащее → V2 в конце.<br>Пример: <b>Wie kann ich heute arbeiten?</b></li>
+</ul>
+<hr>
+<p>3️⃣ <b>Альтернативные вопросы:</b></p>
+<p>Вопросы с союзом <b>oder</b> (&quot;или&quot;). Они уточняют и позволяют выбрать из вариантов.</p>
+<p>Примеры:</p>
+<ul>
+<li><b>Gehst du spazieren oder gehst du nicht?</b> — Ты пойдёшь гулять или нет?</li>
+<li><b>Ist das ein Tisch, oder?</b> — Это стол, не так ли?</li>
+</ul>
+<p><b>Oder</b> может быть:</p>
+<ul>
+<li>В середине вопроса, соединяя две части.</li>
+<li>В конце предложения, как уточнение.</li>
+</ul>
+<p>Порядок слов не меняется.</p>
+<hr>
+<p>4️⃣ <b>Комбинированные вопросы:</b></p>
+<p>Это вопросы, которые объединяют несколько конструкций.</p>
+<p>Пример:</p>
+<ul>
+<li><b>Könnten Sie bitte sagen, wie spät es ist?</b><br>(Вы не могли бы сказать, который час?)</li>
+</ul>
+<p>Порядок слов:</p>
+<ol>
+<li>Первая часть — общий вопрос.</li>
+<li>Вторая часть — косвенный вопрос (глагол в конце).</li>
+</ol>
+<hr>
+<h3><b>Ключевые моменты</b></h3>
+<ul>
+<li>Если есть W-слово, то порядок: W-слово → глагол → подлежащее → остальное.</li>
+<li>Если W-слова нет, то порядок: глагол → подлежащее → остальное.</li>
+<li><b>Oder</b> добавляет уточнение, но не влияет на порядок слов.</li>
+<li>Отрицание (<i>nicht</i>) остаётся на месте, независимо от типа вопроса.</li>
+</ul>
+<hr>
+<p><b>Хотите задавать вопросы по-немецки без путаницы?</b></p>
+<p>Запишитесь на курсы в Deutsch Online, где вы научитесь разбираться в грамматике и говорить уверенно. Занятия проходят с носителями языка и сертифицированными преподавателями. Места ограничены, начните учиться уже сегодня! 😊</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/gGU4_K7PKCI?si=0Djcc4dwTm49gRaO" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Составь вопросы на немецком</h3>
+<p>Переделайте утвердительные предложения в вопросы разных типов: <b>Ja/Nein-Fragen, W-Fragen, альтернативные вопросы</b>.</p>
+<ol>
+<li>Du gehst morgen ins Kino. (Ja/Nein-Frage)</li>
+<li>Er arbeitet am Samstag im Büro. (W-Frage: Wann)</li>
+<li>Sie trinkt Kaffee oder Tee. (Alternativfrage)</li>
+<li>Du kannst mir heute helfen. (Ja/Nein-Frage с модальным глаголом)</li>
+<li>Wir fahren nächste Woche nach Berlin. (W-Frage: Wohin)</li>
+</ol>
+<hr>
+<h3>
+Ответы с объяснениями 
+</h3><details><summary>Показать ответы</summary>
+
+<ol>
+<li><b>Gehst du morgen ins Kino?</b><ul>
+<li><i>Объяснение:</i> Ja/Nein-Frage → глагол <b>gehst</b> на первом месте → подлежащее <b>du</b> второе → остальные члены предложения.</li>
+</ul>
+</li>
+<li><b>Wann arbeitet er am Samstag im Büro?</b><ul>
+<li><i>Объяснение:</i> W-Frage → W-слово <b>Wann</b> первое → глагол <b>arbeitet</b> второе → подлежащее <b>er</b> третье → остальное предложение после.</li>
+</ul>
+</li>
+<li><b>Trinkt sie Kaffee oder Tee?</b><ul>
+<li><i>Объяснение:</i> Альтернативный вопрос → глагол <b>trinkt</b> на первом месте → подлежащее <b>sie</b> второе → варианты через <b>oder</b>.</li>
+</ul>
+</li>
+<li><b>Kannst du mir heute helfen?</b><ul>
+<li><i>Объяснение:</i> Ja/Nein-Frage с модальным глаголом → модальный глагол <b>kannst</b> на первом месте → подлежащее <b>du</b> второе → инфинитив <b>helfen</b> в конце.</li>
+</ul>
+</li>
+<li><b>Wohin fahren wir nächste Woche?</b><ul>
+<li><i>Объяснение:</i> W-Frage → W-слово <b>Wohin</b> первое → глагол <b>fahren</b> второе → подлежащее <b>wir</b> третье → остальные члены предложения после.</li>
+</ul>
+</li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-022","guide":{"title":"Как задавать вопросы","kind":"grammar","level":"A1","html":"$22","materials":[],"meta":"Недели 5-6"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

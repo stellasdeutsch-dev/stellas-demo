@@ -1,0 +1,457 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T47d0,<h2>Артикли в немецком языке</h2><div class="guide-media"><a href="https://gemini.google.com/share/0499a8d372d5" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+
+
+<aside class="guide-callout">
+
+
+<p>Stellas - онлайн курсы немецкого</p>
+</aside>
+
+
+
+<p>В немецком языке не бывает просто &quot;стола&quot; или &quot;дерева&quot;. Это либо <i>ein Tisch</i> (какой-то стол), либо <i>der Tisch</i> (тот самый стол). Вот почему артикли — это неотъемлемая часть языка, и их правильное использование требует понимания и практики.</p>
+<hr>
+<h3><b>Виды артиклей в немецком языке</b></h3>
+<ol>
+<li><b>Определённые артикли (der, die, das):</b><p>
+Указывают на конкретный или уже известный предмет.
+</p></li>
+<li><b>Неопределённые артикли (ein, eine):</b><p>
+Используются, если объект упоминается впервые или он неопределён.
+</p></li>
+<li><b>Нулевой артикль (Nullartikel):</b><p>
+Используется в ситуациях, когда артикль не требуется.
+</p></li>
+</ol>
+<hr>
+<h2><b>Склонение артиклей</b></h2>
+<h3>Определённые артикли:</h3>
+<div class="guide-table"><table> <tr> <td> <b>Род</b> </td> <td> <b>Nominativ</b> </td> <td> <b>Akkusativ</b> </td> <td> <b>Dativ</b> </td> <td> <b>Genitiv</b> </td> </tr> <tr> <td> Мужской (<b>m</b>) </td> <td> der </td> <td> den </td> <td> dem </td> <td> des </td> </tr> <tr> <td> Средний (<b>n</b>) </td> <td> das </td> <td> das </td> <td> dem </td> <td> des </td> </tr> <tr> <td> Женский (<b>f</b>) </td> <td> die </td> <td> die </td> <td> der </td> <td> der </td> </tr> <tr> <td> Множественное число </td> <td> die </td> <td> die </td> <td> den </td> <td> der </td> </tr> </table></div>
+
+
+
+<h3>Неопределённые артикли:</h3>
+<div class="guide-table"><table> <tr> <td> <b>Род</b> </td> <td> <b>Nominativ</b> </td> <td> <b>Akkusativ</b> </td> <td> <b>Dativ</b> </td> <td> <b>Genitiv</b> </td> </tr> <tr> <td> Мужской (<b>m</b>) </td> <td> ein </td> <td> einen </td> <td> einem </td> <td> eines </td> </tr> <tr> <td> Средний (<b>n</b>) </td> <td> ein </td> <td> ein </td> <td> einem </td> <td> eines </td> </tr> <tr> <td> Женский (<b>f</b>) </td> <td> eine </td> <td> eine </td> <td> einer </td> <td> einer </td> </tr> <tr> <td> Множественное число </td> <td> — </td> <td> — </td> <td> — </td> <td> — </td> </tr> </table></div>
+
+
+
+<hr>
+<h3><b>Когда использовать определённый или неопределённый артикль?</b></h3>
+<h3><b>1️⃣ Определённый артикль (der, die, das):</b></h3>
+<p>Используется, когда:</p>
+<ul>
+<li>Предмет уже известен или упоминался ранее:<p>
+<i>Ich habe ein Buch. Das Buch ist interessant.</i> — У меня есть книга. Эта книга интересная.
+</p></li>
+<li>Речь идёт о чём-то конкретном или уникальном:<p>
+<i>Die Sonne scheint.</i> — Солнце светит.
+</p></li>
+<li>При указании на совокупность или обобщение:<p>
+<i>Der Mensch ist, was er isst.</i> — Человек — это то, что он ест.
+</p></li>
+</ul>
+<hr>
+<h3><b>2️⃣ Неопределённый артикль (ein, eine):</b></h3>
+<p>Используется, когда:</p>
+<ul>
+<li>Предмет упоминается впервые:<p>
+<i>Ich habe eine Idee!</i> — У меня есть идея!
+</p></li>
+<li>В значении &quot;один из&quot;:<p>
+<i>Ich kenne ein gutes Restaurant.</i> — Я знаю один хороший ресторан.
+</p></li>
+<li>С глаголами <i>haben, brauchen, es gibt</i>:<p>
+<i>Es gibt ein Problem.</i> — Есть одна проблема.
+</p>
+
+<p>
+<i>Wir brauchen eine Lösung.</i> — Нам нужно решение.
+</p></li>
+<li>В сравнениях с союзом <b>wie</b> (как):<p>
+<i>Er ist stark wie ein Löwe.</i> — Он силён, как лев.
+</p></li>
+</ul>
+<hr>
+<h3><b>Когда артикль не нужен?</b></h3>
+<ol>
+<li><b>Род занятий, профессии, национальности:</b><p>
+<i>Ich bin Lehrer.</i> — Я учитель.
+</p>
+
+<p>
+<i>Sie arbeitet als Ärztin.</i> — Она работает врачом.
+</p></li>
+<li><b>Чувства, вещества, материалы, абстрактные понятия:</b><p>
+<i>Ich habe Hunger.</i> — Я голоден.
+</p>
+
+<p>
+<i>Die Tasche ist aus Leder.</i> — Сумка из кожи.
+</p></li>
+<li><b>Обобщения и не поддающиеся исчислению понятия:</b><p>
+<i>Die Deutschen trinken Bier.</i> — Немцы пьют пиво.
+</p>
+
+<p>
+<i>Jeder Mensch braucht Liebe.</i> — Каждому человеку нужна любовь.
+</p></li>
+<li><b>Газетные заголовки, команды, телеграммы:</b><p>
+<i>Hände hoch!</i> — Руки вверх!
+</p>
+
+<p>
+<i>Haus zu verkaufen.</i> — Продаётся дом.
+</p></li>
+<li><b>Названия времён суток и дней недели:</b><p>
+<i>Es ist Abend.</i> — Вечер.
+</p>
+
+<p>
+<i>Heute ist Mittwoch.</i> — Сегодня среда.
+</p></li>
+</ol>
+<hr>
+<h3><b>Имена, города и страны</b></h3>
+<ol>
+<li><p><b>Имена:</b></p>
+<p>
+Обычно артикль не нужен:
+</p>
+
+<p>
+<i>Auf Klaus ist Verlass.</i> — На Клауса можно положиться.
+</p>
+
+<p>
+Однако в разговорной речи артикль добавляется для оживления:
+</p>
+
+<p>
+<i>Weißt du, wo der Klaus ist?</i> — Ты знаешь, где этот Клаус?
+</p></li>
+<li><p><b>Названия стран и городов:</b></p>
+<p>
+Большинство стран и городов употребляются без артикля:
+</p>
+
+<p>
+<i>Ich fliege nach Österreich.</i> — Я лечу в Австрию.
+</p>
+
+<p>
+Но есть исключения:
+</p>
+
+<ul>
+<li>Женский род: <i>die Schweiz, die Ukraine</i>.</li>
+<li>Мужской род: <i>der Iran, der Sudan</i>.</li>
+</ul>
+<p>
+С определением или прилагательным артикль добавляется:
+</p>
+
+<p>
+<i>das schöne Paris</i> — прекрасный Париж.
+</p></li>
+</ol>
+<hr>
+<h3><b>Полезные примеры</b></h3>
+<ol>
+<li><b>Определённый артикль:</b><p>
+<i>Die Katze schläft.</i> — Эта кошка спит.
+</p>
+
+<p>
+<i>Der Tisch ist kaputt.</i> — Этот стол сломан.
+</p></li>
+<li><b>Неопределённый артикль:</b><p>
+<i>Ich sehe eine Katze.</i> — Я вижу кошку.
+</p>
+
+<p>
+<i>Da steht ein Mann.</i> — Там стоит мужчина.
+</p></li>
+<li><b>Без артикля:</b><p>
+<i>Ich bin Student.</i> — Я студент.
+</p>
+
+<p>
+<i>Die Tasche ist aus Stoff.</i> — Сумка из ткани.
+</p></li>
+</ol>
+<hr>
+<h3><b>Совет для изучающих</b></h3>
+<p>Для освоения артиклей повторяйте таблицы ежедневно, проговаривайте примеры вслух и составляйте свои предложения. А главное — не бойтесь делать ошибки, потому что практикой вы доведёте использование артиклей до автоматизма!</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=1-W5W8R3WV0" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения</h3>
+<div class="guide-media"><a href="https://talkpal.ai/ru/grammar_exercises/artikel-%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%B9-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8/" target="_blank" rel="noopener noreferrer">talkpal.ai</a></div>
+
+
+
+
+
+<h2>Упражнение: Определи артикль</h2>
+<p>Вставь правильный артикль (определённый, неопределённый или нулевой) в пропуски:</p>
+<ol>
+<li>Ich sehe ___ Hund im Garten.</li>
+<li>___ Sonne scheint heute sehr stark.</li>
+<li>Er hat ___ Idee, die wir besprechen müssen.</li>
+<li>Wir trinken gern ___ Kaffee am Morgen.</li>
+<li>Sie arbeitet als ___ Ärztin im Krankenhaus.</li>
+<li>Da steht ___ Tisch und ___ Stuhl daneben.</li>
+<li>Ich fliege nach ___ Schweiz im Sommer.</li>
+<li>___ Katze schläft auf dem Sofa.</li>
+<li>Er ist stark wie ___ Löwe.</li>
+<li>Ich brauche ___ Problem gelöst.</li>
+</ol>
+<hr>
+<h3>Ответы:</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>einen</b> — Мужской, Akkusativ, неопределённый, потому что «видеть кого? что?» — Hund.</li>
+<li><b>Die</b> — Женский, Nominativ, определённый, солнце уникальное, уже известное.</li>
+<li><b>eine</b> — Женский, Nominativ, неопределённый, идея упоминается впервые.</li>
+<li><b>—</b> (нулевой) — кофе неисчисляемый, без артикля.</li>
+<li><b>—</b> (нулевой) — профессия, артикль не нужен.</li>
+<li><b>ein, ein</b> — оба неопределённые, предметы упоминаются впервые.</li>
+<li><b>die</b> — Женский, название страны с артиклем.</li>
+<li><b>Die</b> — Женский, Nominativ, определённый, кошка конкретная.</li>
+<li><b>einem</b> — Мужской, Dativ, сравнение с Löwe, употребляется неопределённый артикль.</li>
+<li><b>ein</b> — Средний, Nominativ, неопределённый, одно из множества проблем, упоминается впервые.</li>
+</ol>
+</details><hr><h2>Артикли в немецком языке - Больше</h2><aside class="guide-callout">
+
+
+<p>Stellas - онлайн курсы немецкого</p>
+</aside>
+
+
+
+<p>В немецком языке не бывает просто &quot;стола&quot; или &quot;дерева&quot;. Это либо <i>ein Tisch</i> (какой-то стол), либо <i>der Tisch</i> (тот самый стол). Вот почему артикли — это неотъемлемая часть языка, и их правильное использование требует понимания и практики.</p>
+<hr>
+<h3><b>Виды артиклей в немецком языке</b></h3>
+<ol>
+<li><b>Определённые артикли (der, die, das):</b><p>
+Указывают на конкретный или уже известный предмет.
+</p></li>
+<li><b>Неопределённые артикли (ein, eine):</b><p>
+Используются, если объект упоминается впервые или он неопределён.
+</p></li>
+<li><b>Нулевой артикль (Nullartikel):</b><p>
+Используется в ситуациях, когда артикль не требуется.
+</p></li>
+</ol>
+<hr>
+<h2><b>Склонение артиклей</b></h2>
+<h3>Определённые артикли:</h3>
+<div class="guide-table"><table> <tr> <td> <b>Род</b> </td> <td> <b>Nominativ</b> </td> <td> <b>Akkusativ</b> </td> <td> <b>Dativ</b> </td> <td> <b>Genitiv</b> </td> </tr> <tr> <td> Мужской (<b>m</b>) </td> <td> der </td> <td> den </td> <td> dem </td> <td> des </td> </tr> <tr> <td> Средний (<b>n</b>) </td> <td> das </td> <td> das </td> <td> dem </td> <td> des </td> </tr> <tr> <td> Женский (<b>f</b>) </td> <td> die </td> <td> die </td> <td> der </td> <td> der </td> </tr> <tr> <td> Множественное число </td> <td> die </td> <td> die </td> <td> den </td> <td> der </td> </tr> </table></div>
+
+
+
+<h3>Неопределённые артикли:</h3>
+<div class="guide-table"><table> <tr> <td> <b>Род</b> </td> <td> <b>Nominativ</b> </td> <td> <b>Akkusativ</b> </td> <td> <b>Dativ</b> </td> <td> <b>Genitiv</b> </td> </tr> <tr> <td> Мужской (<b>m</b>) </td> <td> ein </td> <td> einen </td> <td> einem </td> <td> eines </td> </tr> <tr> <td> Средний (<b>n</b>) </td> <td> ein </td> <td> ein </td> <td> einem </td> <td> eines </td> </tr> <tr> <td> Женский (<b>f</b>) </td> <td> eine </td> <td> eine </td> <td> einer </td> <td> einer </td> </tr> <tr> <td> Множественное число </td> <td> — </td> <td> — </td> <td> — </td> <td> — </td> </tr> </table></div>
+
+
+
+<hr>
+<h3><b>Когда использовать определённый или неопределённый артикль?</b></h3>
+<h3><b>1️⃣ Определённый артикль (der, die, das):</b></h3>
+<p>Используется, когда:</p>
+<ul>
+<li>Предмет уже известен или упоминался ранее:<p>
+<i>Ich habe ein Buch. Das Buch ist interessant.</i> — У меня есть книга. Эта книга интересная.
+</p></li>
+<li>Речь идёт о чём-то конкретном или уникальном:<p>
+<i>Die Sonne scheint.</i> — Солнце светит.
+</p></li>
+<li>При указании на совокупность или обобщение:<p>
+<i>Der Mensch ist, was er isst.</i> — Человек — это то, что он ест.
+</p></li>
+</ul>
+<hr>
+<h3><b>2️⃣ Неопределённый артикль (ein, eine):</b></h3>
+<p>Используется, когда:</p>
+<ul>
+<li>Предмет упоминается впервые:<p>
+<i>Ich habe eine Idee!</i> — У меня есть идея!
+</p></li>
+<li>В значении &quot;один из&quot;:<p>
+<i>Ich kenne ein gutes Restaurant.</i> — Я знаю один хороший ресторан.
+</p></li>
+<li>С глаголами <i>haben, brauchen, es gibt</i>:<p>
+<i>Es gibt ein Problem.</i> — Есть одна проблема.
+</p>
+
+<p>
+<i>Wir brauchen eine Lösung.</i> — Нам нужно решение.
+</p></li>
+<li>В сравнениях с союзом <b>wie</b> (как):<p>
+<i>Er ist stark wie ein Löwe.</i> — Он силён, как лев.
+</p></li>
+</ul>
+<hr>
+<h3><b>Когда артикль не нужен?</b></h3>
+<ol>
+<li><b>Род занятий, профессии, национальности:</b><p>
+<i>Ich bin Lehrer.</i> — Я учитель.
+</p>
+
+<p>
+<i>Sie arbeitet als Ärztin.</i> — Она работает врачом.
+</p></li>
+<li><b>Чувства, вещества, материалы, абстрактные понятия:</b><p>
+<i>Ich habe Hunger.</i> — Я голоден.
+</p>
+
+<p>
+<i>Die Tasche ist aus Leder.</i> — Сумка из кожи.
+</p></li>
+<li><b>Обобщения и не поддающиеся исчислению понятия:</b><p>
+<i>Die Deutschen trinken Bier.</i> — Немцы пьют пиво.
+</p>
+
+<p>
+<i>Jeder Mensch braucht Liebe.</i> — Каждому человеку нужна любовь.
+</p></li>
+<li><b>Газетные заголовки, команды, телеграммы:</b><p>
+<i>Hände hoch!</i> — Руки вверх!
+</p>
+
+<p>
+<i>Haus zu verkaufen.</i> — Продаётся дом.
+</p></li>
+<li><b>Названия времён суток и дней недели:</b><p>
+<i>Es ist Abend.</i> — Вечер.
+</p>
+
+<p>
+<i>Heute ist Mittwoch.</i> — Сегодня среда.
+</p></li>
+</ol>
+<hr>
+<h3><b>Имена, города и страны</b></h3>
+<ol>
+<li><p><b>Имена:</b></p>
+<p>
+Обычно артикль не нужен:
+</p>
+
+<p>
+<i>Auf Klaus ist Verlass.</i> — На Клауса можно положиться.
+</p>
+
+<p>
+Однако в разговорной речи артикль добавляется для оживления:
+</p>
+
+<p>
+<i>Weißt du, wo der Klaus ist?</i> — Ты знаешь, где этот Клаус?
+</p></li>
+<li><p><b>Названия стран и городов:</b></p>
+<p>
+Большинство стран и городов употребляются без артикля:
+</p>
+
+<p>
+<i>Ich fliege nach Österreich.</i> — Я лечу в Австрию.
+</p>
+
+<p>
+Но есть исключения:
+</p>
+
+<ul>
+<li>Женский род: <i>die Schweiz, die Ukraine</i>.</li>
+<li>Мужской род: <i>der Iran, der Sudan</i>.</li>
+</ul>
+<p>
+С определением или прилагательным артикль добавляется:
+</p>
+
+<p>
+<i>das schöne Paris</i> — прекрасный Париж.
+</p></li>
+</ol>
+<hr>
+<h3><b>Полезные примеры</b></h3>
+<ol>
+<li><b>Определённый артикль:</b><p>
+<i>Die Katze schläft.</i> — Эта кошка спит.
+</p>
+
+<p>
+<i>Der Tisch ist kaputt.</i> — Этот стол сломан.
+</p></li>
+<li><b>Неопределённый артикль:</b><p>
+<i>Ich sehe eine Katze.</i> — Я вижу кошку.
+</p>
+
+<p>
+<i>Da steht ein Mann.</i> — Там стоит мужчина.
+</p></li>
+<li><b>Без артикля:</b><p>
+<i>Ich bin Student.</i> — Я студент.
+</p>
+
+<p>
+<i>Die Tasche ist aus Stoff.</i> — Сумка из ткани.
+</p></li>
+</ol>
+<hr>
+<h3><b>Совет для изучающих</b></h3>
+<p>Для освоения артиклей повторяйте таблицы ежедневно, проговаривайте примеры вслух и составляйте свои предложения. А главное — не бойтесь делать ошибки, потому что практикой вы доведёте использование артиклей до автоматизма!</p>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-010","guide":{"title":"Артикли в немецком языке","kind":"grammar","level":"A1","html":"$1c","materials":[],"meta":"Недели 3-4"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-010","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

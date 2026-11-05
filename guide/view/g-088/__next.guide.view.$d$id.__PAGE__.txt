@@ -1,0 +1,181 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T29f9,<div class="guide-media"><a href="https://gemini.google.com/share/97133a9d9ad4" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Если ты уже учишь немецкий, то наверняка сталкивался с этими загадочными конструкциями: <b>worüber, darüber, wofür, dafür</b> и многими другими. На первый взгляд они выглядят сложно, но если разобраться, всё становится понятным! Давай разберем их структуру, правила образования и примеры использования.</p>
+<hr>
+<h3><b>Что такое местоименные наречия?</b></h3>
+<p>Это особая группа наречий, которые состоят из <b>wo- или da-</b> + предлог и заменяют в предложении предлог с существительным.</p>
+<p>✅ <b>Вопросительные местоименные наречия</b> образуются из <b>wo</b> + предлог:</p>
+<ul>
+<li><i>wo + von = wovon</i> (о чем)</li>
+<li><i>wo + für = wofür</i> (за что)</li>
+<li><i>wo + über = worüber</i> (о чем)</li>
+</ul>
+<p>✅ <b>Указательные местоименные наречия</b> образуются из <b>da</b> + предлог:</p>
+<ul>
+<li><i>da + von = davon</i> (о том, об этом)</li>
+<li><i>da + für = dafür</i> (за это, за то)</li>
+<li><i>da + über = darüber</i> (о том, об этом)</li>
+</ul>
+<p>❗ <b>Важно!</b> Если предлог начинается с гласного, добавляется буква <b>-r-</b> между wo- / da- и предлогом: <b>worüber, darüber</b>.</p>
+<hr>
+<h3><b>Таблица образования местоименных наречий</b></h3>
+<div class="guide-table"><table> <tr> <td> Вопросительные </td> <td> Указательные </td> </tr> <tr> <td> <b>wovon</b> (о чем) </td> <td> <b>davon</b> (о том, об этом) </td> </tr> <tr> <td> <b>wofür</b> (за что) </td> <td> <b>dafür</b> (за то, за это) </td> </tr> <tr> <td> <b>worüber</b> (о чем) </td> <td> <b>darüber</b> (о том, об этом) </td> </tr> <tr> <td> <b>womit</b> (с чем) </td> <td> <b>damit</b> (с этим) </td> </tr> <tr> <td> <b>wozu</b> (для чего) </td> <td> <b>dazu</b> (для этого) </td> </tr> <tr> <td> <b>woran</b> (о чем, на чем) </td> <td> <b>daran</b> (о том, на этом) </td> </tr> </table></div>
+
+
+
+<hr>
+<h3><b>Как выбирать местоименное наречие?</b></h3>
+<p>Выбор зависит от <b>глаголов с управлением</b> (то есть тех, которые требуют предлога). Например:</p>
+<div class="guide-table"><table> <tr> <td> Глагол </td> <td> Перевод </td> <td> Вопросительное наречие </td> <td> Указательное наречие </td> </tr> <tr> <td> <b>denken an</b> </td> <td> думать о чем-то </td> <td> <i>Woran denkst du?</i> – О чем ты думаешь? </td> <td> <i>Ich denke daran.</i> – Я думаю об этом. </td> </tr> <tr> <td> <b>träumen von</b> </td> <td> мечтать о чем-то </td> <td> <i>Wovon träumst du?</i> – О чем ты мечтаешь? </td> <td> <i>Ich träume davon.</i> – Я мечтаю об этом. </td> </tr> <tr> <td> <b>sprechen über</b> </td> <td> говорить о чем-то </td> <td> <i>Worüber sprechen Sie?</i> – О чем вы говорите? </td> <td> <i>Wir sprechen darüber.</i> – Мы говорим об этом. </td> </tr> <tr> <td> <b>sich interessieren für</b> </td> <td> интересоваться чем-то </td> <td> <i>Wofür interessierst du dich?</i> – Чем ты интересуешься? </td> <td> <i>Ich interessiere mich dafür.</i> – Я интересуюсь этим. </td> </tr> </table></div>
+
+
+
+<hr>
+<h3><b>Местоименные наречия и одушевленные объекты</b></h3>
+<p>🚀 <b>Если речь идет об одушевленных объектах (о людях), то местоименные наречия НЕ используются!</b> В этом случае вместо <b>worüber/darüber</b> употребляется <b>предлог + вопросительное местоимение</b>.</p>
+<p>Сравним:</p>
+<div class="guide-table"><table> <tr> <td> О неодушевленных предметах </td> <td> О людях </td> </tr> <tr> <td> <b>Worüber sprichst du?</b> (О чем ты говоришь?) </td> <td> <b>Über wen sprichst du?</b> (О ком ты говоришь?) </td> </tr> <tr> <td> <b>Woran denkst du?</b> (О чем ты думаешь?) </td> <td> <b>An wen denkst du?</b> (О ком ты думаешь?) </td> </tr> <tr> <td> <b>Wofür interessierst du dich?</b> (Чем ты интересуешься?) </td> <td> <b>Für wen interessierst du dich?</b> (Кем ты интересуешься?) </td> </tr> </table></div>
+
+
+
+<hr>
+<h3><b>Как использовать указательные местоименные наречия?</b></h3>
+<p>Они помогают не повторять одно и то же существительное с предлогом.</p>
+<div class="guide-table"><table> <tr> <td> Без местоименного наречия </td> <td> С местоименным наречием </td> </tr> <tr> <td> <i>Er interessiert sich für Musik.</i> (Он интересуется музыкой.) </td> <td> <i>Er interessiert sich dafür.</i> (Он интересуется этим.) </td> </tr> <tr> <td> <i>Ich warte auf den Sommer.</i> (Я жду лета.) </td> <td> <i>Ich warte darauf.</i> (Я жду этого.) </td> </tr> <tr> <td> <i>Wir sprechen über das Problem.</i> (Мы говорим о проблеме.) </td> <td> <i>Wir sprechen darüber.</i> (Мы говорим об этом.) </td> </tr> </table></div>
+
+
+
+<p>📌 Также указательные местоименные наречия могут связывать части сложных предложений:</p>
+<ul>
+<li><i>Der Redner wies darauf hin, dass die meisten Touristen mit dem Flugzeug kommen.</i> – Докладчик указал на то, что большинство туристов прибывают самолетом.</li>
+</ul>
+<hr>
+<h3><b>Заключение:</b></h3>
+<p>✅ Местоименные наречия помогают избегать повторов и делают речь компактнее.<br>✅ Они образуются по четкой схеме: <b>wo- для вопросов, da- для указаний.</b><br>✅ Если предлог начинается с гласной, добавляется <b>-r-</b> (worüber, darüber).<br>✅ Для одушевленных лиц используются <b>предлог + вопросительное местоимение</b>.</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/HuLLkv3uP5c?si=aCrIv9TKE6mX73B_" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h2><b>Упражнение 1: Заполни пропуски (выбор из списка)</b></h2>
+<p>Выбери подходящее местоименное наречие из списка:</p>
+<p><b>worüber, darüber, wofür, dafür, woran, daran, wovon, davon, womit, damit</b></p>
+<ol>
+<li>Ich habe gestern lange mit ihm gesprochen. Wir haben ___ gelacht.</li>
+<li>___ denkst du gerade? – An meine Kindheit.</li>
+<li>Er ist sehr fleißig. Wir sind stolz ___ .</li>
+<li>___ sprichst du? – Über das neue Projekt.</li>
+<li>Wir müssen noch lange ___ nachdenken.</li>
+<li>Sie interessiert sich sehr für Kunst. Sie spricht oft ___ .</li>
+<li>___ träumst du schon seit Jahren? – Von einem Haus am Meer.</li>
+<li>Das ist ein schwieriges Thema. Wir sollten gemeinsam ___ arbeiten.</li>
+<li>___ hast du diese Skulptur gemacht? – Mit Holz.</li>
+<li>Ich weiß nicht, ___ er sich gestern so gefreut hat.</li>
+</ol>
+<hr>
+<h2><b>Упражнение 2: Преобразуй предложения</b></h2>
+<p>Преобразуй так, чтобы вместо существительного с предлогом использовать <b>местоименное наречие</b>.</p>
+<p><b>Пример:</b></p>
+<p>Ich warte auf den Bus. → Ich warte <b>darauf</b>.</p>
+<ol>
+<li>Sie spricht über das Problem. → …</li>
+<li>Wir träumen von einer Reise nach Japan. → …</li>
+<li>Ich interessiere mich für Mode. → …</li>
+<li>Wir denken an den Urlaub. → …</li>
+<li>Er arbeitet an einem wichtigen Projekt. → …</li>
+</ol>
+<hr>
+<h2><b>Упражнение 3: Вопрос → Ответ</b></h2>
+<p>Составь ответ с <b>местоименным наречием</b>.</p>
+<p><b>Пример:</b></p>
+<p>– Worüber sprichst du?</p>
+<p>– Ich spreche <b>darüber</b>.</p>
+<ol>
+<li>Woran erinnerst du dich? → …</li>
+<li>Wofür interessierst du dich? → …</li>
+<li>Worüber lacht ihr? → …</li>
+<li>Womit spielst du? → …</li>
+<li>Wovon sprichst du? → …</li>
+</ol>
+<hr>
+<h2><b>Ответы</b></h2><details><summary>Показать ответы</summary>
+</details><h3><b>Упражнение 1</b></h3>
+<ol>
+<li><b>darüber</b> – мы смеялись <b>об этом</b>.</li>
+<li><b>woran</b> – о чём ты думаешь?</li>
+<li><b>darauf</b> – мы гордимся <b>этим</b>.</li>
+<li><b>worüber</b> – о чём ты говоришь?</li>
+<li><b>darüber</b> – об этом нужно подумать.</li>
+<li><b>darüber</b> – она часто говорит <b>об этом</b>.</li>
+<li><b>wovon</b> – о чём ты мечтаешь?</li>
+<li><b>daran</b> – над этим надо работать.</li>
+<li><b>womit</b> – с чем? → с деревом.</li>
+<li><b>worüber</b> – о чём он радовался?</li>
+</ol>
+<h3><b>Упражнение 2</b></h3>
+<ol>
+<li>Sie spricht <b>darüber</b>.</li>
+<li>Wir träumen <b>davon</b>.</li>
+<li>Ich interessiere mich <b>dafür</b>.</li>
+<li>Wir denken <b>daran</b>.</li>
+<li>Er arbeitet <b>daran</b>.</li>
+</ol>
+<h3><b>Упражнение 3</b></h3>
+<ol>
+<li>Ich erinnere mich <b>daran</b>.</li>
+<li>Ich interessiere mich <b>dafür</b>.</li>
+<li>Wir lachen <b>darüber</b>.</li>
+<li>Ich spiele <b>damit</b>.</li>
+<li>Ich spreche <b>davon</b>.</li>
+</ol>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-088","guide":{"title":"Местоименные наречия worüber и darüber","kind":"grammar","level":"B1","html":"$1c","materials":[],"meta":"Недели 13-15"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-088","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

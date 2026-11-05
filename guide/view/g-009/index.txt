@@ -1,0 +1,310 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-009","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-009",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T4306,<div class="guide-media"><a href="https://gemini.google.com/share/7a8c24753ac5" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+
+
+<aside class="guide-callout">
+
+
+<p>
+Stellas - онлайн курсы немецкого языка 
+</p>
+
+
+</aside>
+
+
+
+<h3><b>Что такое определённый артикль в немецком языке</b></h3>
+<p>В немецком языке, как и в русском, <b>каждое существительное</b> имеет род: <b>мужской (Maskulinum)</b>, <b>женский (Femininum)</b> или <b>средний (Neutrum)</b>. Но в отличие от русского, где зачастую легко определить род по окончанию или смыслу, в немецком грамматический род нередко не совпадает с тем, к чему мы привыкли. Именно поэтому <b>артикли</b> становятся важным показателем рода, а также числа и падежа.</p>
+<hr>
+<h2><b>1. Определённые артикли: der, die, das</b></h2>
+<ul>
+<li><b>der Mann</b> — мужчина (Maskulinum)</li>
+<li><b>die Frau</b> — женщина (Femininum)</li>
+<li><b>das Kind</b> — ребёнок (Neutrum)</li>
+</ul>
+<p>Видно, что в немецком языке существительное «девочка» (<b>das Mädchen</b>) имеет средний род, а «город» (<b>die Stadt</b>) — женский, хотя в русском это звучит непривычно.</p>
+<p>Главные формы определённого артикля — <b>der</b>, <b>die</b>, <b>das</b>, но в зависимости от <b>падежа</b> или <b>числа</b> они могут изменяться. Эти изменения подробно разбираются при изучении <b>немецких падежей</b>.</p>
+<hr>
+<h3><b>Совет по запоминанию: используйте цветовую методику</b></h3>
+<p>Многие изучающие немецкий отмечают, что проще учить слова вместе с артиклями, выделяя их <b>цветами</b>:</p>
+<ul>
+<li><b>der</b> (Maskulinum) — синий</li>
+<li><b>die</b> (Femininum) — красный</li>
+<li><b>das</b> (Neutrum) — зелёный</li>
+</ul>
+<p>Такая техника помогает визуально закрепить информацию.</p>
+<hr>
+<h2><b>2. Как определить род нового существительного?</b></h2>
+<p>Порой мы выучили само слово, но забыли артикль. В таком случае есть несколько стратегий:</p>
+<h3><b>2.1. Проверьте значение слова (если оно обозначает живое существо)</b></h3>
+<ul>
+<li>Для <b>людей</b> чаще всего род совпадает с биологическим полом:<ul>
+<li><b>der Bruder</b> (брат), <b>die Schwester</b> (сестра);</li>
+<li><b>der Opa</b>, <b>die Oma</b>.</li>
+</ul>
+</li>
+<li><b>Дети</b> и <b>детёныши</b> животных часто получают <b>средний</b> артикль:<ul>
+<li><b>das Kind</b> (ребёнок), <b>das Baby</b> (малыш), <b>das Fohlen</b> (жеребёнок).</li>
+</ul>
+</li>
+<li>Если говорим о животных, род зависит от того, <b>знаем</b> ли мы их пол:<ul>
+<li><b>der Kater</b> (кот), <b>die Katze</b> (кошка).</li>
+<li>Если пол неизвестен, можно использовать <b>die Katze</b> как «общее» название.</li>
+</ul>
+</li>
+</ul>
+<p>При этом есть <b>исключения</b> вроде <b>das Mädchen</b> (девочка), которое логически женского пола, но грамматически среднего рода.</p>
+<h3><b>2.2. Используйте категории существительных</b></h3>
+<p>В немецком есть «классы» слов, которые чаще всего объединяет один род. Например:</p>
+<ul>
+<li><b>Мужской род (der)</b>: времена года, месяцы, дни недели, направления (север/юг/восток/запад), осадки (<i>der Regen</i>, <i>der Schnee</i>), многие алкогольные напитки (исключение: <i>das Bier</i>), марки автомобилей и т.д.</li>
+<li><b>Женский род (die)</b>: названия цветков (<i>die Rose</i>), самолётов (<i>die Boing</i>), марок мотоциклов (<i>die Harley-Davidson</i>), большинства числительных (<i>die Fünf</i>, <i>die Zehn</i>).</li>
+<li><b>Средний род (das)</b>: все <b>металлы</b> (<i>das Silber</i>), <b>химические элементы</b> (<i>das Helium</i>), <b>цвета</b> как существительные (<i>das Blau</i>), а также существительные, образованные от глагола (<i>das Lesen</i>, <i>das Schreiben</i>) или от прилагательного (<i>das Gute</i>, <i>das Schöne</i>).</li>
+</ul>
+<p><b>Внимание</b>: иногда один и тот же корень может давать три разных слова с разными артиклями и значениями:</p>
+<ul>
+<li><i>der Band</i> (том книги),</li>
+<li><i>die Band</i> (музыкальная группа),</li>
+<li><i>das Band</i> (лента).</li>
+</ul>
+<h3><b>2.3. Смотрите на окончания</b></h3>
+<p>Нередко окончание слова подсказывает род:</p>
+<p><b>Мужские окончания</b>:</p>
+<ul>
+<li><i>us</i> (<i>der Bus</i>),</li>
+<li><i>ling</i> (<i>der Frühling</i> — весна),</li>
+<li><i>ant</i> (<i>der Elefant</i>),</li>
+<li><i>ent</i> (<i>der Student</i>, но <i>das Talent</i> — исключение),</li>
+<li><i>ig</i> (<i>der Honig</i> — мёд),</li>
+<li><i>er</i> (часто бывает мужским: <i>der Käfer</i> — жук).</li>
+</ul>
+<p><b>Женские окончания</b>:</p>
+<ul>
+<li><i>ie</i> (<i>die Philosophie</i>),</li>
+<li><i>ung</i> (<i>die Wohnung</i>),</li>
+<li><i>tion/-sion</i> (<i>die Information</i>),</li>
+<li><i>keit/-heit</i> (<i>die Krankheit</i>, <i>die Freiheit</i>),</li>
+<li><i>ei</i> (<i>die Bäckerei</i>),</li>
+<li><i>in</i> (<i>die Bäckerin</i> — женщина-пекарь).</li>
+</ul>
+<p><b>Средние окончания</b>:</p>
+<ul>
+<li><i>chen</i>, <i>lein</i> (<i>das Mädchen</i>, <i>das Büchlein</i>),</li>
+<li><i>um</i> (<i>das Datum</i>),</li>
+<li><i>nis</i> (<i>das Ergebnis</i>, но <i>die Erlaubnis</i> — исключение),</li>
+<li><i>tum</i> (<i>das Eigentum</i>).</li>
+</ul>
+<h3><b>Сложные существительные</b></h3>
+<p>Когда слово состоит из нескольких частей, род берётся <b>от последнего</b> существительного. Например:</p>
+<ul>
+<li><i>der Herbst</i> + <i>das Wetter</i> → <b>das Herbstwetter</b>;</li>
+<li><i>das Schlafzimmer</i> + <i>der Schrank</i> → <b>der Schlafzimmerschrank</b>.</li>
+</ul>
+<p>И тут встречаются нюансы, например слова с <i>-teil</i>, <i>-mut</i>, у которых могут быть исключения.</p>
+<hr>
+<h2><b>3. Зачем знать артикль?</b></h2>
+<ul>
+<li><b>Правильный выбор артикля</b> влияет на <b>падежные формы</b> (Akkusativ, Dativ и т.д.): <i>der Mann</i> → <i>den Mann</i>, <i>dem Mann</i> и т.п.</li>
+<li>Также от рода зависят формы <b>прилагательных</b>, <b>местоимений</b> и <b>согласование</b> в предложении.</li>
+</ul>
+<p>Поэтому изучая новое слово, <b>запоминайте его вместе с артиклем</b> (и лучше сразу в сочетании с каким-нибудь примером, контекстом). Так вы быстрее войдёте в естественную речь, где род слова всегда учитывается по умолчанию.</p>
+<hr>
+<h3><b>Итог</b></h3>
+<p><b>Определённый артикль</b> — это не просто формальность. Он отражает <b>род</b> существительного и оказывает влияние на грамматику всего предложения. Если вы научитесь сразу «связать» слово с правильным артиклем, то грамматические конструкции в немецком будут даваться вам гораздо легче.</p>
+<blockquote>
+<p>Просто помните: каждое немецкое существительное «носит» свой род, и артикль — это ключ к тому, чтобы правильно его использовать! Viel Erfolg!</p>
+</blockquote>
+<h2>👦 <b>Мужской род (der)</b></h2>
+<p><b>К мужскому роду относятся:</b></p>
+<p>1️⃣ <b>Люди мужского пола:</b></p>
+<ul>
+<li><i>der Mann</i> — мужчина</li>
+<li><i>der Polizist</i> — полицейский</li>
+</ul>
+<p>2️⃣ <b>Животные-самцы:</b></p>
+<ul>
+<li><i>der Hund</i> — собака</li>
+<li><i>der Bär</i> — медведь</li>
+</ul>
+<p>3️⃣ <b>Стороны света, времена года, месяцы, дни недели:</b></p>
+<ul>
+<li><i>der Norden</i> — север</li>
+<li><i>der Winter</i> — зима</li>
+<li><i>der Montag</i> — понедельник</li>
+</ul>
+<p>4️⃣ <b>Погодные явления и небесные тела:</b></p>
+<ul>
+<li><i>der Regen</i> — дождь</li>
+<li><i>der Mars</i> — Марс</li>
+</ul>
+<p>5️⃣ <b>Валюта и алкогольные напитки:</b></p>
+<ul>
+<li><i>der Euro</i> — евро</li>
+<li><i>der Wein</i> — вино (НО: <i>das Bier</i> — пиво).</li>
+</ul>
+<p>6️⃣ <b>Мужской род по суффиксам:</b></p>
+<ul>
+<li><i>er</i> (der Lehrer — учитель)</li>
+<li><i>ent</i> (der Student — студент)</li>
+<li><i>ist</i> (der Pianist — пианист)</li>
+</ul>
+<hr>
+<h2>👩 <b>Женский род (die)</b></h2>
+<p><b>К женскому роду относятся:</b></p>
+<p>1️⃣ <b>Люди женского пола и феминитивы:</b></p>
+<ul>
+<li><i>die Frau</i> — женщина</li>
+<li><i>die Polizistin</i> — полицейская</li>
+</ul>
+<p>2️⃣ <b>Животные-самки:</b></p>
+<ul>
+<li><i>die Katze</i> — кошка<br>(НО: <i>das Huhn</i> — курица).</li>
+</ul>
+<p>3️⃣ <b>Названия деревьев, цветов, ягод:</b></p>
+<ul>
+<li><i>die Birke</i> — берёза</li>
+<li><i>die Rose</i> — роза</li>
+<li><i>die Erdbeere</i> — клубника</li>
+</ul>
+<p>4️⃣ <b>Суффиксы, которые указывают на женский род:</b></p>
+<ul>
+<li><i>ung</i> (die Ordnung — порядок)</li>
+<li><i>heit</i> (die Freiheit — свобода)</li>
+<li><i>keit</i> (die Möglichkeit — возможность)</li>
+<li><i>ion</i> (die Diskussion — обсуждение)</li>
+<li><i>ur</i> (die Natur — природа).</li>
+</ul>
+<hr>
+<h2><b>Средний род (das)</b></h2>
+<p><b>К среднему роду относятся:</b></p>
+<p>1️⃣ <b>Дети и уменьшительно-ласкательные формы:</b></p>
+<ul>
+<li><i>das Kind</i> — ребёнок</li>
+<li><i>das Mädchen</i> — девочка</li>
+<li><i>das Kätzchen</i> — котёнок</li>
+</ul>
+<p>2️⃣ <b>Суффиксы, которые определяют средний род:</b></p>
+<ul>
+<li><i>chen</i> (das Märchen — сказка)</li>
+<li><i>lein</i> (das Tischlein — столик)</li>
+<li><i>ment</i> (das Dokument — документ)</li>
+<li><i>tum</i> (das Eigentum — собственность).</li>
+</ul>
+<p>3️⃣ <b>Слова с приставкой Ge-:</b></p>
+<ul>
+<li><i>das Gefühl</i> — чувство</li>
+<li><i>das Gebäude</i> — здание</li>
+</ul>
+<p>4️⃣ <b>Глаголы, превращённые в существительные:</b></p>
+<ul>
+<li><i>das Essen</i> — еда (<i>essen</i> — есть)</li>
+<li><i>das Lernen</i> — обучение (<i>lernen</i> — учить).</li>
+</ul>
+<hr>
+<h2>💡 <b>Важные исключения:</b></h2>
+<p>Некоторые слова меняют род в зависимости от значения:</p>
+<ul>
+<li><i>der See</i> — озеро, но <i>die See</i> — море</li>
+<li><i>der Messer</i> — измерительный прибор, но <i>das Messer</i> — нож</li>
+<li><i>der Bauer</i> — крестьянин, но <i>das Bauer</i> — клетка.</li>
+</ul>
+<hr>
+<h2><b>Как запомнить род?</b></h2>
+<p>1️⃣ Записывай новые слова с артиклем (<i>der, die, das</i>).</p>
+<p>2️⃣ Обрати внимание на суффиксы — это ключ к разгадке.</p>
+<p>3️⃣ Практикуйся! Игры, карточки и приложения помогут быстрее освоить материал.</p>
+<h2>Видео</h2>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=SbSXqKgdYZ4" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h2>Упражнения</h2>
+<div class="guide-media"><a href="https://der-artikel.de/artikeltraining.html" target="_blank" rel="noopener noreferrer">der-artikel.de</a></div>
+
+
+
+
+
+<div class="guide-media"><a href="https://deutsch.lingolia.com/ru/grammatika/suschestvitelnoe-i-artikl/rod/uprazhnenija" target="_blank" rel="noopener noreferrer">deutsch.lingolia.com</a></div>
+
+
+
+
+
+<div class="guide-media"><a href="https://www.de-online.ru/index/igra_quot_der_die_das_quot/0-781" target="_blank" rel="noopener noreferrer">de-online.ru</a></div>
+
+
+
+
+
+<h3>📝 Упражнение: определяем род существительных</h3>
+<p>Выбери правильный артикль для каждого слова:</p>
+<ol>
+<li>___ Hund (собака)</li>
+<li>___ Katze (кошка)</li>
+<li>___ Kind (ребёнок)</li>
+<li>___ Mann (мужчина)</li>
+<li>___ Frau (женщина)</li>
+<li>___ Auto (машина)</li>
+<li>___ Lehrer (учитель)</li>
+<li>___ Polizistin (полицейская)</li>
+<li>___ Mädchen (девочка)</li>
+<li>___ Baum (дерево)</li>
+</ol>
+<hr>
+<h3>✅ Ответы и объяснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>der Hund</b> — мужской род. Смотри, это самец животного, логика проста: <i>der</i> для мужского пола.</li>
+<li><b>die Katze</b> — женский род. Самка животного — почти всегда <i>die</i>.</li>
+<li><b>das Kind</b> — средний род. Маленькие дети или уменьшительно-ласкательные формы часто получают <i>das</i>.</li>
+<li><b>der Mann</b> — мужской род. Люди мужского пола всегда <i>der</i>.</li>
+<li><b>die Frau</b> — женский род. Люди женского пола — <i>die</i>.</li>
+<li><b>das Auto</b> — средний род. Техника и транспорт чаще всего <i>das</i>.</li>
+<li><b>der Lehrer</b> — мужской род. Суффикс <i>er</i> часто указывает на мужской род, смотри на шаблон.</li>
+<li><b>die Polizistin</b> — женский род. Суффикс <i>in</i> всегда женский, удобно запомнить.</li>
+<li><b>das Mädchen</b> — средний род. Маленькие формы с <i>chen</i> всегда <i>das</i>, даже если это девочка.</li>
+<li><b>der Baum</b> — мужской род. Натуральные объекты, как деревья, чаще мужского рода.</li>
+</ol>
+<p>💡 Совет: учи существительные вместе с артиклем и обращай внимание на <b>суффиксы и значение</b>. Это прям как секретный ключ: видишь <i>-in</i> — сразу женский, <i>-er</i> — мужской, <i>-chen</i> — средний. Чем больше таких паттернов знаешь, тем меньше придется гадать в жизни.</p>
+</details>13:["$","$L21",null,{"id":"g-009","guide":{"title":"Род существительных","kind":"grammar","level":"A1","html":"$22","materials":[],"meta":"Недели 3-4"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

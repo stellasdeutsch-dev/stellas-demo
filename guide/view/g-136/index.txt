@@ -1,0 +1,386 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-136","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-136",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T435f,<h2>Предлоги с дательным падежом</h2><div class="guide-media"><a href="https://gemini.google.com/share/61ba051dd480" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3><b>Предлоги с Dativ: звучим как умный немец</b></h3>
+<p>Когда ты только начинаешь учить немецкий, кажется, что все предлоги уже выучены. Но нет — есть ещё редкие и «вкусные» варианты, которые немцы любят в письменной и официальной речи.</p>
+<p>У нас 4 героя: <b>entsprechend, samt, fern, zuliebe</b>. Все они <b>требуют Dativ</b>. И да, порядок слов иногда меняется.</p>
+<hr>
+<h3><b>1️⃣ entsprechend</b> — <i>в соответствии с</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>entsprechend + Dativ
+</code></pre>
+<p><b>Значение:</b> «согласно чему-либо», «в соответствии с».</p>
+<p><b>Контекст:</b> официальная речь, отчёты, инструкции.</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Entsprechend dem Vertrag</b> müssen beide Parteien zustimmen. — Согласно договору, обе стороны должны согласиться.</li>
+<li><b>Entsprechend den Anweisungen</b> handeln. — Действовать в соответствии с инструкциями.</li>
+</ul>
+<p>💡 <i>Лайфхак:</i> часто стоит в начале предложения, чтобы подчеркнуть официальность.</p>
+<hr>
+<h3><b>2️⃣ samt</b> — <i>вместе с</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>samt + Dativ
+</code></pre>
+<p><b>Значение:</b> «вместе с», «включая».</p>
+<p><b>Контекст:</b> книжный стиль, иногда в новостях.</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Er kam samt Familie.</b> — Он пришёл вместе с семьёй.</li>
+<li><b>Die Tasche samt Inhalt</b> wurde gefunden. — Сумка вместе с содержимым была найдена.</li>
+</ul>
+<p>💡 <i>Фишка:</i> часто заменяет <b>mit</b> в более «красивом» варианте.</p>
+<hr>
+<h3><b>3️⃣ fern</b> — <i>вдали от</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>fern + Dativ
+</code></pre>
+<p><b>Значение:</b> «вдали от», «далеко от».</p>
+<p><b>Контекст:</b> книжный, поэтический или описательный стиль.</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Fern der Heimat</b> fühlte er sich einsam. — Вдали от родины он чувствовал себя одиноко.</li>
+<li><b>Fern dem Alltag</b> kann man sich erholen. — Далеко от повседневности можно отдохнуть.</li>
+</ul>
+<p>💡 <i>Лайфхак:</i> красиво звучит в рассказах, путевых заметках и Instagram-подписях.</p>
+<hr>
+<h3><b>4️⃣ zuliebe</b> — <i>ради (кого-то / чего-то)</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>[Существительное в Dativ] + zuliebe
+</code></pre>
+<p><b>Значение:</b> «ради кого/чего», «в угоду».</p>
+<p><b>Контекст:</b> и в разговоре, и в официальной речи.</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Dir zuliebe</b> mache ich das. — Ради тебя я это сделаю.</li>
+<li><b>Seiner Gesundheit zuliebe</b> hat er mit dem Rauchen aufgehört. — Ради своего здоровья он бросил курить.</li>
+</ul>
+<p>💡 <i>Фишка:</i> почти всегда ставится <b>после существительного</b>.</p>
+<hr>
+<h3><b>Как запомнить</b></h3>
+<ol>
+<li><b>entsprechend</b> — звучит как юрист.</li>
+<li><b>samt</b> — вместо простого <b>mit</b>, но стильнее.</li>
+<li><b>fern</b> — поэтичная альтернатива «далеко от».</li>
+<li><b>zuliebe</b> — всегда «ради кого-то» и <b>после Dativ</b>.</li>
+</ol>
+<hr>
+<h3><b>Мини-таблица</b></h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Предлог</th>
+<th>Перевод</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>entsprechend</td>
+<td>согласно</td>
+<td>Entsprechend dem Plan starten wir um 9 Uhr.</td>
+</tr>
+<tr>
+<td>samt</td>
+<td>вместе с</td>
+<td>Er kam samt Hund.</td>
+</tr>
+<tr>
+<td>fern</td>
+<td>вдали от</td>
+<td>Fern der Stadt ist es ruhig.</td>
+</tr>
+<tr>
+<td>zuliebe</td>
+<td>ради</td>
+<td>Dir zuliebe mache ich das.</td>
+</tr>
+</tbody></table></div>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/dFy8B-WvnSM?si=tFiHGqiuB9INAn0x" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Предлоги с Dativ</h3>
+<h3>Дополните предложения правильным предлогом (entsprechend, samt, fern, zuliebe)</h3>
+<ol>
+<li>Das Buch wurde <b>____</b> <b>(das Manuskript)</b> gedruckt.</li>
+<li>Sie fuhr <b>____</b> <b>(der Familie)</b> in den Urlaub.</li>
+<li><b>____</b> <b>(der Lärm)</b> wollte er in Ruhe arbeiten.</li>
+<li>Der Chef hat die Entscheidung <b>____</b> <b>(der Kollege)</b> getroffen.</li>
+<li>Die Mutter packte das Geschenk <b>____</b> <b>(der Schleife)</b> ein.</li>
+</ol>
+<hr>
+<h3>Ответы и объяснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>entsprechend dem Manuskript</b><ul>
+<li><b>Объяснение:</b> Речь об официальном соответствии, поэтому используется <b>entsprechend</b> с Dativ.</li>
+</ul>
+</li>
+<li><b>samt der Familie</b><ul>
+<li><b>Объяснение:</b> Предлог <b>samt</b> означает &quot;вместе с&quot;, что подходит по смыслу, и требует Dativ.</li>
+</ul>
+</li>
+<li><b>Fern dem Lärm</b><ul>
+<li><b>Объяснение:</b> Предлог <b>fern</b> означает &quot;вдали от&quot; и подходит для описания местоположения.</li>
+</ul>
+</li>
+<li><b>dem Kollegen zuliebe</b><ul>
+<li><b>Объяснение:</b> Предлог <b>zuliebe</b> используется, когда действие делается ради кого-то. Он ставится после существительного в Dativ.</li>
+</ul>
+</li>
+<li><b>samt der Schleife</b><ul>
+<li><b>Объяснение:</b> <b>samt</b> здесь используется для того, чтобы подчеркнуть, что подарок упаковали вместе с бантом.</li>
+</ul>
+</li>
+</ol>
+</details><hr><h2>Предлоги с родительным падежом</h2><div class="guide-media"><a href="https://gemini.google.com/share/1647e3dd30c9" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p><b>Genitiv-магия: как говорить на немецком, будто у тебя диплом филфака</b></p>
+<p>Если ты думаешь, что Genitiv нужен только в учебниках — ошибаешься. В официальной речи, в газетах и на работе он встречается постоянно.</p>
+<hr>
+<h3><b>1️⃣ angesichts</b> — <i>ввиду, учитывая</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>angesichts + Genitiv
+</code></pre>
+<p><b>Значение:</b> «из-за», «в свете», «учитывая ситуацию».</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Angesichts der Lage</b> müssen wir schnell handeln. — Ввиду ситуации, мы должны действовать быстро.</li>
+<li><b>Angesichts der hohen Kosten</b> überlegen wir es uns noch einmal. — Учитывая высокие расходы, мы ещё подумаем.</li>
+</ul>
+<p>💡 <i>Фишка:</i> любимец журналистов и политиков.</p>
+<hr>
+<h3><b>2️⃣ anlässlich</b> — <i>по случаю</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>anlässlich + Genitiv
+</code></pre>
+<p><b>Значение:</b> «по случаю», «в связи с».</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Anlässlich seines Geburtstags</b> gab er eine Feier. — По случаю своего дня рождения он устроил праздник.</li>
+<li><b>Anlässlich des Jubiläums</b> gibt es Rabatte. — В связи с юбилеем — скидки.</li>
+</ul>
+<p>💡 <i>Фишка:</i> звучит торжественно и официально.</p>
+<hr>
+<h3><b>3️⃣ unweit</b> — <i>недалеко от</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>unweit + Genitiv
+</code></pre>
+<p><b>Значение:</b> «недалеко от».</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Unweit des Bahnhofs</b> liegt ein schönes Café. — Недалеко от вокзала есть красивое кафе.</li>
+<li><b>Unweit der Grenze</b> kam es zu einem Unfall. — Недалеко от границы произошёл несчастный случай.</li>
+</ul>
+<p>💡 <i>Фишка:</i> заменяет простое <b>in der Nähe von</b>, но выглядит интеллигентно.</p>
+<hr>
+<h3><b>4️⃣ mithilfe</b> — <i>с помощью</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>mithilfe + Genitiv
+</code></pre>
+<p><b>Значение:</b> «с помощью чего-то / кого-то».</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Mithilfe moderner Technik</b> wurde das Problem gelöst. — С помощью современной техники проблему решили.</li>
+<li><b>Mithilfe seiner Freunde</b> schaffte er den Umzug. — С помощью друзей он справился с переездом.</li>
+</ul>
+<p>💡 <i>Фишка:</i> в разговоре часто заменяют на <b>mit</b>, но в официальном тексте <b>mithilfe</b> выглядит солиднее.</p>
+<hr>
+<h3><b>5️⃣ mittels</b> — <i>посредством</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>mittels + Genitiv
+</code></pre>
+<p><b>Значение:</b> «через», «посредством».</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Mittels eines speziellen Geräts</b> konnte er das Schloss öffnen. — Посредством специального устройства он смог открыть замок.</li>
+<li><b>Mittels Analyse</b> wurden die Fehler erkannt. — Путём анализа ошибки были выявлены.</li>
+</ul>
+<p>💡 <i>Фишка:</i> почти всегда в письменной речи.</p>
+<hr>
+<h3><b>6️⃣ ungeachtet</b> — <i>несмотря на</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>ungeachtet + Genitiv
+</code></pre>
+<p><b>Значение:</b> «вопреки», «несмотря на».</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Ungeachtet der Warnungen</b> fuhr er weiter. — Несмотря на предупреждения, он продолжал ехать.</li>
+<li><b>Ungeachtet seiner Erfahrung</b> machte er Fehler. — Несмотря на опыт, он допустил ошибки.</li>
+</ul>
+<p>В разговоре заменяется на <b>trotz</b>, но звучит более официально.</p>
+<hr>
+<h3><b>7️⃣ oberhalb</b> — <i>выше, над</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>oberhalb + Genitiv
+</code></pre>
+<p><b>Значение:</b> «над чем-то».</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Oberhalb der Stadt</b> liegt eine alte Burg. — Над городом находится старый замок.</li>
+<li><b>Oberhalb des Flusses</b> führt ein Wanderweg. — Над рекой проходит пешеходная тропа.</li>
+</ul>
+<p>💡 <i>Фишка:</i> близко по значению к <b>über</b>, но подчёркивает пространственное расположение.</p>
+<hr>
+<h3><b>8️⃣ hinsichtlich</b> — <i>в отношении, касательно</i></h3>
+<p><b>Формула:</b></p>
+<pre><code>hinsichtlich + Genitiv
+</code></pre>
+<p><b>Значение:</b> «в отношении», «касательно».</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Hinsichtlich der neuen Regeln</b> gibt es noch Fragen. — Касательно новых правил есть ещё вопросы.</li>
+<li><b>Hinsichtlich seiner Leistung</b> sind wir zufrieden. — В отношении его работы мы довольны.</li>
+</ul>
+<p>💡 <i>Фишка:</i> часто в деловой переписке и отчётах.</p>
+<hr>
+<h3><b>Мини-таблица для запоминания</b></h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Предлог</th>
+<th>Перевод</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>angesichts</td>
+<td>ввиду</td>
+<td>Angesichts der Krise reagieren wir sofort.</td>
+</tr>
+<tr>
+<td>anlässlich</td>
+<td>по случаю</td>
+<td>Anlässlich des Festes gab es Musik.</td>
+</tr>
+<tr>
+<td>unweit</td>
+<td>недалеко от</td>
+<td>Unweit des Parks ist ein See.</td>
+</tr>
+<tr>
+<td>mithilfe</td>
+<td>с помощью</td>
+<td>Mithilfe des Internets finden wir Infos.</td>
+</tr>
+<tr>
+<td>mittels</td>
+<td>посредством</td>
+<td>Mittels Tests wurden Daten geprüft.</td>
+</tr>
+<tr>
+<td>ungeachtet</td>
+<td>несмотря на</td>
+<td>Ungeachtet der Kritik blieb er ruhig.</td>
+</tr>
+<tr>
+<td>oberhalb</td>
+<td>над</td>
+<td>Oberhalb des Hauses ist ein Wald.</td>
+</tr>
+<tr>
+<td>hinsichtlich</td>
+<td>касательно</td>
+<td>Hinsichtlich des Projekts gibt es Pläne.</td>
+</tr>
+</tbody></table></div>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/mL6wmbHbEAo?si=rWEuABeCt9Wlomii" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Предлоги с Genitiv</h3>
+<h3>
+Дополните предложения подходящим предлогом 
+</h3>
+
+<ol>
+<li><b>____</b> <b>(das schlechte Wetter)</b> blieb er zu Hause.</li>
+<li><b>____</b> <b>(seine Erfahrung)</b> war die Entscheidung falsch.</li>
+<li><b>____</b> <b>(das Jubiläum)</b> findet eine große Feier statt.</li>
+<li><b>____</b> <b>(ein Seil)</b> konnte er die Kiste hochziehen.</li>
+<li><b>____</b> <b>(die Stadt)</b> liegt ein kleiner See.</li>
+<li><b>____</b> <b>(die vielen Probleme)</b> müssen wir eine Lösung finden.</li>
+<li><b>____</b> <b>(der Hauptbahnhof)</b> gibt es viele Geschäfte.</li>
+<li><b>____</b> <b>(die finanzielle Situation)</b> gibt es keine Änderungen.</li>
+</ol>
+<hr>
+<h3>Ответы и объяснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>Ungeachtet des schlechten Wetters</b><ul>
+<li><b>Объяснение:</b> <b>Ungeachtet</b> означает &quot;несмотря на&quot;, что подходит по смыслу. Существительное ставится в Genitiv.</li>
+</ul>
+</li>
+<li><b>Hinsichtlich seiner Erfahrung</b><ul>
+<li><b>Объяснение:</b> <b>Hinsichtlich</b> означает &quot;касательно&quot; или &quot;в отношении&quot; и используется для уточнения.</li>
+</ul>
+</li>
+<li><b>Anlässlich des Jubiläums</b><ul>
+<li><b>Объяснение:</b> <b>Anlässlich</b> означает &quot;по случаю&quot;, что соответствует контексту праздника.</li>
+</ul>
+</li>
+<li><b>Mithilfe eines Seils</b><ul>
+<li><b>Объяснение:</b> <b>Mithilfe</b> используется, когда речь идет о помощи или использовании какого-либо средства.</li>
+</ul>
+</li>
+<li><b>Oberhalb der Stadt</b><ul>
+<li><b>Объяснение:</b> <b>Oberhalb</b> указывает на местоположение &quot;над&quot; чем-либо.</li>
+</ul>
+</li>
+<li><b>Angesichts der vielen Probleme</b><ul>
+<li><b>Объяснение:</b> <b>Angesichts</b> означает &quot;ввиду, учитывая&quot; и указывает на причину.</li>
+</ul>
+</li>
+<li><b>Unweit des Hauptbahnhofs</b><ul>
+<li><b>Объяснение:</b> <b>Unweit</b> означает &quot;недалеко от&quot; и используется для указания местоположения.</li>
+</ul>
+</li>
+<li><b>Hinsichtlich der finanziellen Situation</b><ul>
+<li><b>Объяснение:</b> <b>Hinsichtlich</b> снова используется для того, чтобы уточнить, что разговор ведется &quot;касательно&quot; финансовой ситуации.</li>
+</ul>
+</li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-136","guide":{"title":"Предлоги с Dativ и предлоги с Genitiv","kind":"grammar","level":"C1","html":"$22","materials":[],"meta":"Недели 50-54"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

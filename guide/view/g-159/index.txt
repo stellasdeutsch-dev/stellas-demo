@@ -1,0 +1,555 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-159","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-159",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T5299,<h2>Kausale Zusammenhänge — Причинно-следственные связи</h2><div class="guide-media"><a href="https://gemini.google.com/share/5eef8b43ee77" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3>Kausale Zusammenhänge — когда хочешь объяснить «почему»</h3>
+<blockquote>
+
+
+<p>Тебя спросят: Warum?</p>
+<p>Ты не просто скажешь <i>weil ich müde bin</i></p>
+<p>Ты выложишь арсенал: <i>deshalb</i>, <i>aufgrund</i>, <i>infolge</i>, <i>da</i>, <i>wegen</i>, <i>nämlich</i>.</p>
+<p>И звучишь как C1-машина 💣</p>
+</blockquote>
+
+
+
+<hr>
+<h2>Что такое Kausalsätze?</h2>
+<p>Это <b>придаточные предложения причины</b>, которые отвечают на вопрос:</p>
+<blockquote>
+<p>Warum? Weshalb? Weswegen? Wieso? Aus welchem Grund?</p>
+</blockquote>
+<hr>
+<h2>Структура причинного предложения:</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Тип</th>
+<th>Пример</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>HS + <b>weil</b> NS</td>
+<td>Ich bleibe zu Hause, <b>weil ich krank bin</b>.</td>
+<td>Я остаюсь дома, потому что болен.</td>
+</tr>
+<tr>
+<td><b>Da</b> NS + HS</td>
+<td><b>Da ich krank bin</b>, bleibe ich zu Hause.</td>
+<td>Так как я болен, я остаюсь дома.</td>
+</tr>
+<tr>
+<td>HS + <b>denn</b> HS</td>
+<td>Ich bleibe zu Hause, <b>denn ich bin krank</b>.</td>
+<td>Я остаюсь дома, ведь я болен.</td>
+</tr>
+<tr>
+<td>HS. <b>nämlich</b> HS</td>
+<td>Ich bin zu Hause. Ich bin <b>nämlich</b> krank.</td>
+<td>Я дома. Я, видите ли, болен.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>Основные каузальные союзы:</h2>
+<h3>1. <b>weil</b> — потому что</h3>
+<p>Самый базовый союз, причина в Nebensatz (NS).</p>
+<p><i>Ich komme nicht, weil ich müde bin.</i></p>
+<p>(Союзное слово на <b>конце</b>, структура NS)</p>
+<hr>
+<h3>2. <b>da</b> — так как</h3>
+<p>💼 Более формально, часто <b>в начале предложения</b>. Указывает на <b>известную</b> причину.</p>
+<p><i>Da es regnet, bleiben wir zu Hause.</i></p>
+<hr>
+<h3>3. <b>denn</b> — ведь</h3>
+<p>➡️ Строит связь между <b>двумя Hauptsätzen</b>, без инверсии. Кома обязательна!</p>
+<p><i>Ich gehe nicht raus, denn es ist kalt.</i></p>
+<hr>
+<h3>4. <b>nämlich</b> — а именно / видите ли</h3>
+<p>⚠️ Стоит на <b>третьем месте</b>, <b>после точки</b>, используется только <b>во втором Hauptsatz</b>.</p>
+<p><i>Ich kann heute nicht kommen. Ich bin nämlich krank.</i></p>
+<hr>
+<h2>Причинные Adverbien (с инверсией!)</h2>
+<p>Эти слова всегда требуют: <b>Adverb (1 или 3 позиция) + глагол</b></p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Наречие</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>deshalb</b></td>
+<td>поэтому</td>
+</tr>
+<tr>
+<td><b>deswegen</b></td>
+<td>из-за этого</td>
+</tr>
+<tr>
+<td><b>daher</b></td>
+<td>по этой причине</td>
+</tr>
+<tr>
+<td><b>darum</b></td>
+<td>вот почему</td>
+</tr>
+<tr>
+<td><b>aus diesem Grund</b></td>
+<td>по этой причине</td>
+</tr>
+</tbody></table></div>
+<p><i>Es regnet. Deshalb bleibe ich zu Hause.</i></p>
+<p><i>Ich habe kein Geld. Ich gehe deswegen nicht ins Kino.</i></p>
+<hr>
+<h2>🧾 Nominalstil: Причина через существительное</h2>
+<p>Если хочешь звучать как профессор, используй <b>предлоги + существительное</b>.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Предлог</th>
+<th>Падеж</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>wegen</b></td>
+<td>Genitiv</td>
+<td>Wegen der Krankheit bleibe ich zu Hause.</td>
+</tr>
+<tr>
+<td><b>aufgrund</b></td>
+<td>Genitiv</td>
+<td>Aufgrund des Staus kam ich zu spät.</td>
+</tr>
+<tr>
+<td><b>infolge</b></td>
+<td>Genitiv</td>
+<td>Infolge des Unfalls fiel der Unterricht aus.</td>
+</tr>
+<tr>
+<td><b>aus</b></td>
+<td>Dativ</td>
+<td>Aus Angst lief sie weg.</td>
+</tr>
+<tr>
+<td><b>vor</b></td>
+<td>Dativ</td>
+<td>Vor Freude hat er geweint.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>💡 Формула Nominalstil:</h3>
+<blockquote>
+<p>Präposition + Substantiv (mit Artikel) = Grund</p>
+</blockquote>
+<p><i>Aufgrund technischer Probleme wird das Event verschoben.</i></p>
+<p><i>Wegen starker Schmerzen ging sie nicht zur Arbeit.</i></p>
+<p><i>Vor Angst konnte sie nicht sprechen.</i></p>
+<hr>
+<h2>Сравнение:</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Формат</th>
+<th>Пример</th>
+<th>Особенности</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>weil</b></td>
+<td>Ich komme nicht, <b>weil ich krank bin</b>.</td>
+<td>NS, конец глагола</td>
+</tr>
+<tr>
+<td><b>da</b></td>
+<td><b>Da ich krank bin</b>, komme ich nicht.</td>
+<td>NS в начале, формальнее</td>
+</tr>
+<tr>
+<td><b>denn</b></td>
+<td>Ich komme nicht, <b>denn ich bin krank</b>.</td>
+<td>HS + HS, без инверсии</td>
+</tr>
+<tr>
+<td><b>nämlich</b></td>
+<td>Ich bin nicht da. Ich bin <b>nämlich</b> krank.</td>
+<td>стоит в 3 позиции</td>
+</tr>
+<tr>
+<td><b>deshalb</b></td>
+<td>Ich bin krank. <b>Deshalb</b> bleibe ich zu Hause.</td>
+<td>требует инверсии</td>
+</tr>
+<tr>
+<td><b>wegen</b></td>
+<td><b>Wegen der Krankheit</b> bleibe ich zu Hause.</td>
+<td>Nominalstil, Genitiv</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>Хитрости для экзаменов:</h2>
+<ul>
+<li><b>Хочешь звучать умнее?</b> → используй <i>aufgrund</i>, <i>infolge</i>, <i>aus diesem Grund</i></li>
+<li><b>Хочешь упростить речь?</b> → используй <i>weil</i>, <i>denn</i></li>
+<li><b>Хочешь быть формальным?</b> → начинай с <i>da</i></li>
+<li><b>Хочешь точности?</b> → <i>wegen</i> + Genitiv всегда работает</li>
+</ul><hr><h2>Konditionale Zusammenhänge — Условные связи</h2><div class="guide-media"><a href="https://gemini.google.com/share/15a7553a0ea1" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<hr>
+<h3>Konditionale Zusammenhänge — если бы да кабы, да по-немецки</h3>
+<p>Это <b>придаточные предложения условия</b> (Konditionalsätze), которые отвечают на вопрос:</p>
+<blockquote>
+<p>Unter welcher Bedingung? — При каком условии?</p>
+</blockquote>
+<hr>
+<h2>3 уровня условности:</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Условие</th>
+<th>Реальность</th>
+<th>Время</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Реальное</td>
+<td>возможное/реальное</td>
+<td>Präsens</td>
+<td>Wenn ich Zeit habe, helfe ich dir.</td>
+</tr>
+<tr>
+<td>Малореальное</td>
+<td>маловероятное</td>
+<td>Konjunktiv II</td>
+<td>Wenn ich Zeit <b>hätte</b>, würde ich dir helfen.</td>
+</tr>
+<tr>
+<td>Нереальное (прошлое)</td>
+<td>уже не случилось</td>
+<td>Konjunktiv II Vergangenheit</td>
+<td>Wenn ich Zeit <b>gehabt hätte</b>, <b>hätte</b> ich dir geholfen.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>Основная структура:</h2>
+<blockquote>
+
+
+<p>Wenn + NS (условие), HS (результат)</p>
+<p>или</p>
+<p><b>HS, wenn + NS</b></p>
+</blockquote>
+
+
+
+<hr>
+<h2>Варианты выражения условия:</h2>
+<h3>1. <b>wenn</b> — если, когда</h3>
+<p>Самый универсальный союз для условия.</p>
+<p><i>Wenn es regnet, bleiben wir zu Hause.</i></p>
+<p>→ Если пойдёт дождь — останемся дома.</p>
+<hr>
+<h3>2. <b>falls</b> — в случае если</h3>
+<p>Более формально, чем <i>wenn</i>.</p>
+<p><i>Falls du Fragen hast, sag Bescheid.</i></p>
+<p>→ В случае, если у тебя будут вопросы — скажи.</p>
+<hr>
+<h3>3. <b>sofern</b> — при условии, что</h3>
+<p>Официально, часто в контрактах.</p>
+<p><i>Sie bekommen das Geld zurück, sofern Sie den Beleg vorzeigen.</i></p>
+<p>→ Вы получите деньги обратно, при условии, что покажете чек.</p>
+<hr>
+<h3>4. <b>unter der Voraussetzung, dass</b> — при условии, что</h3>
+<p>💼 Очень формально. Часто в договорах, научных текстах.</p>
+<p><i>Unter der Voraussetzung, dass Sie pünktlich zahlen, wird der Vertrag verlängert.</i></p>
+<p>→ Если вы вовремя платите, договор продлевается.</p>
+<hr>
+<h3>5. <b>es sei denn</b> — если только не / разве что</h3>
+<p>Используется в <b>главном предложении</b> и вводит <b>исключение</b> из правила.</p>
+<p><i>Ich gehe joggen, es sei denn, es regnet.</i></p>
+<p>→ Я пойду на пробежку — разве что пойдёт дождь.</p>
+<hr>
+<h3>6. <b>außer wenn / außer dass</b> — кроме как, если не</h3>
+<p>Синоним <i>es sei denn</i>, но чаще в разговорной речи.</p>
+<p><i>Ich mache das nicht, außer wenn du mitkommst.</i></p>
+<p>→ Я это не сделаю, если только ты не пойдёшь со мной.</p>
+<hr>
+<h3>7. <b>nur wenn</b> — только если</h3>
+<p>Ограничивает действие.</p>
+<p><i>Du darfst mitkommen, nur wenn du leise bist.</i></p>
+<p>→ Ты можешь пойти, только если будешь тихим.</p>
+<hr>
+<h3>8. <b>im Falle, dass...</b> — в случае, если</h3>
+<p>Формальное выражение, заменяет <i>wenn</i></p>
+<p><i>Im Falle, dass die Lieferung nicht ankommt, informieren Sie uns sofort.</i></p>
+<p>→ В случае, если поставка не придёт — сообщите нам.</p>
+<hr>
+<h2>Сравнение: wenn vs falls vs sofern</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Союз</th>
+<th>Регистрация</th>
+<th>Оттенок</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>wenn</td>
+<td>нейтральный</td>
+<td>просто &quot;если&quot;</td>
+</tr>
+<tr>
+<td>falls</td>
+<td>более формальный</td>
+<td>гипотетически</td>
+</tr>
+<tr>
+<td>sofern</td>
+<td>официальный, жёсткий</td>
+<td>строгое условие</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>Irreale Bedingung: Konjunktiv-Power</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Условие</th>
+<th>Результат</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Wenn ich mehr Geld <b>hätte</b>,</td>
+<td><b>würde</b> ich reisen.</td>
+</tr>
+<tr>
+<td>Wenn er das gesagt <b>hätte</b>,</td>
+<td><b>hätte</b> ich anders reagiert.</td>
+</tr>
+</tbody></table></div>
+<blockquote>
+
+
+<p>Формула:</p>
+<p><b>wenn + Konjunktiv II / II Vergangenheit</b>, <b>würde / hätte / wäre + Infinitiv / Partizip II</b></p>
+</blockquote>
+
+
+
+<hr>
+<h2>Лайфхаки:</h2>
+<ul>
+<li><b>Es sei denn</b> = <i>исключение</i>, а не условие</li>
+<li><b>Nur wenn</b> = <i>строгое условие</i>, не путать с <i>immer wenn</i></li>
+<li>Всегда смотри на <b>время</b> и <b>реальность</b> ситуации, чтобы правильно выбрать форму</li>
+</ul><hr><h2>Konzessive Zusammenhänge — Уступительные связи</h2><div class="guide-media"><a href="https://gemini.google.com/share/bd6b0c1de1c5" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<hr>
+<h3>Что вообще считается уступкой</h3>
+<p><b>Идея:</b> действие случается <b>вопреки</b> условию/факту.</p>
+<p><b>Инструменты:</b></p>
+<ul>
+<li><b>Вербально:</b> придаточные с союзами (<i>obwohl, (auch/selbst) wenn, wenngleich…</i>) и пары в главных предложениях (<i>trotzdem, dennoch, zwar…aber</i>).</li>
+<li><b>Номинально:</b> предлоги (<i>trotz + Gen</i>, <i>selbst/auch bei + Dat</i>, <i>ungeachtet + Gen</i>, <i>zum Trotz</i>).</li>
+</ul>
+<hr>
+<h3>Быстрые формулы (с примерами)</h3>
+<p><b>1) obwohl / obgleich / obschon / wenngleich</b> — «хотя» (факт)</p>
+<p><b>Формула:</b> <code>NS [Verb am Ende], HS [Inversion]</code></p>
+<p><i>Obwohl der Bericht fertig ist, fragt der Chef nach Änderungen.</i></p>
+<p><i>Wenngleich es regnete, blieben wir im Park.</i></p>
+<p><b>2) auch wenn / selbst wenn</b> — «даже если» (гипотеза/условие; у <b>selbst</b> — сильнее)</p>
+<p><b>Формула:</b> <code>NS [Verb am Ende], HS [Inversion]</code></p>
+<p><i>Selbst wenn du Recht hast, ändere ich die Strategie nicht.</i></p>
+<p><i>Auch wenn es teuer wäre, würden wir es kaufen.</i></p>
+<p><b>3) trotzdem / dennoch / gleichwohl</b> — «несмотря на это» (наречие в главном)</p>
+<p><b>Формула:</b> <code>…, trotzdem + V + S …</code> (инверсия после наречия!)</p>
+<p><i>Die Kritik war hart, trotzdem blieb das Team ruhig.</i></p>
+<p><i>Die Daten sind lückenhaft; dennoch präsentieren wir die Ergebnisse.</i></p>
+<p><b>4) zwar …, aber …</b> — «хотя и…, но…» (контраст внутри главных)</p>
+<p><b>Формула:</b> <code>Zwar + HS, aber + HS</code></p>
+<p><i>Zwar ist der Plan riskant, aber die Chance ist einmalig.</i></p>
+<p><b>5) wie/so/noch … auch</b> — изящная уступка «как ни…» (C1)</p>
+<p><b>Формула:</b> <code>Wie/So + Adj/Adv + … + auch + [Verb am Ende], HS</code></p>
+<p><i>Wie überzeugend die Zahlen auch wirken, wir bleiben vorsichtig.</i></p>
+<p><i>So sehr ich mich auch bemühe, der Fehler bleibt.</i></p>
+<p><b>6) mag … auch (, so)</b> — формально-книжное «пусть даже…»</p>
+<p><b>Формула:</b> <code>Mag + S + … + auch, so + HS</code></p>
+<p><i>Mag die Lösung auch elegant sein, so ist sie kaum praktikabel.</i></p>
+<p><b>7) Предлоги (номинально)</b></p>
+<ul>
+<li><b>trotz + Gen</b> — <i>несмотря на</i><p>
+<i>Trotz des Regens fand das Konzert statt.</i>
+</p></li>
+<li><b>selbst/auch bei + Dat</b> — <i>даже при</i><p>
+<i>Selbst bei minimalem Budget liefern wir Qualität.</i>
+</p></li>
+<li><b>ungeachtet + Gen / zum Trotz</b> — формальнее/выразительнее<p>
+<i>Ungeachtet der Einwände wurde der Vertrag unterschrieben.</i>
+</p>
+
+<p>
+<i>Den Warnungen zum Trotz reiste sie allein.</i>
+</p></li>
+</ul>
+<hr>
+<h3>Когда что выбирать (смысл и оттенки)</h3>
+<ul>
+<li><b>Факт vs гипотеза:</b> <i>obwohl</i> = реальный факт; <i>(selbst/auch) wenn</i> = допущение/условие.</li>
+<li><b>Сила уступки:</b> <code>selbst wenn</code> &gt; <code>auch wenn</code> по «жёсткости».</li>
+<li><b>Стиль:</b> <code>dennoch/gleichwohl, ungeachtet</code> — формальнее; <code>zwar…aber</code> — нейтрально-письменно; <code>mag … auch</code> — книжно.</li>
+<li><b>Фокус:</b> предлоги (<i>trotz, bei</i>) уплотняют текст (номинальный стиль), а союзы дают динамику (вербальный стиль).</li>
+</ul>
+<hr>
+<h3>Порядок слов и запятых — мини-шпаргалка</h3>
+<ul>
+<li><b>Придаточное вперёд → инверсия в главном:</b><p>
+<i>Obwohl er müde war, </i><i><b>arbeitete</b></i><i> er weiter.</i> (глагол сразу после запятой)
+</p></li>
+<li><b>trotzdem/dennoch в начале главного → инверсия:</b><p>
+<i>…; trotzdem </i><i><b>bleiben</b></i><i> wir dran.</i>
+</p></li>
+<li><b>trotz vs trotzdem — не путать:</b><p>
+<code>trotz</code> = предлог (<i>trotz des Lärms</i>), <code>trotzdem</code> = наречие (<i>Es war laut, trotzdem…</i>).
+</p></li>
+</ul>
+<hr>
+<h3>Частые ошибки (и как чинить)</h3>
+<ul>
+<li><b>✗</b> <i>trotzdem des Regens</i> → <b>✓</b> <i>trotz des Regens</i>.</li>
+<li><b>✗</b> Факт с <i>auch wenn</i>: <i>Auch wenn er krank war, blieb er zu Hause.</i><p>
+Лучше <b>✓</b> <i>Obwohl er krank war, blieb er zu Hause.</i>
+</p></li>
+<li><b>✗</b> Нет инверсии после <i>trotzdem</i>: <i>Trotzdem wir bleiben hier.</i><p>
+<b>✓</b> <i>Trotzdem bleiben wir hier.</i>
+</p></li>
+<li><b>Genitiv после trotz:</b> в разговорной речи встречается Dativ (<i>trotz dem</i>), но в норме — <b>Genitiv</b>.</li>
+</ul>
+<hr>
+<h3>Быстрая перекомпоновка: говорим то же, но по-разному</h3>
+<ul>
+<li><b>Obwohl</b> → <b>trotzdem</b><p>
+<i>Obwohl die Deadline eng ist, liefern wir pünktlich.</i> →
+</p>
+
+<p>
+<i>Die Deadline ist eng, trotzdem liefern wir pünktlich.</i>
+</p></li>
+<li><b>auch/selbst bei</b> → <b>auch/selbst wenn</b><p>
+<i>Selbst bei hoher Belastung bleibt sie ruhig.</i> →
+</p>
+
+<p>
+<i>Selbst wenn die Belastung hoch ist, bleibt sie ruhig.</i>
+</p></li>
+<li><b>trotz + Gen</b> → <b>zwar…aber</b><p>
+<i>Trotz der Risiken starten wir das Projekt.</i> →
+</p>
+
+<p>
+<i>Zwar gibt es Risiken, aber wir starten das Projekt.</i>
+</p></li>
+</ul>
+<hr>
+<h3>Итог — что запомнить</h3>
+<ul>
+<li><b>Факт?</b> → <i>obwohl/wenngleich</i> или <i>trotzdem/dennoch</i>.</li>
+<li><b>Гипотеза/допущение?</b> → <i>(selbst/auch) wenn</i>.</li>
+<li><b>Литературно/усилить?</b> → <i>wie/so/noch … auch</i>, <i>mag … auch</i>, <i>ungeachtet</i>.</li>
+<li><b>Композиция важнее всего:</b> после придаточного — <b>инверсия</b> в главном; <i>trotz</i> ≠ <i>trotzdem</i>; после наречий-связок — <b>инверсия</b>.</li>
+</ul>
+<hr>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/fVFAUjnB30w?si=kXE49SMh6ZfXtU0r" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Мини-тренажёр (1 формат, 10 заданий)</h3>
+<p><b>A. Переформулируй, сохрани смысл уступки.</b></p>
+<ol>
+<li><p><i>Obwohl die Kosten gestiegen sind, bleibt die Nachfrage stabil.</i> → с <b>trotzdem</b></p>
+</li>
+<li><p><i>Selbst wenn du mir widersprichst, ändere ich meine Meinung nicht.</i> → с <b>mag … auch</b></p>
+</li>
+<li><p><i>Trotz des Lärms konnten wir einschlafen.</i> → с <b>obwohl</b></p>
+</li>
+<li><p><i>Zwar ist das Gerät alt, aber es funktioniert zuverlässig.</i> → с <b>trotz + Gen</b></p>
+</li>
+<li><p><i>Wie detailliert der Bericht auch ist, er überzeugt nicht.</i> → с <b>dennoch</b></p>
+</li>
+<li><p><i>Selbst bei minimaler Unterstützung setzt das Team die Idee um.</i> → с <b>auch wenn</b></p>
+</li>
+<li><p><i>Ungeachtet der Kritik hielt sie an der Entscheidung fest.</i> → с <b>zwar…aber</b></p>
+</li>
+<li><p><i>Auch wenn es spät ist, machen wir weiter.</i> → с <b>obgleich</b></p>
+</li>
+<li><p><i>Den Warnungen zum Trotz reiste er ab.</i> → с <b>trotzdem</b></p>
+</li>
+<li><p><i>Wenngleich die Lösung komplex ist, spart sie Zeit.</i> → с <b>selbst bei</b></p>
+</li>
+<li><p><i>Die Kosten sind gestiegen, </i><i><b>trotzdem</b></i><i> bleibt die Nachfrage stabil.</i></p>
+</li>
+<li><p><i><b>Mag</b></i><i> du mir auch widersprechen, </i><i><b>so</b></i><i> ändere ich meine Meinung nicht.</i></p>
+</li>
+<li><p><i><b>Obwohl</b></i><i> es laut war, konnten wir einschlafen.</i></p>
+</li>
+<li><p><i><b>Trotz des</b></i><i> Alters funktioniert das Gerät zuverlässig.</i></p>
+</li>
+<li><p><i>Der Bericht ist sehr detailliert; </i><i><b>dennoch</b></i><i> überzeugt er nicht.</i></p>
+</li>
+<li><p><i><b>Auch wenn</b></i><i> die Unterstützung minimal ist, setzt das Team die Idee um.</i></p>
+</li>
+<li><p><i>Zwar gab es Kritik, </i><i><b>aber</b></i><i> sie hielt an der Entscheidung fest.</i></p>
+</li>
+<li><p><i><b>Obgleich</b></i><i> es spät ist, machen wir weiter.</i></p>
+</li>
+<li><p><i>Es gab Warnungen, </i><i><b>trotzdem</b></i><i> reiste er ab.</i></p>
+</li>
+<li><p><i><b>Selbst bei</b></i><i> komplexer Lösung spart sie Zeit.</i></p>
+</li>
+</ol>13:["$","$L21",null,{"id":"g-159","guide":{"title":"Kausale Zusammenhänge, Konditionale, Konzessive","kind":"grammar","level":"C1","html":"$22","materials":[],"meta":"Недели 60-66"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

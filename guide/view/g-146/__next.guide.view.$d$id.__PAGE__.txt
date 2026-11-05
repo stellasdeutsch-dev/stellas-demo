@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T17c1,<div class="guide-media"><a href="https://gemini.google.com/share/4a3941d7e3c2" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<hr>
+<h3>Modalpartikeln — секретные специи немецкой речи</h3>
+<blockquote>
+
+
+<p>Скучный немецкий:</p>
+<p>Ich weiß das.</p>
+<p>Настоящий немецкий:</p>
+<p>Ich weiß <b>ja</b>.</p>
+<p>Чувствуешь разницу? Вот оно — волшебство <b>модальных частиц</b>.</p>
+</blockquote>
+
+
+
+<hr>
+<h3>Что такое Modalpartikeln?</h3>
+<p>Это <b>маленькие слова</b>, которые:</p>
+<ul>
+<li>ничего не переводят дословно</li>
+<li>ничего не изменяют по грамматике</li>
+<li>но делают твою речь живой, естественной, “немецкой”</li>
+<li>передают <b>настроение</b>, <b>отношение</b>, <b>подтекст</b></li>
+</ul>
+<hr>
+<h3>⚠️ Главное правило</h3>
+<p>❗ Модальные частицы <b>не переводятся дословно</b></p>
+<p>❗ Они <b>не обязательны</b>, но без них ты звучишь как учебник</p>
+<hr>
+<h3>Как они работают?</h3>
+<p><b>Они обычно стоят в середине предложения</b>, после подлежащего, перед глаголом или другим важным словом.</p>
+<p><b>Пример:</b></p>
+<p>Du <b>kannst ja</b> später kommen.</p>
+<p>→ <i>Ты же можешь потом прийти.</i> (мягко, с оттенком &quot;ты ведь и сам это знаешь&quot;)</p>
+<hr>
+<h3>💣 ТОП-7 модальных частиц, которые надо знать</h3>
+<h3>1. <b>ja</b> — ты же знаешь / ведь</h3>
+<p>Передаёт: очевидность, напоминание</p>
+<p><b>Пример:</b></p>
+<p>Das ist <b>ja</b> klar!</p>
+<p>→ <i>Ну это же понятно!</i></p>
+<hr>
+<h3>2. <b>doch</b> — но ведь / да нет же</h3>
+<p>Передаёт: противопоставление, несогласие, удивление</p>
+<p><b>Пример:</b></p>
+<p>Komm <b>doch</b> mit!</p>
+<p>→ <i>Ну пойдём же с нами!</i></p>
+<hr>
+<h3>3. <b>mal</b> —-ка / быстренько / неформальность</h3>
+<p>Передаёт: смягчение просьбы, дружелюбие</p>
+<p><b>Пример:</b></p>
+<p>Gib mir <b>mal</b> das Buch.</p>
+<p>→ <i>Дай-ка книжку.</i></p>
+<hr>
+<h3>4. <b>eben / halt</b> — так уж и есть / ничего не поделаешь</h3>
+<p>Передаёт: смирение, принятие факта</p>
+<p><b>Пример:</b></p>
+<p>So ist das <b>halt</b>.</p>
+<p>→ <i>Так уж устроено.</i></p>
+<hr>
+<h3>5. <b>wohl</b> — вероятно / похоже</h3>
+<p>Передаёт: неуверенность, предположение</p>
+<p><b>Пример:</b></p>
+<p>Sie kommt <b>wohl</b> später.</p>
+<p>→ <i>Похоже, она позже придёт.</i></p>
+<hr>
+<h3>6. <b>schon</b> — уже / всё ок / само собой</h3>
+<p>Передаёт: уверенность, убеждение</p>
+<p><b>Пример:</b></p>
+<p>Das wird <b>schon</b> klappen.</p>
+<p>→ <i>Да всё получится.</i></p>
+<hr>
+<h3>7. <b>nur</b> — только / разве</h3>
+<p>Передаёт: усиление, запрет, угроза (в определённом контексте)</p>
+<p><b>Пример:</b></p>
+<p>Tu das <b>nur</b> nicht!</p>
+<p>→ <i>Только не делай этого!</i></p>
+<hr>
+<h3>Сравнение без и с частицей</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Без частицы</th>
+<th>С частицей</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Mach das! (<i>Сделай это!</i>)</td>
+<td>Mach <b>doch</b> mal! (<i>Ну сделай же!</i>)</td>
+</tr>
+<tr>
+<td>Komm rein. (<i>Заходи.</i>)</td>
+<td>Komm <b>doch</b> <b>mal</b> rein! (<i>Да заходи уже!</i>)</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Мини-лайфхаки:</h3>
+<ul>
+<li>Хочешь <b>прозвучать мило</b> — добавь <b>mal</b></li>
+<li>Хочешь <b>выразить недовольство мягко</b> — добавь <b>doch</b></li>
+<li>Хочешь <b>показать, что и сам всё понимаешь</b> — добавь <b>ja</b></li>
+<li>Хочешь <b>смириться с судьбой</b> — <b>halt eben</b> твоё всё</li>
+</ul>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/XOmGu-sJxEc?si=XzBx645svORwZpQF" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h2>Упражнение</h2>
+<p><b>Задание:</b> Вставь подходящую <b>Modalpartikel</b> из списка (<b>ja, doch, mal, halt, wohl, schon, nur</b>) так, чтобы фраза звучала естественно по-немецки.</p>
+<ol>
+<li>Das ist ___ klar! <i>(Ну это же понятно!)</i></li>
+<li>Komm ___ mit! <i>(Ну пойдём же с нами!)</i></li>
+<li>Gib mir ___ das Buch. <i>(Дай-ка книжку.)</i></li>
+<li>So ist das ___. <i>(Так уж устроено.)</i></li>
+<li>Sie kommt ___ später. <i>(Похоже, она позже придёт.)</i></li>
+<li>Das wird ___ klappen. <i>(Да всё получится.)</i></li>
+<li>Tu das ___ nicht! <i>(Только не делай этого!)</i></li>
+</ol>
+<hr>
+<h2>Ответы</h2><details><summary>Показать ответы</summary>
+<ol>
+<li><b>ja</b> <i>(ведь)</i></li>
+<li><b>doch</b> <i>(же)</i></li>
+<li><b>mal</b> <i>(-ка)</i></li>
+<li><b>halt</b> <i>(так уж)</i></li>
+<li><b>wohl</b> <i>(вероятно)</i></li>
+<li><b>schon</b> <i>(уж точно)</i></li>
+<li><b>nur</b> <i>(только)</i></li>
+</ol>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-146","guide":{"title":"Modalpartikeln","kind":"grammar","level":"C1","html":"$1c","materials":[],"meta":"Недели 55-59"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-146","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

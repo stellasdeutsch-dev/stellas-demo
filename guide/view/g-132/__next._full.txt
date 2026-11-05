@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-132","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-132",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T2145,<div class="guide-media"><a href="https://gemini.google.com/share/8250fb354199" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Классический пассив в немецком — это <b>werden + Partizip II</b>.</p>
+<p>Но немцы любят изобретать велосипеды — и часто вместо этого используют <b>bekommen / kriegen + Partizip II</b>.</p>
+<p>Это не просто понты — у такой конструкции есть свой вкус и смысл. 🍋</p>
+<hr>
+<h3><b>1. Когда используем?</b></h3>
+<p><b>bekommen + Partizip II</b> = <b>получить что-то сделанным</b>.</p>
+<p>Обычно — когда говорим о том, что <b>кто-то стал получателем действия</b>.</p>
+<p>💡 <i>bekommen</i> = более нейтрально.</p>
+<p>💡 <i>kriegen</i> = разговорно.</p>
+<hr>
+<h3><b>2. Схема</b></h3>
+<aside class="guide-callout">
+
+
+<p><code>Subjekt + bekommen/kriegen + Akkusativobjekt + Partizip II</code></p>
+</aside>
+
+
+
+<p>или проще:</p>
+<p><b>Кто-то получает что-то сделанным</b>.</p>
+<hr>
+<h3><b>3. Примеры</b></h3>
+<p><b>Нормальный пассив:</b></p>
+<ul>
+<li><i>Der Brief wird zugeschickt.</i><p>
+→ Письмо отправляется.
+</p></li>
+</ul>
+<p><b>Пассив с </b><i><b>bekommen</b></i><b>:</b></p>
+<ul>
+<li><i>Ich bekomme den Brief zugeschickt.</i><p>
+→ Мне отправляют письмо. (<i>Я получаю письмо отправленным</i>).
+</p></li>
+</ul>
+<hr>
+<p><b>Нормальный пассив:</b></p>
+<ul>
+<li><i>Die Fenster werden geputzt.</i><p>
+→ Окна моют.
+</p></li>
+</ul>
+<p><b>Пассив с </b><i><b>bekommen</b></i><b>:</b></p>
+<ul>
+<li><i>Wir bekommen die Fenster geputzt.</i><p>
+→ Нам моют окна. (<i>Мы получаем окна помытыми</i>).
+</p></li>
+</ul>
+<hr>
+<p><b>Нормальный пассив:</b></p>
+<ul>
+<li><i>Das Auto wird repariert.</i><p>
+→ Машина ремонтируется.
+</p></li>
+</ul>
+<p><b>Пассив с </b><i><b>bekommen</b></i><b>:</b></p>
+<ul>
+<li><i>Er bekommt das Auto repariert.</i><p>
+→ Ему чинят машину.
+</p></li>
+</ul>
+<hr>
+<h3><b>4. Почему это круче, чем обычный пассив?</b></h3>
+<ul>
+<li>Звучит <b>живее и понятнее</b> в разговорной речи.</li>
+<li>Подчёркивает, что <b>получатель</b> важнее, чем исполнитель.</li>
+<li>Часто звучит <b>естественнее</b>, чем <i>werden</i>пассив в быту.</li>
+</ul>
+<hr>
+<h3><b>5. Как запомнить?</b></h3>
+<p>Представь: <b>bekommen</b> — это про тебя, а не про действие.</p>
+<p>Не «что-то делается», а «мне это сделали».</p>
+<hr>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/fnP9AVSqv1g?si=i55rAIJHsx98FKZg" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения: Замена пассива с bekommen</h3>
+<hr>
+<h3>Задание 1. Переведите предложения на немецкий язык, используя конструкцию <b>bekommen + Partizip II</b>.</h3>
+<ol>
+<li>Мне починили велосипед.</li>
+<li>Мы получили счета отправленными.</li>
+<li>Тебе покрасят стены.</li>
+<li>Ей принесут кофе в постель.</li>
+<li>Мне завтра доставят посылку.</li>
+</ol>
+<hr>
+<h3>Задание 2. Замените обычный пассив (werden + Partizip II) на конструкцию с <b>bekommen + Partizip II</b>, если это возможно. Если нет — объясните почему.</h3>
+<ol>
+<li>Die Blumen werden gegossen. (Цветы поливают.)</li>
+<li>Das Buch wird mir zurückgegeben. (Книгу мне вернут.)</li>
+<li>Die Prüfung wird bestanden. (Экзамен будет сдан.)</li>
+<li>Der Text wird von der Lehrerin korrigiert. (Текст исправляет учительница.)</li>
+<li>Die Aufgabe wird mir erklärt. (Задачу мне объяснят.)</li>
+</ol>
+<hr>
+<h3>Ответы и объяснения</h3><details><summary>Показать ответы</summary>
+<hr>
+</details><h3>Задание 1.</h3>
+<ol>
+<li><b>Ich bekomme das Fahrrad repariert.</b> (Я получаю велосипед починенным.)<ul>
+<li><b>Объяснение:</b> Конструкция позволяет подчеркнуть, что вы — получатель действия, а не просто объект.</li>
+</ul>
+</li>
+<li><b>Wir bekommen die Rechnungen zugeschickt.</b> (Мы получаем счета отправленными.)<ul>
+<li><b>Объяснение:</b> Здесь мы также акцентируем внимание на том, что мы — получатели действия.</li>
+</ul>
+</li>
+<li><b>Du bekommst die Wände gestrichen.</b> (Ты получаешь стены покрашенными.)<ul>
+<li><b>Объяснение:</b> Эта конструкция делает предложение более живым и разговорным, фокусируясь на результате для тебя.</li>
+</ul>
+</li>
+<li><b>Sie bekommt den Kaffee ans Bett gebracht.</b> (Она получает кофе принесенным в постель.)<ul>
+<li><b>Объяснение:</b> Это естественная бытовая ситуация, где <b>bekommen-Passiv</b> звучит очень уместно.</li>
+</ul>
+</li>
+<li><b>Ich bekomme das Paket morgen geliefert.</b> (Я получаю посылку доставленной завтра.)<ul>
+<li><b>Объяснение:</b> Идеальный пример для этой конструкции, так как подчеркивается, что вы — получатель посылки.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3>Задание 2.</h3>
+<ol>
+<li><b>Die Blumen werden gegossen.</b><ul>
+<li><b>Ответ:</b> Замена невозможна.</li>
+<li><b>Объяснение:</b> У конструкции с <b>bekommen</b> всегда есть получатель действия. В этом предложении речь идет о действии в целом, а не о том, что кто-то получает цветы политыми.</li>
+</ul>
+</li>
+<li><b>Das Buch wird mir zurückgegeben.</b><ul>
+<li><b>Ответ:</b> <b>Ich bekomme das Buch zurückgegeben.</b></li>
+<li><b>Объяснение:</b> Здесь есть четкий получатель действия — &quot;mir&quot; (мне), поэтому мы можем легко заменить пассив, поставив &quot;Ich&quot; на первое место.</li>
+</ul>
+</li>
+<li><b>Die Prüfung wird bestanden.</b><ul>
+<li><b>Ответ:</b> Замена невозможна.</li>
+<li><b>Объяснение:</b> Нет получателя действия. Экзамен просто &quot;сдаётся&quot; — это абстрактное действие, а не что-то, что кто-то &quot;получает&quot; сделанным.</li>
+</ul>
+</li>
+<li><b>Der Text wird von der Lehrerin korrigiert.</b><ul>
+<li><b>Ответ:</b> Замена невозможна.</li>
+<li><b>Объяснение:</b> В этом предложении акцент сделан на исполнителе действия (<b>von der Lehrerin</b>). Конструкция с <b>bekommen</b> используется, когда исполнитель неизвестен или не важен, а важен именно получатель.</li>
+</ul>
+</li>
+<li><b>Die Aufgabe wird mir erklärt.</b><ul>
+<li><b>Ответ:</b> <b>Ich bekomme die Aufgabe erklärt.</b></li>
+<li><b>Объяснение:</b> Как и во втором примере, здесь есть четкий получатель действия (&quot;mir&quot; - мне), поэтому мы можем использовать <b>bekommen-Passiv</b>, чтобы подчеркнуть, что именно я получаю объяснение.</li>
+</ul>
+</li>
+</ol>13:["$","$L21",null,{"id":"g-132","guide":{"title":"Замена пассива с bekommen + Partizip II","kind":"grammar","level":"C1","html":"$22","materials":[],"meta":"Недели 45-49"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

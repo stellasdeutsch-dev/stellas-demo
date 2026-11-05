@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T2742,<div class="guide-media"><a href="https://gemini.google.com/share/38ae334ad6b4" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>В немецком языке причастия Partizip I и Partizip II используются не только для построения времен и залогов, но и выступают в роли прилагательных. В этом гайде подробно разберём, как правильно образовать и использовать эти формы.</p>
+<hr>
+<h3>Что такое Partizip I и Partizip II?</h3>
+<p><b>Partizip I</b> (причастие настоящего времени) — это форма, которая описывает активное действие, происходящее сейчас или незавершённое.</p>
+<p>Пример:</p>
+<ul>
+<li>spielen (играть) → spielend (играющий)</li>
+<li>lachen (смеяться) → lachend (смеющийся)</li>
+</ul>
+<p><b>Partizip II</b> (причастие прошедшего времени) — это форма, обозначающая действие завершённое или пассивное.</p>
+<p>Пример:</p>
+<ul>
+<li>bauen (строить) → gebaut (построенный)</li>
+<li>machen (делать) → gemacht (сделанный)</li>
+</ul>
+<hr>
+<h3>🚀 Образование Partizip I</h3>
+<p>Очень просто:</p>
+<p><b>инфинитив глагола + d</b></p>
+<ul>
+<li>gehen → gehend (идущий)</li>
+<li>tanzen → tanzend (танцующий)</li>
+</ul>
+<p>❗️Partizip I склоняется как прилагательное!</p>
+<p>Примеры:</p>
+<ul>
+<li>ein lachendes Mädchen (смеющаяся девочка)</li>
+<li>die sprechenden Leute (говорящие люди)</li>
+</ul>
+<hr>
+<h3>📚 Как употреблять Partizip I?</h3>
+<p>Есть две основные функции:</p>
+<p>✅ <b>Причастие (как прилагательное перед существительным)</b></p>
+<ul>
+<li>der weinende Junge (плачущий мальчик)</li>
+<li>eine wartende Frau (ждущая женщина)</li>
+</ul>
+<p>✅ <b>Деепричастие (отвечает на вопрос «что делая?»)</b></p>
+<ul>
+<li>Das Kind steht weinend. (Ребёнок стоит, плача)</li>
+<li>Er kommt lachend ins Zimmer. (Он входит в комнату, смеясь)</li>
+</ul>
+<p>Однако деепричастия с Partizip I в немецком языке используются редко. Обычно немцы заменяют их простыми предложениями:</p>
+<ul>
+<li>Er steht und weint. (Он стоит и плачет)</li>
+</ul>
+<hr>
+<h3>📌 Особенность: links-атрибуты</h3>
+<p>При использовании Partizip I часто возникают сложные конструкции:</p>
+<ul>
+<li>das schnell fahrende Auto (быстро едущая машина)</li>
+<li>eine auf dem Tisch stehende Lampe (стоящая на столе лампа)</li>
+</ul>
+<p>💡 Эти конструкции можно упростить через Relativsatz (придаточное предложение):</p>
+<ul>
+<li>das Auto, das schnell fährt</li>
+<li>die Lampe, die auf dem Tisch steht</li>
+</ul>
+<hr>
+<h3>🚀 Образование Partizip II</h3>
+<p>✅ <b>Слабые глаголы</b>:</p>
+<p><b>ge + корень + t</b></p>
+<ul>
+<li>machen → gemacht</li>
+<li>spielen → gespielt</li>
+</ul>
+<p>✅ <b>Сильные глаголы</b> (нерегулярные, часто меняется корень):</p>
+<ul>
+<li>schreiben → geschrieben</li>
+<li>sehen → gesehen</li>
+<li>nehmen → genommen</li>
+</ul>
+<hr>
+<h3>📚 Как употреблять Partizip II?</h3>
+<p>✅ <b>Причастие завершённого или пассивного действия (как прилагательное перед существительным)</b>:</p>
+<ul>
+<li>ein gebautes Haus (построенный дом)</li>
+<li>eine geschriebene Nachricht (написанное сообщение)</li>
+</ul>
+<p>✅ <b>Деепричастие совершенного вида</b> (редко используется):</p>
+<ul>
+<li>Die Aufgabe gemacht, ging er nach Hause. (Сделав задание, он пошёл домой)</li>
+</ul>
+<p>💡 Проще заменить:</p>
+<ul>
+<li>Nachdem er die Aufgabe gemacht hatte, ging er nach Hause.</li>
+</ul>
+<p>✅ <b>Активное vs пассивное значение</b>:</p>
+<ul>
+<li>der angekommene Zug (прибывший поезд — активное действие)</li>
+<li>das gelesene Buch (прочитанная книга — пассивное действие)</li>
+</ul>
+<hr>
+<h3>⚠️ Важные нюансы использования</h3>
+<p>✅ <b>Partizip I не используется для пассивного значения, кроме одной конструкции:</b></p>
+<p><b>zu + Partizip I</b> (необходимость или возможность действия)</p>
+<ul>
+<li>ein zu lesendes Buch (книга, которую нужно прочитать)</li>
+<li>die zu erledigende Aufgabe (задача, которую нужно выполнить)</li>
+</ul>
+<p>✅ <b>Множественные дополнения между артиклем и существительным (links-атрибуты) лучше перефразировать через Relativsatz:</b></p>
+<ul>
+<li>das in Deutschland gekaufte Auto → das Auto, das in Deutschland gekauft wurde</li>
+</ul>
+<hr>
+<h3>🎯 Подводим итоги</h3>
+<div class="guide-table"><table> <tr> <td> Partizip I </td> <td> Partizip II </td> </tr> <tr> <td> активное, незавершённое действие </td> <td> пассивное или завершённое действие </td> </tr> <tr> <td> gehen → gehend </td> <td> bauen → gebaut </td> </tr> <tr> <td> ein lachendes Kind </td> <td> ein gebautes Haus </td> </tr> <tr> <td> используется редко как деепричастие </td> <td> используется редко как деепричастие совершенного вида </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>🛠️ Практические советы</h3>
+<ul>
+<li>Учите формы Partizip II неправильных глаголов отдельно.</li>
+<li>Используйте Partizip I и II как прилагательные для живой и естественной речи.</li>
+<li>При затруднениях в сложных конструкциях используйте Relativsatz.</li>
+</ul>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=VMeZLmnppTY" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3><b>📝 Упражнение: Partizip I &amp; Partizip II</b></h3>
+<p>Вставь <b>Partizip I</b> или <b>Partizip II</b> в правильной форме.</p>
+<p>Ставь форму <b>перед существительным</b>, как прилагательное.</p>
+<hr>
+<h3><b>1️⃣ Заполни пропуски</b></h3>
+<ol>
+<li>das ___________ Kind (плакать – weinen)</li>
+<li>die ___________ Lampe (стоять на столе – auf dem Tisch stehen)</li>
+<li>ein ___________ Haus (строить – bauen)</li>
+<li>die gestern ___________ E-Mail (писать – schreiben)</li>
+<li>ein schnell ___________ Auto (fahren)</li>
+<li>die noch zu ___________ Aufgabe (erledigen — выполнить)</li>
+<li>der laut ___________ Mann (говорить — sprechen)</li>
+<li>das in Deutschland ___________ Auto (kaufen — купить)</li>
+<li>ein in der Sonne ___________ Hund (спать — schlafen)</li>
+<li>die Kinder, laut ___________ in den Hof laufen (lachen)</li>
+</ol>
+<hr>
+<h3>✅ <b>Ответы</b></h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>weinende</b></li>
+<li><b>auf dem Tisch stehende</b></li>
+<li><b>gebautes</b></li>
+<li><b>geschriebene</b></li>
+<li><b>fahrende</b></li>
+<li><b>zu erledigende</b></li>
+<li><b>sprechende</b></li>
+<li><b>gekaufte</b></li>
+<li><b>schlafender</b></li>
+<li><b>lachend</b></li>
+</ol>
+<hr>
+</details><h3><b>Объяснения (коротко и чётко)</b></h3>
+<h3><b>1. weinende</b></h3>
+<p>→ Partizip I: weinen + d → <i>weinend</i> → как прилагательное → <i>weinende</i></p>
+<p>(активное действие: ребёнок сам плачет)</p>
+<h3><b>2. auf dem Tisch stehende</b></h3>
+<p>→ Partizip I, т.к. лампа <i>стоит сейчас</i></p>
+<p>Сложный атрибут перед существительным.</p>
+<h3><b>3. gebautes</b></h3>
+<p>→ Partizip II (дом уже построен — действие завершено).</p>
+<h3><b>4. geschriebene</b></h3>
+<p>→ Partizip II (e-mail написана — действие завершено).</p>
+<h3><b>5. fahrende</b></h3>
+<p>→ Partizip I (машина сама движется — активный процесс).</p>
+<h3><b>6. zu erledigende</b></h3>
+<p>→ Особая конструкция <b>zu + Partizip I</b> → необходимость/обязанность</p>
+<p>(задача, которую <b>нужно</b> выполнить).</p>
+<h3><b>7. sprechende</b></h3>
+<p>→ Partizip I (мужчина <i>говорит</i>).</p>
+<h3><b>8. gekaufte</b></h3>
+<p>→ Partizip II (машина куплена — завершённое действие).</p>
+<h3><b>9. schlafender</b></h3>
+<p>→ Partizip I (собака <i>спит</i> прямо сейчас).</p>
+<h3><b>10. lachend</b></h3>
+<p>→ Здесь Partizip I используется как деепричастие:</p>
+<p>дети бегут <b>смеясь</b> → <i>lachend</i>.</p>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-105","guide":{"title":"Partizip I и II в роли прилагательного","kind":"grammar","level":"B2","html":"$1c","materials":[],"meta":"Недели 25-28"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-105","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

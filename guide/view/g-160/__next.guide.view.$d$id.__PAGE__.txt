@@ -1,0 +1,530 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T4774,<h2>Temporale Zusammenhänge — Временные связи</h2><div class="guide-media"><a href="https://gemini.google.com/share/83568f5aabd0" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h2>🕒 Как сказать «когда», «пока» и «после того, как» по-немецки</h2>
+<p><b>Temporale Zusammenhänge</b> — связываем события во времени</p>
+<hr>
+<p>В немецком временные связи отвечают на вопрос:</p>
+<blockquote>
+<p>Wann? Seit wann? Wie lange? Bis wann? (Когда? С какого момента? Как долго? До какого момента?)</p>
+</blockquote>
+<hr>
+<h2>1. Главное оружие — временные союзы</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Союз</th>
+<th>Перевод</th>
+<th>Порядок слов</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>als</b></td>
+<td>когда (один раз в прошлом)</td>
+<td>глагол в конце</td>
+<td><b>Als</b> ich 2010 in Berlin war, habe ich viele Museen besucht.</td>
+</tr>
+<tr>
+<td><b>wenn</b></td>
+<td>когда, если (повторяющееся действие, настоящее/будущее)</td>
+<td>глагол в конце</td>
+<td><b>Wenn</b> es regnet, bleiben wir zu Hause.</td>
+</tr>
+<tr>
+<td><b>wann</b></td>
+<td>когда (вопрос)</td>
+<td>прямой/косвенный вопрос</td>
+<td>Weißt du, <b>wann</b> er kommt?</td>
+</tr>
+<tr>
+<td><b>bevor</b></td>
+<td>прежде чем</td>
+<td>глагол в конце</td>
+<td><b>Bevor</b> wir essen, waschen wir uns die Hände.</td>
+</tr>
+<tr>
+<td><b>nachdem</b></td>
+<td>после того как</td>
+<td>глагол в конце</td>
+<td><b>Nachdem</b> er gegessen hatte, ging er spazieren.</td>
+</tr>
+<tr>
+<td><b>seit / seitdem</b></td>
+<td>с тех пор как</td>
+<td>глагол в конце</td>
+<td><b>Seitdem</b> ich hier wohne, kenne ich viele Leute.</td>
+</tr>
+<tr>
+<td><b>bis</b></td>
+<td>до тех пор, пока</td>
+<td>глагол в конце</td>
+<td>Warte, <b>bis</b> ich zurückkomme.</td>
+</tr>
+<tr>
+<td><b>während</b></td>
+<td>в то время как, пока</td>
+<td>глагол в конце</td>
+<td><b>Während</b> er kochte, las sie ein Buch.</td>
+</tr>
+<tr>
+<td><b>sobald</b></td>
+<td>как только</td>
+<td>глагол в конце</td>
+<td>Ruf mich an, <b>sobald</b> du zu Hause bist.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>2. Präpositionen für Zeitangaben</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Präposition</th>
+<th>Перевод</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>vor + Dativ</b></td>
+<td>… назад</td>
+<td>Ich war vor einem Jahr in Wien.</td>
+</tr>
+<tr>
+<td><b>in + Dativ</b></td>
+<td>через</td>
+<td>Wir sehen uns in zwei Wochen.</td>
+</tr>
+<tr>
+<td><b>seit + Dativ</b></td>
+<td>с (какого времени)</td>
+<td>Er lebt seit 2015 in München.</td>
+</tr>
+<tr>
+<td><b>ab + Dativ</b></td>
+<td>начиная с</td>
+<td>Ab morgen gilt der neue Fahrplan.</td>
+</tr>
+<tr>
+<td><b>bis + Akk</b></td>
+<td>до</td>
+<td>Ich bleibe bis nächste Woche.</td>
+</tr>
+</tbody></table></div>
+<p>💡 Präpositionen = всегда <b>Nomen</b> после предлога, а не целое предложение.</p>
+<hr>
+<h2>3. Kompakte Nebensätze mit Partizip</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Конструкция</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>Beim + Infinitiv</b></td>
+<td>Beim Essen hörte er Musik. — Во время еды он слушал музыку.</td>
+</tr>
+<tr>
+<td><b>Nach + Infinitiv</b></td>
+<td>Nach dem Essen ging er spazieren. — После еды он пошёл гулять.</td>
+</tr>
+<tr>
+<td><b>Vor + Infinitiv</b></td>
+<td>Vor dem Schlafengehen liest er. — Перед сном он читает.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>Формулы</h2>
+<ol>
+<li><b>[Temporalsatz zuerst] + , + [Hauptsatz]</b><blockquote>
+<p>Nachdem er die Prüfung bestanden hatte, feierte er mit Freunden.</p>
+</blockquote>
+</li>
+<li><b>[Hauptsatz] + [Temporalsatz]</b><blockquote>
+<p>Er feierte mit Freunden, nachdem er die Prüfung bestanden hatte.</p>
+</blockquote>
+</li>
+<li><b>Präposition + Nomen</b> для компактности<blockquote>
+<p>Nach der Arbeit gehe ich ins Fitnessstudio.</p>
+</blockquote>
+</li>
+</ol>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/T6LW_m_cAvU?si=odo4F0eUdUWp9JQl" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Выбери правильный временной союз или предлог</h3>
+<p>Вставь подходящее слово из списка: <b>als, wenn, nachdem, bevor, seit, bis, während, vor, nach, in</b>.</p>
+<p>Смотри на контекст и время действия.</p>
+<ol>
+<li>______ ich in Wien war, habe ich viele Museen besucht.</li>
+<li>Wir treffen uns, ______ wir ins Kino gehen.</li>
+<li>Ich warte hier, ______ du zurückkommst.</li>
+<li>______ dem Essen gehen wir spazieren.</li>
+<li>Er rief mich an, ______ er angekommen war.</li>
+<li>Ich habe sie nicht gesehen, ______ sie nach Berlin gezogen ist.</li>
+<li>______ dem Frühstück liest er die Zeitung.</li>
+<li>Wir sehen uns ______ zwei Wochen.</li>
+<li>______ er kochte, telefonierte er mit seiner Mutter.</li>
+<li>Ich war in Rom ______ drei Jahren.</li>
+</ol>
+<hr>
+<h3>✅ Ответы и пояснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>Als</b> — одноразовое действие в прошлом: <i>Als ich in Wien war…</i></li>
+<li><b>bevor</b> — действие происходит перед другим: <i>…bevor wir ins Kino gehen.</i></li>
+<li><b>bis</b> — «до того, как»: <i>Ich warte hier, bis du zurückkommst.</i></li>
+<li><b>Nach</b> — предлог с существительным: <i>Nach dem Essen…</i></li>
+<li><b>nachdem</b> — последовательность действий: <i>…nachdem er angekommen war.</i></li>
+<li><b>seit</b> — «с тех пор как»: <i>…seit sie nach Berlin gezogen ist.</i></li>
+<li><b>Vor</b> — «перед» + Dativ: <i>Vor dem Frühstück…</i></li>
+<li><b>in</b> — «через»: <i>…in zwei Wochen.</i></li>
+<li><b>während</b> — одновременность: <i>Während er kochte…</i></li>
+<li><b>vor</b> — «…назад»: <i>…vor drei Jahren.</i></li>
+</ol>
+</details><hr><h2>Finale Zusammenhänge — Целевые связи</h2><div class="guide-media"><a href="https://gemini.google.com/share/9ef62f495ca2" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3>Как сказать <i>«зачем?»</i> по-немецки</h3>
+<p><b>Finale Zusammenhänge</b> — выражаем <b>цель действия</b></p>
+<hr>
+<p>В немецком <b>Finalsätze</b> отвечают на вопрос <b>Wozu? / Zu welchem Zweck?</b> (<i>Зачем? С какой целью?</i>) и оформляются разными конструкциями — от разговорных до академических.</p>
+<hr>
+<h2>1. Союз <b>damit</b></h2>
+<p>Используется, когда <b>подлежащее разное</b> в главном и придаточном предложении.</p>
+<blockquote>
+
+
+<p>Ich lerne Deutsch, damit ich in Deutschland studieren kann.</p>
+<p>— Я учу немецкий, чтобы учиться в Германии.</p>
+</blockquote>
+
+
+
+<p>💡 После <b>damit</b> — глагол в конце, порядок как в обычном Nebensatz.</p>
+<hr>
+<h2>2. <b>um… zu</b> + Infinitiv</h2>
+<p>Когда <b>подлежащее одинаковое</b> в обеих частях предложения.</p>
+<blockquote>
+
+
+<p>Ich lerne Deutsch, um in Deutschland zu studieren.</p>
+<p>— Я учу немецкий, чтобы учиться в Германии.</p>
+</blockquote>
+
+
+
+<p>💡 Конструкция компактная, но <b>всегда с одинаковым действующим лицом</b>.</p>
+<hr>
+<h2>3. Формальные конструкции: <b>zwecks + Genitiv</b></h2>
+<p>📍 Официальная письменная речь: объявления, контракты, отчёты.</p>
+<blockquote>
+
+
+<p>Zwecks weiterer Informationen wenden Sie sich bitte an das Büro.</p>
+<p>— Для получения дополнительной информации обращайтесь в офис.</p>
+</blockquote>
+
+
+
+<hr>
+<h2>4. Разговорные варианты: <b>für + Akk</b></h2>
+<p>Используется в живой речи, когда говорим «для чего-то».</p>
+<blockquote>
+
+
+<p>Ich spare Geld für eine Reise nach Spanien.</p>
+<p>— Я коплю деньги на поездку в Испанию.</p>
+</blockquote>
+
+
+
+<p>💡 Разница: <b>für</b> обозначает цель как объект, а <b>damit / um… zu</b> — как действие.</p>
+<hr>
+<h2>5. Конструкции с <b>auf dass</b></h2>
+<p>📍 Устаревающе-официальный, но встречается в литературе и религиозных текстах.</p>
+<blockquote>
+<p>Er kämpfte, auf dass seine Familie in Frieden leben möge.</p>
+</blockquote>
+<hr>
+<h2>6. Смысл через <b>zu + Nomen</b></h2>
+<p>Часто в деловой и научной речи:</p>
+<blockquote>
+
+
+<p>Er traf sich mit dem Team zur Besprechung des Projekts.</p>
+<p>— Он встретился с командой для обсуждения проекта.</p>
+</blockquote>
+
+
+
+<hr>
+<h3>Мини-формула для цели:</h3>
+<pre><code>[Главное предложение] + damit / um… zu / zwecks / für / zu + Nomen
+</code></pre>
+<hr>
+<h3>Запомни</h3>
+<ul>
+<li><b>damit</b> — разные подлежащие.</li>
+<li><b>um… zu</b> — одинаковые подлежащие.</li>
+<li><b>zwecks / zu + Nomen</b> — формально.</li>
+<li><b>für + Akk</b> — разговорно и просто.</li>
+</ul>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/u36SxFGEfrQ?si=6A44uprq4Ng32GX8" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Подставь правильную конструкцию цели</h3>
+<p>Выбери из списка: <b>damit, um … zu, für, zwecks, zu + Nomen</b>.</p>
+<p>Учитывай, одинаковое ли подлежащее в обеих частях предложения и стиль речи.</p>
+<ol>
+<li>Ich mache eine Pause, _______ meine Augen sich erholen.</li>
+<li>Sie lernt Spanisch, _______ in Madrid zu studieren.</li>
+<li>Wir treffen uns morgen _______ einer Besprechung.</li>
+<li>Er kauft Blumen _______ seine Mutter.</li>
+<li>_______ weiterer Informationen besuchen Sie bitte unsere Website.</li>
+</ol>
+<hr>
+<h3>Ответы и пояснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>damit</b> — разные подлежащие (<i>ich</i> / <i>meine Augen</i>): <i>Ich mache eine Pause, damit meine Augen sich erholen.</i></li>
+<li><b>um … zu</b> — одинаковое подлежащее (<i>sie</i>): <i>Sie lernt Spanisch, um in Madrid zu studieren.</i></li>
+<li><b>zu + Nomen</b> — нейтрально-формальное: <i>Wir treffen uns morgen zur Besprechung.</i></li>
+<li><b>für</b> — цель-объект: <i>Er kauft Blumen für seine Mutter.</i></li>
+<li><b>zwecks</b> — официально: <i>Zwecks weiterer Informationen besuchen Sie bitte unsere Website.</i></li>
+</ol>
+</details><hr><h2>Konsekutive Zusammenhänge — Следственные связи</h2><div class="guide-media"><a href="https://gemini.google.com/share/5bcd14f4fd83" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h2>Как сказать «поэтому», «в итоге» и «так, что…» по-немецки</h2>
+<p><b>Konsekutive Zusammenhänge</b> — показываем <b>результат или следствие</b></p>
+<hr>
+<p>В немецком эти конструкции отвечают на вопрос:</p>
+<blockquote>
+<p>Was ist die Folge? (Каков результат? Что из этого вышло?)</p>
+</blockquote>
+<hr>
+<h3>1. Главные герои — союзные слова и связки</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Связка / союз</th>
+<th>Перевод</th>
+<th>Позиция в предложении</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>deshalb</b></td>
+<td>поэтому</td>
+<td>место 1 (инверсия)</td>
+<td>Er war krank, <b>deshalb</b> blieb er zu Hause.</td>
+</tr>
+<tr>
+<td><b>darum</b></td>
+<td>поэтому, из-за этого</td>
+<td>место 1 (инверсия)</td>
+<td>Ich habe Hunger, <b>darum</b> esse ich jetzt.</td>
+</tr>
+<tr>
+<td><b>daher</b></td>
+<td>поэтому, оттого</td>
+<td>место 1 (инверсия)</td>
+<td>Es regnete, <b>daher</b> fiel das Spiel aus.</td>
+</tr>
+<tr>
+<td><b>folglich</b></td>
+<td>следовательно</td>
+<td>формально, место 1</td>
+<td>Die Firma hat schlecht gewirtschaftet, <b>folglich</b> musste sie schließen.</td>
+</tr>
+<tr>
+<td><b>also</b></td>
+<td>значит, итак</td>
+<td>разговорно, место 1</td>
+<td>Es ist spät, <b>also</b> gehen wir.</td>
+</tr>
+</tbody></table></div>
+<p>💡 <b>deshalb / darum / daher</b> — взаимозаменяемы, но в экзаменационном письме чередуй, чтобы речь не выглядела однообразно.</p>
+<hr>
+<h3>2. Конструкция <b>so…dass</b> — «так…, что…»</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Формат</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>so + Adj/Adv + dass</b></td>
+<td>Es war <b>so</b> kalt, <b>dass</b> das Wasser gefror. — Было так холодно, что вода замёрзла.</td>
+</tr>
+<tr>
+<td><b>so + viel/wenig + dass</b></td>
+<td>Er hatte <b>so viel</b> Arbeit, <b>dass</b> er nicht kommen konnte.</td>
+</tr>
+</tbody></table></div>
+<p>💡 Здесь <b>dass</b> уводит глагол в конец, как в обычном Nebensatz.</p>
+<hr>
+<h3>3. Intensiv + Folge</h3>
+<p>Можно показывать следствие через усилители:</p>
+<blockquote>
+
+
+<p>Der Lärm war dermaßen laut, dass niemand schlafen konnte.</p>
+<p>— Шум был настолько громким, что никто не мог уснуть.</p>
+</blockquote>
+
+
+
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Усилитель</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>so</td>
+<td>так</td>
+</tr>
+<tr>
+<td>dermaßen</td>
+<td>настолько</td>
+</tr>
+<tr>
+<td>derart</td>
+<td>настолько, до такой степени</td>
+</tr>
+<tr>
+<td>zu</td>
+<td>слишком (в отриц. смысле)</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>4. Разговорная «связка-реакция»</h3>
+<p>В повседневной речи часто цепляют короткие маркеры результата:</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Разговорно</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>und deshalb</td>
+<td>Ich war müde, <b>und deshalb</b> bin ich nicht gekommen.</td>
+</tr>
+<tr>
+<td>und so</td>
+<td>Wir hatten kein Auto, <b>und so</b> mussten wir zu Fuß gehen.</td>
+</tr>
+<tr>
+<td>also</td>
+<td>Er hat abgesagt, <b>also</b> treffen wir uns morgen.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3>Мини-шпаргалка по стилю</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Стиль речи</th>
+<th>Что брать</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Разговорный</td>
+<td>also, und so, darum</td>
+</tr>
+<tr>
+<td>Нейтральный</td>
+<td>deshalb, daher</td>
+</tr>
+<tr>
+<td>Формальный / C1+</td>
+<td>folglich, sodass, dermaßen…dass</td>
+</tr>
+</tbody></table></div>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/jrp65ZzxoI4?si=Y2JyfDEeNyvbxtL7" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Подбери правильную конструкцию следствия</h3>
+<p>Заполни пропуски, выбрав из списка: <b>deshalb, darum, daher, folglich, also, so … dass</b>.</p>
+<ol>
+<li>Es hat den ganzen Tag geregnet, ______ konnten wir nicht spazieren gehen.</li>
+<li>Er hatte viel Arbeit, ______ er keine Zeit für Urlaub hatte.</li>
+<li>Die Firma hat die Investoren verloren, ______ musste sie Insolvenz anmelden.</li>
+<li>Wir haben die letzte Bahn verpasst, ______ mussten wir zu Fuß nach Hause gehen.</li>
+<li>Das Wetter war ______ schlecht, ______ wir das Picknick abgesagt haben.</li>
+</ol>
+<hr>
+<h3>✅ Ответы и пояснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>deshalb</b> — нейтральная связка для результата: <i>Es hat den ganzen Tag geregnet, deshalb konnten wir nicht spazieren gehen.</i></li>
+<li><b>so … dass</b> — конструкция «так…, что…»: <i>Er hatte so viel Arbeit, dass er keine Zeit für Urlaub hatte.</i></li>
+<li><b>folglich</b> — формальное «следовательно»: <i>Die Firma hat die Investoren verloren, folglich musste sie Insolvenz anmelden.</i></li>
+<li><b>darum</b> или <b>also</b> — оба подходят в разговорной речи: <i>Wir haben die letzte Bahn verpasst, darum mussten wir zu Fuß nach Hause gehen.</i></li>
+<li><b>so … dass</b> — для усиления: <i>Das Wetter war so schlecht, dass wir das Picknick abgesagt haben.</i></li>
+</ol>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-160","guide":{"title":"Temporale, Finale, Konsekutive Zusammenhänge","kind":"grammar","level":"C1","html":"$1c","materials":[],"meta":"Недели 60-66"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-160","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

@@ -1,0 +1,192 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T2e85,<h2>Альтернативы пассиву</h2><div class="guide-media"><a href="https://gemini.google.com/share/d9651cb45924" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>🔥 <b>НЕ ГОВОРИ WERDEN!</b></p>
+<p>Как заменить немецкий ПАССИВ и говорить, как НОСИТЕЛЬ</p>
+<p>Пассив в немецком — это как Windows 98: работает, но выглядит тяжеловесно.</p>
+<p>Если хочешь звучать естественно и не запутываться в этих <i>Partizip II + werden</i>, вот 3 БОМБИЧЕСКИЕ замены, которые используют немцы каждый день👇</p>
+<hr>
+<h3>1️⃣ <b>SICH LASSEN + Infinitiv</b></h3>
+<p>📌 <i>Когда нужно сказать «что-то можно сделать»</i></p>
+<div class="guide-table"><table> <tr> <td> 💬 Пример </td> <td> 💡 Значение </td> <td> 🛠 Пассив-версия </td> </tr> <tr> <td> Die Regeln <b>lassen sich</b> leicht erklären. </td> <td> Правила можно легко объяснить </td> <td> Die Regeln <b>können erklärt werden</b> </td> </tr> <tr> <td> Die Probleme <b>haben sich vorhersehen lassen</b>. </td> <td> Эти проблемы можно было предвидеть </td> <td> Die Probleme <b>konnten vorhergesehen werden</b> </td> </tr> <tr> <td> Die Reise <b>hat sich buchen lassen</b>. </td> <td> Поездку можно было забронировать </td> <td> Die Reise <b>konnte gebucht werden</b> </td> </tr> </table></div>
+
+
+
+<p>🧠 Что важно:</p>
+<ul>
+<li>«sich lassen» = &quot;позволять себя&quot;</li>
+<li>Используется <b>вместо</b> können + Passiv</li>
+<li>Работает в настоящем и Perfekt</li>
+<li>В Perfekt — <b>ohne ge-</b>: lassen → <i>lassen</i>, не <i>gelassen</i></li>
+</ul>
+<hr>
+<h3>2️⃣ <b>SEIN + zu + Infinitiv</b></h3>
+<p>📌 <i>Когда нужно показать НЕОБХОДИМОСТЬ, РАЗРЕШЕНИЕ или СОВЕТ</i></p>
+<div class="guide-table"><table> <tr> <td> 💬 Пример </td> <td> 💡 Значение </td> <td> 🛠 Пассив-версия </td> </tr> <tr> <td> Das Geschirr <b>ist zu spülen</b>. </td> <td> Посуду нужно помыть </td> <td> Das Geschirr <b>muss gespült werden</b> </td> </tr> <tr> <td> Der Computer <b>ist zu reparieren</b>. </td> <td> Комп можно отремонтировать </td> <td> Der Computer <b>kann repariert werden</b> </td> </tr> <tr> <td> Das Treffen <b>ist nicht zu vermeiden</b>. </td> <td> Встречу не избежать </td> <td> Das Treffen <b>darf nicht vermieden werden</b> </td> </tr> </table></div>
+
+
+
+<p>🧠 Что важно:</p>
+<ul>
+<li>Заменяет <b>модальные глаголы</b> (müssen, dürfen, sollen, können)</li>
+<li>Контекст решает, что именно имеется в виду</li>
+<li>Часто используется в официальной и письменной речи</li>
+</ul>
+<hr>
+<h3>3️⃣ <b>Прилагательные на -bar / -lich / -abel</b></h3>
+<p>📌 <i>Когда хочешь звучать как интеллектуал с носком на чашке латте</i></p>
+<div class="guide-table"><table> <tr> <td> 💬 Прилагательное </td> <td> 💡 Значение </td> <td> 🛠 Пассив-версия </td> </tr> <tr> <td> Die Aufgabe ist <b>lösbar</b>. </td> <td> Задание можно решить </td> <td> Die Aufgabe <b>kann gelöst werden</b> </td> </tr> <tr> <td> Die Krankheit ist <b>heilbar</b>. </td> <td> Болезнь излечима </td> <td> Die Krankheit <b>kann geheilt werden</b> </td> </tr> <tr> <td> Der Satz ist <b>verständlich</b>. </td> <td> Предложение понятно </td> <td> Der Satz <b>kann verstanden werden</b> </td> </tr> <tr> <td> Das Angebot ist <b>akzeptabel</b>. </td> <td> Предложение приемлемо </td> <td> Das Angebot <b>kann akzeptiert werden</b> </td> </tr> </table></div>
+
+
+
+<p>⚠️ Если нужно сказать «НЕчто», добавляем приставку <b>un-</b>:</p>
+<div class="guide-table"><table> <tr> <td> 💬 Пример </td> <td> 💡 Значение </td> <td> 🛠 Пассив-версия </td> </tr> <tr> <td> Die Rede ist <b>unverständlich</b>. </td> <td> Речь непонятна </td> <td> Die Rede <b>kann nicht verstanden werden</b> </td> </tr> <tr> <td> Die Gründe waren <b>unerklärlich</b>. </td> <td> Причины были необъяснимы </td> <td> Die Gründe <b>konnten nicht erklärt werden</b> </td> </tr> </table></div>
+
+
+
+<p>🧠 Что важно:</p>
+<ul>
+<li><b>bar</b>: чаще всего от глаголов с -igen → <i>kündigbar, entschuldigbar</i></li>
+<li><b>abel</b>: от глаголов на -ieren → <i>diskutabel, reparabel</i></li>
+<li>Некоторые слова похожи, но <b>значения разные</b>:</li>
+</ul>
+<div class="guide-table"><table> <tr> <td> -bar </td> <td> -lich </td> </tr> <tr> <td> <b>lösbar</b> – решаемый </td> <td> <b>löslich</b> – растворимый </td> </tr> <tr> <td> <b>sonderbar</b> – странный </td> <td> <b>sonderlich</b> – особенный </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>💡 А можно вообще не париться: MAN + Aktiv</h3>
+<p>Если пассив напрягает, просто юзай «man» и строй предложение в активе:</p>
+<p>🆚 Сравнение:</p>
+<div class="guide-table"><table> <tr> <td> 🧱 Пассив </td> <td> 🚀 Альтернатива с <i>man</i> </td> </tr> <tr> <td> Die Regeln können erklärt werden. </td> <td> Man kann die Regeln erklären. </td> </tr> <tr> <td> Die Krankheit kann geheilt werden. </td> <td> Man kann die Krankheit heilen. </td> </tr> <tr> <td> Die Reise hat sich buchen lassen. </td> <td> Man konnte die Reise buchen. </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>📌 ИТОГО:</h3>
+<p><b>Зачем это учить?</b></p>
+<ul>
+<li>Звучишь естественно</li>
+<li>Экономишь слова и мозги</li>
+<li>Понимаешь носителей, даже если они говорят без единого <i>werden</i></li>
+</ul>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/RXJOCt0hdIw?si=JmWiZJOKqzSifJhq" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение</h3>
+<div class="guide-media"><a href="https://ifu-institut.at/ru/online-lernen/grammatik/grammatikbungen-zu-dem-thema-26-a2" target="_blank" rel="noopener noreferrer">ifu-institut.at</a></div><hr><h2>Альтернативы Passiv</h2><div class="guide-media"><a href="https://gemini.google.com/share/8635b7ee78af" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Учишь пассив (Passiv) и кажется, что немецкая грамматика решила тебя окончательно добить. Но есть спасение! Немцы часто обходятся и без пассива, используя простые и удобные альтернативы. Вот три главных способа, которые помогут тебе звучать естественно и энергично.</p>
+<hr>
+<h3>🟢 1. Прилагательные на <b>bar</b> и <b>lich</b></h3>
+<p>Если пассив кажется сложным, вот суперлегкий способ: превратить глагол в прилагательное. Просто добавляешь суффикс -bar (означает, что что-то возможно сделать) или -lich (что-то можно или стоит сделать).</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li>lesen → lesbar (читаемый, то, что можно прочитать)<ul>
+<li>Dieses Buch ist leicht lesbar. — Эту книгу легко читать.</li>
+</ul>
+</li>
+<li>lösen → lösbar (решаемый)<ul>
+<li>Dieses Problem ist nicht lösbar. — Эта проблема нерешаема.</li>
+</ul>
+</li>
+<li>verstehen → verständlich (понятный)<ul>
+<li>Deine Erklärung ist verständlich. — Твоё объяснение понятно.</li>
+</ul>
+</li>
+</ul>
+<p>Такой подход делает речь более простой и ясной, избегая громоздких конструкций.</p>
+<hr>
+<h3>2. Конструкция <b>sich lassen + Infinitiv</b></h3>
+<p>Звучит немного сложнее, но конструкция просто огонь 🔥. Она значит, что что-то можно или нельзя сделать:</p>
+<p><b>Формула:</b> sich lassen + инфинитив</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li>Das lässt sich einfach erklären. — Это легко объяснить.</li>
+<li>Dieses Fenster lässt sich nicht öffnen. — Это окно невозможно открыть.</li>
+<li>Der Fehler lässt sich schnell beheben. — Ошибку можно быстро исправить.</li>
+</ul>
+<p>Такой способ идеально подходит, когда нужно передать идею возможности без указания исполнителя действия.</p>
+<hr>
+<h3>3. Конструкция <b>sein + zu + Infinitiv</b></h3>
+<p>Одна из любимых конструкций в немецкой речи, особенно в формальном или письменном стиле. Указывает на необходимость или возможность действия:</p>
+<p><b>Формула:</b> sein + zu + инфинитив</p>
+<p><b>Примеры:</b></p>
+<ul>
+<li>Diese Aufgabe ist sofort zu erledigen. — Эту задачу нужно выполнить немедленно.</li>
+<li>Die Unterlagen sind bis Montag abzugeben. — Документы нужно сдать до понедельника.</li>
+<li>Das Problem ist nicht zu vermeiden. — Эту проблему не избежать.</li>
+</ul>
+<p>Используй этот способ, чтобы звучать официально, чётко и профессионально.</p>
+<hr>
+<h2>Бонус: как выбрать подходящую альтернативу?</h2>
+<p>Вот короткая таблица-подсказка:</p>
+<div class="guide-table"><table> <tr> <td> Ситуация </td> <td> Идеальная альтернатива </td> <td> Пример </td> </tr> <tr> <td> Возможность действия </td> <td> sich lassen + Infinitiv </td> <td> Der Fehler lässt sich leicht beheben. </td> </tr> <tr> <td> Необходимость действия </td> <td> sein + zu + Infinitiv </td> <td> Die Arbeit ist sofort zu machen. </td> </tr> <tr> <td> Удобство и простота </td> <td> Прилагательные на -bar/-lich </td> <td> Das Formular ist leicht ausfüllbar. </td> </tr> </table></div>
+
+
+
+<hr>
+<p>Теперь пассив тебе не страшен, ведь есть живые и простые альтернативы, которые сделают твой</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=eoxOiXtVpvo" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения</h3>
+<div class="guide-media"><a href="https://ifu-institut.at/ru/online-lernen/grammatik/grammatikbungen-zu-dem-thema-20-a1" target="_blank" rel="noopener noreferrer">ifu-institut.at</a></div>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-104","guide":{"title":"Альтернативы пассиву и ещё альтернативы Passiv","kind":"grammar","level":"B2","html":"$1c","materials":[],"meta":"Недели 25-28"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-104","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

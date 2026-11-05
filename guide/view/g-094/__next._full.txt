@@ -1,0 +1,647 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-094","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-094",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T6f89,<h2>Предлоги времени</h2><div class="guide-media"><a href="https://gemini.google.com/share/94ac9578eedc" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Предлоги времени, или <b>temporale Präpositionen</b>, помогают уточнить, <b>когда</b> происходит действие, и отвечают на вопросы:</p>
+<ul>
+<li><b>Wann?</b> – Когда?</li>
+<li><b>Um wie viel Uhr?</b> – Во сколько?</li>
+<li><b>Wie lange?</b> – Как долго?</li>
+<li><b>Bis wann?</b> – До каких пор?</li>
+<li><b>Seit wann?</b> – С каких пор?</li>
+<li><b>Von … bis?</b> – С каких и до каких пор?</li>
+</ul>
+<p>Эти предлоги используются в двух случаях:</p>
+<ol>
+<li><b>Для указания конкретного времени</b></li>
+<li><b>Для обозначения промежутка времени</b></li>
+</ol>
+<blockquote>
+
+
+<p>Важно:</p>
+<p>Знание предлогов времени – это не просто грамматика, а ключ к точному описанию событий. Если вы хотите уверенно говорить и писать по-немецки, нужно чётко различать их значения и правильно выбирать падежи!</p>
+</blockquote>
+
+
+
+<hr>
+<h3>Предлоги времени и их падежи</h3>
+<p>Ниже представлена таблица с основными предлогами времени, вопросами, на которые они отвечают, с указанием требуемого падежа, их значением и примерами употребления.</p>
+<div class="guide-table"><table> <tr> <td> <b>Предлог</b> </td> <td> <b>Вопрос</b> </td> <td> <b>Падеж</b> </td> <td> <b>Значение/время</b> </td> <td> <b>Пример</b> </td> </tr> <tr> <td> <b>für (на)</b> </td> <td> Für wie lange? – На сколько? </td> <td> Akkusativ </td> <td> Будущее время, продолжительность </td> <td> <i>Für wie lange fahren Sie in den Urlaub?</i> – На сколько Вы едете в отпуск?<i>Für 2 Wochen.</i> – На две недели. </td> </tr> <tr> <td> <b>gegen (около, в районе)</b> </td> <td> Wann? – Когда? </td> <td> Akkusativ </td> <td> Неточное, предположительное время, приблизительное время дня </td> <td> <i>Hol mich nach der Uni gegen 20 Uhr ab.</i> – Забери меня после университета около 8 вечера. </td> </tr> <tr> <td> <b>um (в, около)</b> </td> <td> Wann? / Um wie viel Uhr? – Во сколько? </td> <td> Akkusativ </td> <td> Точное время (год, время на часах) </td> <td> <i>Ich werde nach dem Frühstück um 6:00 Uhr zur Arbeit gehen.</i> – Я поеду на работу в 6:00 после завтрака. </td> </tr> <tr> <td> <b>über (через)</b> </td> <td> Wann? – Через какой период времени? </td> <td> Akkusativ </td> <td> Продолжительность, период </td> <td> <i>Über das Wochenende beginnen die Staatsprüfungen an der Uni.</i> – Через выходные начнутся государственные экзамены в университете. </td> </tr> <tr> <td> <b>am (в)</b> </td> <td> Wann? – Когда? </td> <td> Dativ </td> <td> Определённое число, дата, время (время дня, будни, выходные) </td> <td> <i>Am 16. Juni werden wir mit der Familie ins Theater gehen.</i> – 16 июня мы идём в театр с семьёй. </td> </tr> <tr> <td> <b>bei (во время, при…)</b> </td> <td> Wann? – Когда? </td> <td> Dativ </td> <td> Одновременность </td> <td> <i>Bei Krankheit fühlt sich eine Person schrecklich.</i> – При болезни человек чувствует себя ужасно. </td> </tr> <tr> <td> <b>bis (до)</b> </td> <td> Bis wann? – До каких пор? </td> <td> Dativ </td> <td> Конечный момент времени </td> <td> <i>Bis August werde ich im Büro arbeiten und dann einen neuen Job bekommen.</i> – До августа я буду работать в офисе, а потом устроюсь на новую работу. </td> </tr> <tr> <td> <b>in (в, на)</b> </td> <td> Wann? – Когда? </td> <td> Dativ </td> <td> Определённый период (день, неделя, месяц, время года) </td> <td> <i>Im September hat meine Mutter Geburtstag.</i> – В сентябре у моей мамы день рождения. </td> </tr> <tr> <td> <b>nach (после)</b> </td> <td> Wann? – Когда? </td> <td> Dativ </td> <td> Одно действие сменяется другим </td> <td> <i>Nach einem Spaziergang im Park gingen wir zu meiner Großmutter zum Tee.</i> – После прогулки в парке мы зашли к бабушке на чай. </td> </tr> <tr> <td> <b>seit (с)</b> </td> <td> Seit wann? – С каких пор? </td> <td> Dativ </td> <td> Начало действия в прошлом, продолжающееся в настоящем </td> <td> <i>Seit gestern habe ich nichts mehr gegessen.</i> – Со вчерашнего дня я ничего не ела. </td> </tr> <tr> <td> <b>von … bis (от/с … до)</b> </td> <td> Von wann bis wann? – С каких и до каких пор? </td> <td> Dativ </td> <td> Начало действия и его конец </td> <td> <i>Von September bis Mai habe ich eine schwierige Studienzeit.</i> – С сентября по май у меня сложный учебный период. </td> </tr> <tr> <td> <b>vor (перед)</b> </td> <td> Wann? – Когда? </td> <td> Dativ </td> <td> Одно действие сменяется другим </td> <td> <i>Vor dem Essen sollten Sie sich die Hände waschen.</i> – Перед приёмом пищи нужно мыть руки. </td> </tr> <tr> <td> <b>zwischen (между)</b> </td> <td> Wann? – Когда? </td> <td> Dativ </td> <td> Начало и конец действия </td> <td> <i>Zwischen dem 1. Juli und dem 1. August vergeht die Zeit sehr schnell.</i> – Между 1 июля и 1 августа время проходит очень быстро. </td> </tr> <tr> <td> <b>außerhalb (вне, за)</b> </td> <td> Wann? – Когда? </td> <td> Genitiv </td> <td> Определённый период (например, вне рабочего времени) </td> <td> <i>Außerhalb der Bürozeiten nehme ich mir Zeit für Kinder.</i> – В нерабочее время я уделяю время детям. </td> </tr> <tr> <td> <b>innerhalb / innerhalb von</b> </td> <td> Wann? – Когда? </td> <td> Genitiv / von + Dativ </td> <td> Определённый период </td> <td> <i>Ich muss meine Abschlussarbeit innerhalb von 4 Monaten schreiben.</i> – Я должен написать дипломную работу в течение 4 месяцев. </td> </tr> <tr> <td> <b>während (во время, в течение)</b> </td> <td> Wann? – Когда? </td> <td> Genitiv </td> <td> Определённый период </td> <td> <i>Während der Arbeitszeit schalte ich mein Telefon aus.</i> – В рабочее время я выключаю телефон. </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>Итог и советы по применению</h3>
+<ul>
+<li><b>Определяйте тип времени:</b><p>
+Если речь идёт о <b>конкретном моменте</b> или <b>дате</b>, используйте предлоги типа <b>am</b>, <b>um</b> или <b>in</b>. Если описывается <b>продолжительность</b> или <b>период</b>, подойдут <b>für</b>, <b>über</b>, <b>seit</b>, <b>von … bis</b> и др.
+</p></li>
+<li><b>Выбор падежа:</b><p>
+Следите за требуемым падежом:
+</p>
+
+<ul>
+<li><b>Akkusativ</b> – для точного времени или действия, направленного в будущее.</li>
+<li><b>Dativ</b> – для обозначения местоположения или определённого периода.</li>
+<li><b>Genitiv</b> – чаще в более формальной речи.</li>
+</ul>
+</li>
+<li><b>Практикуйтесь:</b><p>
+Примеры из таблицы помогут закрепить материал. Пробуйте составлять собственные предложения, задавая себе вопросы (Wann? Wie lange? Bis wann?).
+</p></li>
+</ul>
+<hr>
+<h3>Заключение</h3>
+<p>Предлоги времени – незаменимый инструмент для точного выражения временных отношений в немецком языке. Зная, какие предлоги отвечают на вопросы времени и с какими падежами они употребляются, вы сможете делать свои высказывания более чёткими и структурированными.</p>
+<blockquote>
+
+
+<p>Совет:</p>
+<p>Чтобы закрепить знания, попробуйте создавать небольшие рассказы о своей повседневной жизни, используя эти предлоги. И не забывайте, что практические занятия – залог успеха в изучении языка!</p>
+</blockquote>
+
+
+
+
+
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=ntOuJl9gohQ" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения</h3>
+<div class="guide-media"><a href="https://talkpal.ai/ru/grammar_exercises/prapositionen-%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%B9-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA/" target="_blank" rel="noopener noreferrer">talkpal.ai</a></div>
+
+
+
+
+
+<div class="guide-media"><a href="https://quizlet.com/ch/850281470/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D0%A3%D1%80%D0%BE%D0%BA-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-23-%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B3%D0%B8-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8-%D0%B2-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%BC-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5-flash-cards/" target="_blank" rel="noopener noreferrer">quizlet.com</a></div>
+
+
+
+
+
+<div class="guide-media"><a href="https://www.hablar2.com/vocabulary-0/exercise.php?language=deurus&amp;amp;nombre_ej=preposiciones-de-tiempo-0" target="_blank" rel="noopener noreferrer">hablar2.com</a></div><hr><h2>Предлоги места</h2><div class="guide-media"><a href="https://gemini.google.com/share/d8139adb452d" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Предлоги места в немецком языке помогают указать, <b>где находится</b> предмет или объект, а также <b>в какую сторону он движется</b>. Они отвечают на вопросы:</p>
+<ul>
+<li><b>Wo?</b> – Где?</li>
+<li><b>Wohin?</b> – Куда?</li>
+<li><b>Woher?</b> – Откуда?</li>
+</ul>
+<blockquote>
+
+
+<p>Совет:</p>
+<p>Прежде чем выбрать предлог, задайте вопрос к главному слову (например, «где?» или «куда?») – это подскажет, какой предлог лучше всего подойдёт.</p>
+</blockquote>
+
+
+
+<hr>
+<h2>Основные немецкие предлоги места</h2>
+<p>Ниже приведён список часто используемых предлогов места с примерами:</p>
+<ul>
+<li><b>in</b> – <i>в</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Das Fahrrad steht in der Garage.</p>
+<p>  — Велосипед стоит в гараже.</p>
+</blockquote>
+
+
+<ul>
+<li><b>an</b> – <i>на, у</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich hänge das Bild an die Wand.</p>
+<p>  — Я вешаю картину на стену.</p>
+</blockquote>
+
+
+<ul>
+<li><b>ab</b> – <i>с, из</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Der Zug fährt ab Düsseldorf weiter.</p>
+<p>  — Поезд продолжает движение из Дюссельдорфа.</p>
+</blockquote>
+
+
+<ul>
+<li><b>auf</b> – <i>на</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich sitze auf dem Stuhl.</p>
+<p>  — Я сижу на стуле.</p>
+</blockquote>
+
+
+<ul>
+<li><b>vor</b> – <i>перед</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich stehe vor dem Schrank.</p>
+<p>  — Я стою перед шкафом.</p>
+</blockquote>
+
+
+<ul>
+<li><b>hinter</b> – <i>позади</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Das Mädchen steht hinter dem Tisch.</p>
+<p>  — Девушка стоит позади стола.</p>
+</blockquote>
+
+
+<ul>
+<li><b>über</b> – <i>над</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Das Regal hängt über dem Bett.</p>
+<p>  — Полка висит над кроватью.</p>
+</blockquote>
+
+
+<ul>
+<li><b>unter</b> – <i>под</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich lege den Stift unter das Notizbuch.</p>
+<p>  — Я кладу ручку под тетрадь.</p>
+</blockquote>
+
+
+<ul>
+<li><b>neben</b> – <i>рядом</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Das Sofa steht neben dem Bett.</p>
+<p>  — Диван стоит рядом с кроватью.</p>
+</blockquote>
+
+
+<ul>
+<li><b>nach</b> – <i>в, в сторону (направление)</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich fahre am Samstag nach Deutschland.</p>
+<p>  — В субботу я еду в Германию.</p>
+</blockquote>
+
+
+<ul>
+<li><b>zwischen</b> – <i>между</i></li>
+</ul>
+<blockquote>
+
+
+<p>  Die Äpfel liegen zwischen den Tellern.</p>
+<p>  — Яблоки лежат между тарелками.</p>
+</blockquote>
+
+
+
+
+
+<blockquote>
+
+
+<p>Важно:</p>
+<p>Используйте <b>Akkusativ</b>, когда планируете разместить предмет в определённом месте (то есть отвечая на вопрос «куда?»). Если же предмет уже находится в этом месте (отвечая на вопрос «где?»), используйте <b>Dativ</b>.</p>
+</blockquote>
+
+
+
+<hr>
+<h2>Детальный разбор предлогов места</h2>
+<p>Давайте подробнее рассмотрим несколько ключевых предлогов, чтобы вы точно знали, как и когда их применять.</p>
+<h3>1. Предлог <b>AN</b> – у, на (вертикальная поверхность)</h3>
+<ul>
+<li><b>Dativ (Где?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Das Bild hängt an der Wand.</p>
+<p>  — Картина висит на стене.</p>
+</blockquote>
+
+
+<ul>
+<li><b>Akkusativ (Куда?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich hänge das Bild an die Wand.</p>
+<p>  — Я вешаю картину на стену.</p>
+</blockquote>
+
+
+
+<h3>2. Предлог <b>AUF</b> – на (горизонтальная поверхность)</h3>
+<ul>
+<li><b>Dativ (Где?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Das Buch liegt auf dem Tisch.</p>
+<p>  — Книга лежит на столе.</p>
+</blockquote>
+
+
+<ul>
+<li><b>Akkusativ (Куда?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich lege das Buch auf den Tisch.</p>
+<p>  — Я кладу книгу на стол.</p>
+</blockquote>
+
+
+
+<h3>3. Предлог <b>NEBEN</b> – рядом с</h3>
+<ul>
+<li><b>Dativ (Где?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Der Koffer steht neben dem Schrank.</p>
+<p>  — Чемодан стоит рядом со шкафом.</p>
+</blockquote>
+
+
+<ul>
+<li><b>Akkusativ (Куда?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich stelle den Koffer neben den Schrank.</p>
+<p>  — Я ставлю чемодан рядом со шкафом.</p>
+</blockquote>
+
+
+
+<h3>4. Предлог <b>VOR</b> – перед</h3>
+<ul>
+<li><b>Dativ (Где?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Der Sessel steht vor dem Sofa.</p>
+<p>  — Кресло стоит перед диваном.</p>
+</blockquote>
+
+
+<ul>
+<li><b>Akkusativ (Куда?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich stelle den Sessel vor das Sofa.</p>
+<p>  — Я ставлю кресло перед диваном.</p>
+</blockquote>
+
+
+
+<h3>5. Предлог <b>HINTER</b> – позади, сзади, за</h3>
+<ul>
+<li><b>Dativ (Где?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Die Tasche steht hinter dem Schrank.</p>
+<p>  — Сумка стоит за шкафом.</p>
+</blockquote>
+
+
+<ul>
+<li><b>Akkusativ (Куда?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich stelle die Tasche hinter den Schrank.</p>
+<p>  — Я ставлю сумку за шкаф.</p>
+</blockquote>
+
+
+
+<h3>6. Предлог <b>ZWISCHEN</b> – между</h3>
+<ul>
+<li><b>Dativ (Где?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Der Tisch steht zwischen dem Sessel und dem Sofa.</p>
+<p>  — Стол стоит между креслом и диваном.</p>
+</blockquote>
+
+
+<ul>
+<li><b>Akkusativ (Куда?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich stelle den Tisch zwischen den Sessel und das Sofa.</p>
+<p>  — Я ставлю стол между креслом и диваном.</p>
+</blockquote>
+
+
+
+<h3>7. Предлог <b>ÜBER</b> – над</h3>
+<ul>
+<li><b>Dativ (Где?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Die Lampe hängt über dem Tisch.</p>
+<p>  — Лампа висит над столом.</p>
+</blockquote>
+
+
+<ul>
+<li><b>Akkusativ (Куда?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich hänge die Lampe über den Tisch.</p>
+<p>  — Я вешаю лампу над столом.</p>
+</blockquote>
+
+
+
+<h3>8. Предлог <b>UNTER</b> – под</h3>
+<ul>
+<li><b>Dativ (Где?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Meine Schuhe stehen unter dem Bett.</p>
+<p>  — Мои ботинки стоят под кроватью.</p>
+</blockquote>
+
+
+<ul>
+<li><b>Akkusativ (Куда?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich stelle meine Schuhe unter das Bett.</p>
+<p>  — Я ставлю ботинки под кровать.</p>
+</blockquote>
+
+
+
+<h3>9. Предлог <b>IN</b> – в</h3>
+<ul>
+<li><b>Dativ (Где?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Meine Schlüssel liegen in der Tasche.</p>
+<p>  — Мои ключи лежат в сумке.</p>
+</blockquote>
+
+
+<ul>
+<li><b>Akkusativ (Куда?):</b></li>
+</ul>
+<blockquote>
+
+
+<p>  Ich lege meine Schlüssel in die Tasche.</p>
+<p>  — Я кладу ключи в сумку.</p>
+</blockquote>
+
+
+
+<hr>
+<h2>Итог и советы</h2>
+<ul>
+<li><b>Выбор падежа:</b><p>
+Используйте <b>Akkusativ</b>, если действие направлено (куда?), и <b>Dativ</b>, если речь идёт о местоположении (где?).
+</p></li>
+<li><b>Перед применением:</b><p>
+Всегда задавайте вопрос к главному слову, чтобы понять, какой предлог подходит лучше всего.
+</p></li>
+<li><b>Практика:</b><p>
+Используйте приведённые примеры для закрепления материала и не забывайте практиковаться в построении собственных предложений!
+</p></li>
+</ul>
+<hr>
+<h2>Считалки для лёгкого запоминания</h2>
+<p>Чтобы запомнить, какие предлоги требуют дательного или винительного падежа, воспользуйтесь такими считалками:</p>
+<ul>
+<li><b>Для дательного падежа:</b><blockquote>
+<p>Mit, nach, aus, zu, von, bei – с дательным падежом, запомни!</p>
+</blockquote>
+</li>
+<li><b>Для винительного падежа:</b><blockquote>
+<p>Bis, durch, gegen, ohne, um, für – они открывают дверь винительному падежу!</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<p><b>Вывод:</b></p>
+<p>Немецкие предлоги места – это важный инструмент для построения связных и точных предложений. Зная, как правильно выбирать предлоги и использовать падежи, вы сможете легко и уверенно говорить на немецком языке.</p>
+<h3>Предлоги места</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=vBVHNdo25LI" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение</h3>
+<div class="guide-media"><a href="https://speakasap.com/de/grammar/predlogi-mesta/?srsltid=AfmBOoovTKFpK0po5X-JLzlTSglCJGv1GGR2V63XgT9O0USiPhyxUFrn" target="_blank" rel="noopener noreferrer">speakasap.com</a></div><hr><h2>Предлоги причины</h2><div class="guide-media"><a href="https://gemini.google.com/share/29eb34b296a6" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Предлоги причины используются для обозначения цели или причины какого-либо действия. Они отвечают на вопросы <b>Warum? (Почему?)</b> и <b>Wozu? (Зачем?)</b>. Разберём наиболее употребительные предлоги причины и их использование.</p>
+<hr>
+<h3><b>Основные предлоги причины</b></h3>
+<h3><b>1. anlässlich (+ Gen) — по случаю, по поводу</b></h3>
+<p><b>Пример:</b></p>
+<ul>
+<li><i>Wir geben ein Fest anlässlich seiner Rückkehr.</i><br>(Мы устраиваем праздник по случаю его возвращения.)</li>
+</ul>
+<h3><b>2. durch (+ Akk) — вследствие, благодаря</b></h3>
+<p><b>Пример:</b></p>
+<ul>
+<li><i>Durch tiefes Atmen kann man sich beruhigen.</i><br>(С помощью глубоких вдохов можно успокоиться.)</li>
+</ul>
+<h3><b>3. aufgrund (+ Gen) — из-за, вследствие</b></h3>
+<p><b>Пример:</b></p>
+<ul>
+<li><i>Aufgrund einer Krankheit kam er nicht an.</i><br>(Он не пришёл из-за болезни.)</li>
+</ul>
+<h3><b>4. dank (+ Gen) — благодаря</b></h3>
+<p><b>Пример:</b></p>
+<ul>
+<li><i>Dank meiner Eltern geht es mir gut.</i><br>(Благодаря родителям у меня всё хорошо.)</li>
+</ul>
+<h3><b>5. trotz (+ Gen) — несмотря на</b></h3>
+<p><b>Пример:</b></p>
+<ul>
+<li><i>Trotz seiner Müdigkeit hat er 10 Stunden gearbeitet.</i><br>(Несмотря на свою усталость, он отработал 10 часов.)</li>
+</ul>
+<h3><b>6. ungeachtet (+ Gen) — невзирая на</b></h3>
+<p><b>Пример:</b></p>
+<ul>
+<li><i>Ungeachtet der Warnungen betrat er das verbotene Gebiet.</i><br>(Невзирая на предупреждения, он вошёл в запретную зону.)</li>
+</ul>
+<h3><b>7. wegen (+ Gen) — из-за, по причине</b></h3>
+<p><b>Пример:</b></p>
+<ul>
+<li><i>Wegen des Unwetters haben wir das Picknick verschoben.</i><br>(Из-за непогоды мы перенесли пикник.)</li>
+</ul>
+<h3><b>8. zufolge (+ Gen) — согласно, по данным</b></h3>
+<p><b>Пример:</b></p>
+<ul>
+<li><i>Der Statistik zufolge hat sich die Lage verschlechtert.</i><br>(Согласно статистике, ситуация ухудшилась.)</li>
+</ul>
+<hr>
+<h3><b>Дополнительные предлоги с причиной или следствием</b></h3>
+<h3><b>9. anstatt (+ Gen/Inf.) — вместо</b></h3>
+<p>Используется для обозначения замены одного действия или объекта другим.<br><b>Пример:</b></p>
+<ul>
+<li><i>Sie hat Tee getrunken, anstatt Kaffee.</i><br>(Она пила чай, а не кофе.)</li>
+<li><i>Er ging ins Kino anstatt zur Arbeit zu gehen.</i><br>(Он пошёл в кино, вместо того чтобы идти на работу.)</li>
+</ul>
+<h3><b>10. außer (+ Dat) — кроме</b></h3>
+<p>Используется для указания исключения из правила.<br><b>Пример:</b></p>
+<ul>
+<li><i>Alle außer Peter waren auf der Party.</i><br>(Все были на вечеринке, кроме Петера.)</li>
+<li><i>Außer Tom und Maria hat niemand das Buch gelesen.</i><br>(Кроме Тома и Марии, никто не читал эту книгу.)</li>
+</ul>
+<hr>
+<h3><b>Использование предлогов в контексте</b></h3>
+<p><b>Пример:</b></p>
+<blockquote>
+<p>Selbst während des Regens gehe ich gerne spazieren, wegen der frischen Luft und der Entspannung, die ich dabei finde. Anstatt zu Hause zu bleiben, trotz des Wetters, ziehe ich meine Regenjacke an und gehe in den Park. Außer mir sind nur wenige Leute unterwegs, aber das stört mich nicht. Ich genieße die Ruhe und die grüne Umgebung. Der Spaziergang hilft mir, den Stress des Alltags zu vergessen und neue Energie zu tanken.</p>
+</blockquote>
+<hr>
+<h3><b>Заключение</b></h3>
+<p>Использование предлогов причины в немецком языке помогает уточнить, <b>почему</b> произошло какое-либо событие. Важно помнить:</p>
+<ul>
+<li><b>Предлоги с Genitiv:</b> anlässlich, aufgrund, trotz, ungeachtet, wegen, zufolge.</li>
+<li><b>Предлоги с Akkusativ:</b> durch.</li>
+<li><b>Предлоги с Dat/Gen/Inf:</b> anstatt, außer.</li>
+</ul>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/gMyOZpIS2gs?si=c0GZdvMf3MrgO_Id" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3><b>Упражнение: подставь правильный предлог причины</b></h3>
+<p>Выбери из списка: <b>anlässlich, durch, aufgrund, dank, trotz, ungeachtet, wegen, zufolge, anstatt, außer</b></p>
+<hr>
+<ol>
+<li>Wir feiern ein großes Fest ___ ihres Geburtstags.</li>
+<li>___ des starken Regens wurde das Konzert abgesagt.</li>
+<li>Er konnte die Prüfung nicht bestehen ___ mangelnder Vorbereitung.</li>
+<li>___ deiner Hilfe habe ich die Aufgabe schnell geschafft.</li>
+<li>___ seiner Erkältung ging er nicht zur Arbeit.</li>
+<li>Sie arbeitete weiter ___ ihrer Müdigkeit.</li>
+<li>___ der Warnungen fuhr er mit dem Auto zu schnell.</li>
+<li>Die Polizei fand den Täter ___ einer genauen Spurensuche.</li>
+<li>___ im Büro zu arbeiten, blieb er heute zu Hause.</li>
+<li>Alle waren auf der Party, ___ Lisa.</li>
+</ol>
+<hr>
+<h3><b>Ответы и объяснения</b></h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>anlässlich</b> – по случаю: «по случаю её дня рождения».</li>
+<li><b>durch</b> – из-за: «из-за сильного дождя».</li>
+<li><b>aufgrund</b> – по причине: «по причине недостаточной подготовки».</li>
+<li><b>dank</b> – благодаря: «благодаря твоей помощи».</li>
+<li><b>wegen</b> – из-за: «из-за его простуды».</li>
+<li><b>trotz</b> – несмотря на: «несмотря на его усталость».</li>
+<li><b>ungeachtet</b> – невзирая на: «невзирая на предупреждения».</li>
+<li><b>durch</b> – вследствие: «вследствие точного поиска улик».</li>
+<li><b>anstatt</b> – вместо: «вместо того, чтобы работать в офисе».</li>
+<li><b>außer</b> – кроме: «кроме Лизы».</li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-094","guide":{"title":"Предлоги: времени, места, причины","kind":"grammar","level":"B1","html":"$22","materials":[],"meta":"Недели 16-18"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

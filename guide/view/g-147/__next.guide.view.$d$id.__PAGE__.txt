@@ -1,0 +1,286 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T1e54,<div class="guide-media"><a href="https://gemini.google.com/share/45fededbf5a4" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3>Vorsilben bei Verben — как не попасть под umfahren</h3>
+<blockquote>
+
+
+<p>В немецком всё выглядит красиво, пока не приходит Vorsilbe.</p>
+<p>Она не просто <b>меняет смысл глагола</b>.</p>
+<p>Она <b>ломает всё</b>: порядок слов, построение Perfekt, и даже <b>смысл может развернуть на 180°</b>.</p>
+</blockquote>
+
+
+
+<hr>
+<h2>Что такое Vorsilbe?</h2>
+<p>Это приставка перед глаголом, которая:</p>
+<ul>
+<li>меняет значение;</li>
+<li>влияет на построение предложений;</li>
+<li>определяет, добавлять ли &quot;ge-&quot; в Partizip II;</li>
+<li>решает: будет глагол <b>trennbar</b> (отделяемый) или <b>untrennbar</b> (неотделяемый).</li>
+</ul>
+<hr>
+<h2>🚦 3 типа глаголов по приставкам:</h2>
+<h3>1. Trennbare Verben (отделяемые)</h3>
+<p><b>Приставки:</b></p>
+<p>ab-, an-, auf-, aus-, ein-, mit-, nach-, vor-, weg-, zurück- и т.д.</p>
+<p>✅ В <b>Präsens / Präteritum</b> приставка уходит в конец</p>
+<p>✅ В <b>Perfekt</b>: <b>ge</b> идёт между приставкой и глаголом</p>
+<p><b>Пример:</b></p>
+<p><i>Ich kaufe im Supermarkt ein.</i></p>
+<p><i>Ich habe im Supermarkt eingekauft.</i></p>
+<hr>
+<h3>2. 🔒 Untrennbare Verben (неотделяемые)</h3>
+<p><b>Приставки:</b></p>
+<p>be-, emp-, ent-, er-, ge-, miss-, ver-, zer-</p>
+<p>❌ Никогда не отделяются</p>
+<p>❌ В Partizip II — <b>без &quot;ge-&quot;</b></p>
+<p><b>Пример:</b></p>
+<p><i>Ich verstehe dich.</i></p>
+<p><i>Ich habe dich verstanden.</i></p>
+<p>(не &quot;geverstehen&quot;, не &quot;verstanden<b>ge</b>&quot;)</p>
+<hr>
+<h3>3. ⚠️ Двойные: trennbar UND untrennbar</h3>
+<p><b>Приставки-хамелеоны:</b></p>
+<p>durch-, über-, um-, unter-, hinter-, wider-</p>
+<p>Значение зависит от <b>интонации</b>, <b>контекста</b>, <b>ударения</b>.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Глагол</th>
+<th>Тип</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>umfahren</b></td>
+<td>untrennbar</td>
+<td>объехать (вокруг)</td>
+</tr>
+<tr>
+<td><b>umfahren</b></td>
+<td>trennbar</td>
+<td>сбить (наехать)</td>
+</tr>
+<tr>
+<td><b>durchbrechen</b></td>
+<td>untrennbar</td>
+<td>прорвать (переносно)</td>
+</tr>
+<tr>
+<td><b>durchbrechen</b></td>
+<td>trennbar</td>
+<td>сломать (физически)</td>
+</tr>
+</tbody></table></div>
+<p><b>Ударение = ключ:</b></p>
+<ul>
+<li><b>Trennbar:</b> ударение на приставке</li>
+<li><b>Untrennbar:</b> ударение на корне глагола</li>
+</ul>
+<hr>
+<h2>Как образуется Partizip II?</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Тип глагола</th>
+<th>Формула</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Trennbar</td>
+<td>Präfix + <b>ge</b> + Stamm + t/en</td>
+<td><i>eingekauft, weggegangen</i></td>
+</tr>
+<tr>
+<td>Untrennbar</td>
+<td>Präfix + Stamm + t/en</td>
+<td><i>verstanden, erklärt</i></td>
+</tr>
+<tr>
+<td>Doppeldeutig</td>
+<td>смотри по значению и ударению</td>
+<td><i>umgefahren vs. umfahren</i></td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>Часто путаемые Vorsilben:</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Vorsilbe</th>
+<th>Пример</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>be-</b></td>
+<td>bearbeiten</td>
+<td>обрабатывать</td>
+</tr>
+<tr>
+<td><b>ver-</b></td>
+<td>verbessern</td>
+<td>улучшать</td>
+</tr>
+<tr>
+<td><b>er-</b></td>
+<td>erreichen</td>
+<td>достигать</td>
+</tr>
+<tr>
+<td><b>ent-</b></td>
+<td>entkommen</td>
+<td>сбежать</td>
+</tr>
+<tr>
+<td><b>miss-</b></td>
+<td>missverstehen</td>
+<td>недопонимать</td>
+</tr>
+<tr>
+<td><b>zer-</b></td>
+<td>zerstören</td>
+<td>разрушать</td>
+</tr>
+<tr>
+<td><b>de-</b></td>
+<td>deaktivieren</td>
+<td>отключать</td>
+</tr>
+<tr>
+<td><b>re-</b></td>
+<td>reagieren</td>
+<td>реагировать</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>Фразы, которые спасут:</h2>
+<p><i>Ist das Verb trennbar oder nicht?</i></p>
+<p><i>Wie wird das Partizip II gebildet?</i></p>
+<p><i>Wo liegt die Betonung?</i></p>
+<hr>
+<h2>Проверь себя</h2>
+<p><b>Er hat das Auto umfahren.</b></p>
+<p>Что это значит?</p>
+<p>→ Он <b>объехал</b> машину.</p>
+<p>(= <b>untrennbar</b>, ударение на <i>fahren</i>)</p>
+<p><b>Er hat das Auto umgefahren.</b></p>
+<p>→ Он <b>сбил</b> машину.</p>
+<p>(= <b>trennbar</b>, Partizip с <i>um + ge + fahren</i>)</p>
+<hr>
+<h2>Запомни:</h2>
+<blockquote>
+
+
+<p>Vorsilbe = судьба твоего глагола</p>
+<p>Одно слово может быть убийцей (<i>umfahren</i>) или героем (<i>verstehen</i>)</p>
+<p>Главное — не перепутать ударение и не добавить ge, куда не надо</p>
+</blockquote>
+
+
+
+
+
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/TPGj9Df_XH4?si=_LlPGdAIHXejWER7" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения по приставкам у глаголов</h3>
+<hr>
+<h3>1. Определи тип глагола (Trennbar / Untrennbar / Doppeldeutig)</h3>
+<p>a) anfangen</p>
+<p>b) besuchen</p>
+<p>c) umstellen (переставить мебель)</p>
+<p>d) umstellen (окружить город)</p>
+<p>e) erklären</p>
+<hr>
+<h3>2. Поставь в Perfekt (правильный Partizip II)</h3>
+<p>a) Ich ___ gestern im Supermarkt ___ (einkaufen).</p>
+<p>b) Wir ___ dich gut ___ (verstehen).</p>
+<p>c) Sie ___ das Auto ___ (umfahren – объехать).</p>
+<p>d) Er ___ den Baum ___ (umfahren – сбить).</p>
+<p>e) Ich ___ das Problem sofort ___ (erkennen).</p>
+<hr>
+<hr>
+<h3>2. Найди ошибку и исправь</h3>
+<p>a) Ich habe dich <b>geverstehen</b>.</p>
+<p>b) Wir haben das Auto <b>umgefahrt</b>.</p>
+<p>c) Er hat das Handy <b>geerklärt</b>.</p>
+<p>d) Ich habe im Geschäft <b>gekauftein</b>.</p>
+<p>e) Sie hat das Haus <b>vergebaut</b>.</p>
+<hr>
+<h3>✅ Ответы + короткие объяснения</h3><details><summary>Показать ответы</summary>
+<p><b>1. Тип глагола</b></p>
+<p>a) anfangen → Trennbar</p>
+<p>b) besuchen → Untrennbar</p>
+<p>c) umstellen (переставить) → Trennbar</p>
+<p>d) umstellen (окружить) → Untrennbar</p>
+<p>e) erklären → Untrennbar</p>
+<p><b>2. Perfekt</b></p>
+<p>a) Ich <b>habe eingekauft</b>. (trennbar → ein + ge + kauft)</p>
+<p>b) Wir <b>haben verstanden</b>. (untrennbar → без ge)</p>
+<p>c) Sie <b>hat das Auto umfahren</b>. (untrennbar → без ge)</p>
+<p>d) Er <b>hat den Baum umgefahren</b>. (trennbar → um + ge + fahren)</p>
+<p>e) Ich <b>habe erkannt</b>. (untrennbar → без ge)</p>
+<p><b>3. Ошибки</b></p>
+<p>a) falsch → Ich habe dich <b>verstanden</b>.</p>
+<p>b) falsch → Wir haben das Auto <b>umgefahren</b>.</p>
+<p>c) falsch → Er hat das Handy <b>erklärt</b>.</p>
+<p>d) falsch → Ich habe im Geschäft <b>eingekauft</b>.</p>
+<p>e) falsch → Sie hat das Haus <b>gebaut</b>.</p>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-147","guide":{"title":"Приставки у глаголов","kind":"grammar","level":"C1","html":"$1c","materials":[],"meta":"Недели 55-59"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-147","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

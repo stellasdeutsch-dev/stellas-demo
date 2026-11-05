@@ -1,0 +1,358 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T3201,<h2>Modale Zusammenhänge — Образ действия</h2><div class="guide-media"><a href="https://gemini.google.com/share/828db2b1fd8a" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3>Как сказать <i>«как?»</i> по-немецки</h3>
+<p><b>Modale Zusammenhänge</b> — выражаем <b>образ действия</b></p>
+<hr>
+<p>В немецком «модальные связи» — это не про глаголы типа <i>können</i> и <i>müssen</i>, а про то, <b>КАК</b> происходит действие: спокойно или в панике, с усилием или играючи, шаг за шагом или всё разом.</p>
+<p>Это отвечает на вопрос <b>Wie?</b> (<i>Как? Каким образом?</i>) и оформляется разными способами.</p>
+<hr>
+<h2>1. Наречия (Adverbien)</h2>
+<p><b>Самый прямой способ</b>: просто бросить в предложение наречие.</p>
+<blockquote>
+
+
+<p>Er arbeitet schnell. — Он работает быстро.</p>
+<p>Sie lächelt <b>freundlich</b>. — Она улыбается дружелюбно.</p>
+</blockquote>
+
+
+
+<p>💡 Наречие в немецком <b>не изменяется</b> — неважно, к кому или к чему относится.</p>
+<hr>
+<h2>2. Предложные конструкции (Präpositionalphrasen)</h2>
+<p>Здесь модальность передаётся через предлог + существительное.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Конструкция</th>
+<th>Перевод</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>mit + Dativ</b></td>
+<td>с (чем-то/каким-то образом)</td>
+<td>Er schrieb den Brief <b>mit großer Sorgfalt</b>. — Он написал письмо с большой тщательностью.</td>
+</tr>
+<tr>
+<td><b>ohne + Akk</b></td>
+<td>без</td>
+<td>Sie fuhr <b>ohne Eile</b>. — Она ехала без спешки.</td>
+</tr>
+<tr>
+<td><b>auf + Akk</b></td>
+<td>определённым образом</td>
+<td>Er reagierte <b>auf diese Weise</b>. — Он отреагировал таким образом.</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>3. Конструкции с <b>als</b> и <b>wie</b></h2>
+<p>Используются для сравнения образа действия:</p>
+<blockquote>
+
+
+<p>Er arbeitete wie ein Profi. — Он работал как профи.</p>
+<p>Sie sprach <b>als Expertin</b>. — Она говорила как эксперт.</p>
+</blockquote>
+
+
+
+<hr>
+<h2>4. Герундий с <b>durch + Akk</b></h2>
+<p>Часто в формальной речи: действие описывается через процесс.</p>
+<blockquote>
+
+
+<p>Durch hartes Training verbesserte er seine Leistung.</p>
+<p>— Посредством усердных тренировок он улучшил свои результаты.</p>
+</blockquote>
+
+
+
+<hr>
+<h2>5. Nebensätze с <b>indem</b></h2>
+<p>Идеальный способ показать <b>средство или способ</b> выполнения действия.</p>
+<blockquote>
+
+
+<p>Er löste das Problem, indem er einen neuen Plan entwickelte.</p>
+<p>— Он решил проблему, разработав новый план.</p>
+</blockquote>
+
+
+
+<p>💡 На экзамене C1 это один из любимых конструктивов в письме.</p>
+<hr>
+<h2>6. Partizipialkonstruktionen</h2>
+<p>Стильный и компактный способ для письменной речи.</p>
+<blockquote>
+
+
+<p>Lächelnd betrat sie den Raum. — Улыбаясь, она вошла в комнату.</p>
+<p><b>Mit dem Kopf nickend</b>, stimmte er zu. — Кивая головой, он согласился.</p>
+</blockquote>
+
+
+
+<hr>
+<h3>Мини-формула для образа действия:</h3>
+<pre><code>Verb + (Adverb / Präpositionalphrase / Vergleich / Nebensatz / Partizip)
+</code></pre>
+<hr>
+<h3>Запомни</h3>
+<ul>
+<li><b>В разговоре</b> чаще наречия и простые сравнения (<i>wie ein Profi</i>).</li>
+<li><b>В официальных текстах</b> — конструкции с <b>indem</b>, <b>durch + Akk</b>, причастные обороты.</li>
+<li><b>В экзамене C1</b> комбинация простых и сложных форм делает речь богатой и оценку выше.</li>
+</ul>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/MSvy2F7xmuM?si=H2pCHOSfaIWUMcFk" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Найди и перепиши образ действия</h3>
+<p>В каждом предложении подчеркнут способ выполнения действия.</p>
+<p>Твоя задача — переписать предложение, заменив выделенную часть <b>другим способом</b> выражения модальных связей (наречие → предлог, предлог → сравнение, сравнение → indem и т.д.).</p>
+<hr>
+<ol>
+<li>Er erklärte den Plan <b>mit großer Geduld</b>. <i>(замени на наречие)</i></li>
+<li>Sie fuhr <b>langsam</b> durch die Stadt. <i>(замени на Vergleich с wie)</i></li>
+<li>Er gewann das Spiel <b>wie ein Profi</b>. <i>(замени на indem)</i></li>
+<li>Sie löste das Problem <b>indem sie die Strategie änderte</b>. <i>(замени на durch + Akk)</i></li>
+<li><b>Lächelnd</b> begrüßte er die Gäste. <i>(замени на mit + Dativ)</i></li>
+</ol>
+<hr>
+<h3>✅ Ответы и пояснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li>Er erklärte den Plan <b>geduldig</b>.<p>
+💬 Наречие вместо предложной конструкции.
+</p></li>
+<li>Sie fuhr <b>wie eine Schnecke</b> durch die Stadt.<p>
+💬 Сравнение с wie вместо наречия.
+</p></li>
+<li>Er gewann das Spiel, <b>indem er konzentriert spielte</b>.<p>
+💬 Nebensatz с indem вместо сравнения.
+</p></li>
+<li>Sie löste das Problem <b>durch eine Änderung der Strategie</b>.<p>
+💬 Предложная конструкция через Akkusativ.
+</p></li>
+<li><b>Mit einem Lächeln</b> begrüßte er die Gäste.<p>
+💬 Предложная конструкция с Dativ вместо Partizipialkonstruktion.
+</p></li>
+</ol>
+</details><hr><h2>Vergleiche — Сравнения</h2><div class="guide-media"><a href="https://gemini.google.com/share/6bc4057215f3" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3>СРАВНЕНИЯ ПО-НЕМЕЦКИ: быстро, чётко, B2–C1</h3>
+<p>Хочешь звучать как взрослый немец? Умей сравнивать: равенство, неравенство, усилители, «je… desto». Ниже — формулы, нюансы и ловушки. Поехали.</p>
+<hr>
+<h3>База: равенство vs. неравенство</h3>
+<p>
+⚖️ <b>Равенство:</b> <code>so + Adj/Adv + wie</code> / <code>genauso/ebenso + Adj + wie</code>
+
+<p><i>Das Ergebnis ist </i><i><b>so</b></i><i> klar </i><i><b>wie</b></i><i> erwartet.</i></p>
+</p>
+
+<p>
+🚫 <b>Неравенство (мягко):</b> <code>nicht so … wie</code>
+
+<p><i>Die Lösung ist </i><i><b>nicht so</b></i><i> elegant </i><i><b>wie</b></i><i> gedacht.</i></p>
+</p>
+
+<p>
+📈 <b>Сравнение (строго):</b> <code>Komparativ + als</code>
+
+<p><i>Die neue Methode ist </i><i><b>effizienter als</b></i><i> die alte.</i></p>
+</p>
+
+<hr>
+<h3>Степени сравнения (формы)</h3>
+<p><b>Komparativ:</b> <code>Adj + -er</code> → <i>schneller, tiefer, klarer</i></p>
+<p>
+🏁 <b>Superlativ (предикативно/наречно):</b> <code>am + -sten/-esten</code>
+
+<p><i>am schnellsten, am heißesten, am lautesten</i></p>
+</p>
+
+<p>
+🏷️ <b>Superlativ (атрибутивно):</b> <code>der/die/das + Adj(-st-) + Endung</code>
+
+<p><i>der </i><i><b>schnellste</b></i><i> Weg, die </i><i><b>klarste</b></i><i> Struktur</i></p>
+</p>
+
+<blockquote>
+<p>💡 Произношение: после основ на -d/-t/-s/-ß/-sch/-x/-z добавляем -esten: laut → am lautesten, heiß → am heißesten, kürzesten.</p>
+</blockquote>
+<hr>
+<h3>Нерегулярные формы (must-know)</h3>
+<p>
+ <b>gut → besser → am besten</b>
+</p>
+
+<p>
+ <b>viel → mehr → am meisten</b> / <b>wenig → weniger → am wenigsten</b>
+</p>
+
+<p>
+ <b>hoch → höher → am höchsten</b>
+</p>
+
+<p>
+ <b>nah → näher → am nächsten</b>
+</p>
+
+<p>
+ <b>groß → größer → am größten</b>
+</p>
+
+<p>
+ <b>jung → jünger → am jüngsten</b>
+</p>
+
+<p>
+ <b>kalt → kälter → am kältesten</b>
+</p>
+
+<p>
+ <b>gern → lieber → am liebsten</b>
+</p>
+
+<blockquote>
+<p>🪄 -el/-er: выпадает «e» в Komparativ: teuer → teurer, dunkel → dunkler.</p>
+</blockquote>
+<hr>
+<h3>Усилители сравнения (то, что делает речь живой)</h3>
+<p>
+🔥 <b>viel/deutlich/weit/erheblich/um einiges</b> + Komparativ:
+
+<p><i>Das Modell ist </i><i><b>deutlich</b></i><i> stabiler.</i></p>
+</p>
+
+<p>➕ <b>noch</b> + Komparativ: <i>noch präziser</i></p>
+<p>🔁 <b>immer + Komparativ</b> (нарастание): <i>Es wird </i><i><b>immer</b></i><i> wärmer.</i></p>
+<p>🏆 <b>bei weitem / mit Abstand</b> + Superlativ: <i><b>bei weitem</b></i><i> die beste Lösung.</i></p>
+<hr>
+<h3>Коррелятив: je … desto/umso</h3>
+<p><b>Формула:</b> <code>Je + Komparativ, desto/umso + Komparativ</code></p>
+<p><i>Je </i><i><b>klarer</b></i><i> die Daten, desto/umso </i><i><b>sicherer</b></i><i> die Entscheidung.</i></p>
+<hr>
+<h3>Als или wie? Падеж и логика</h3>
+<p><b>wie</b> — равенство, <b>als</b> — контраст.</p>
+<p>📌 <b>Падеж после als/wie</b> зависит от роли слова:</p>
+<p><i>Er ist größer als </i><i><b>ich</b></i><i> (Nominativ, сказуемое «sein»).</i></p>
+<p><i>Er unterstützt dich mehr als </i><i><b>mich</b></i><i> (Akkusativ, объект).</i></p>
+<hr>
+<h3>Типовые ошибки (и фиксы)</h3>
+<p>❌ <i>so mehr wie</i> → ✅ <b>mehr als</b></p>
+<p>❌ <i>nicht so als</i> → ✅ <b>nicht so … wie</b></p>
+<p>❌ нет инверсии после наречия: <i>Trotzdem wir bleiben…</i> → ✅ <b>Trotzdem bleiben wir…</b></p>
+<p>❌ путаница форм: <i>am bester</i> → ✅ <b>am besten</b></p>
+<hr>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/0bvIlHDD2U8?si=LwJDCHg7EkCo2ULG" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Мини-тренажёр (один формат → дополни правильно)</h3>
+<p>Заполни пропуски подходящей конструкцией (<b>so…wie / nicht so…wie / Komparativ+als / am -sten / je…desto/umso</b>).</p>
+<ol>
+<li>
+Die Lösung ist \_\_\_\_\_\_ elegant \_\_\_\_\_\_ gedacht. 
+</li>
+<li>
+Das neue Modell ist \_\_\_\_\_\_ (<b>deutlich</b>) stabiler \_\_\_\_\_\_ das alte. 
+</li>
+<li>
+\_\_\_\_\_\_ klarer die Vorgaben, \_\_\_\_\_\_ effizienter die Umsetzung. 
+</li>
+<li>
+Er arbeitet \_\_\_\_\_\_ (<b>bei weitem</b>) \_\_\_\_\_\_. 
+</li>
+<li>
+Unsere Hypothese ist \_\_\_\_\_\_ robust \_\_\_\_\_\_ erwartet. 
+</li>
+<li>
+Diese Option ist \_\_\_\_\_\_ sinnvoller \_\_\_\_\_\_ die Alternative. 
+</li>
+<li>
+Der Algorithmus läuft \_\_\_\_\_\_ schnell \_\_\_\_\_\_ gestern. 
+</li>
+<li>
+Das Ergebnis ist \_\_\_\_\_\_ eindeutig \_\_\_\_\_\_ die Vorversion. 
+</li>
+<li>
+Wir wählen den \_\_\_\_\_\_ zuverlässigen Anbieter. 
+</li>
+<li>
+Die Daten sind \_\_\_\_\_\_ vollständig \_\_\_\_\_\_ nötig. 
+</li>
+</ol>
+
+
+
+<ol>
+<li><b>nicht so … wie</b> — <i>nicht so elegant wie</i></li>
+<li><b>(deutlich) … als</b> — <i>deutlich stabiler als</i></li>
+<li><b>je … desto/umso</b> — <i>Je klarer …, desto/umso effizienter …</i></li>
+<li><b>bei weitem + Superlativ</b> — <i>bei weitem am besten</i></li>
+<li><b>so … wie</b> — <i>so robust wie</i></li>
+<li><b>… als</b> — <i>sinnvoller als</i></li>
+<li><b>Komparativ</b> — <i>schneller als</i></li>
+<li><b>eindeutiger als</b></li>
+<li><b>Superlativ (атрибутивно)</b> — <i>den zuverlässig</i><i><b>sten</b></i><i> Anbieter</i></li>
+<li><b>nicht so … wie</b> — <i>nicht so vollständig wie nötig</i></li>
+</ol>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-161","guide":{"title":"Modale Zusammenhänge и Vergleiche","kind":"grammar","level":"C1","html":"$1c","materials":[],"meta":"Недели 60-66"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-161","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

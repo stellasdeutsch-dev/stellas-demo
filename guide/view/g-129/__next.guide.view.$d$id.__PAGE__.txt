@@ -1,0 +1,177 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T20df,<div class="guide-media"><a href="https://gemini.google.com/share/00a1c7c21fa9" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Все о <b>противопоставлении в немецком языке</b>:</p>
+<p><b>aber</b>, <b>sondern</b>, <b>doch</b>, <b>während</b>, <b>dagegen</b>, <b>im Gegensatz dazu</b> — как расставить акценты и показать, что что-то происходит наоборот, наперекор, или вовсе иначе</p>
+<hr>
+<h3>📌 Что такое <b>Adversativsätze</b>?</h3>
+<p><b>Adversativsätze</b> — это <b>придаточные или сочинённые предложения</b>, выражающие <b>контраст</b>, <b>противоположность</b>, <b>альтернативу</b> или <b>неожиданный поворот</b>.</p>
+<p>❓ Когда использовать:</p>
+<ul>
+<li>когда хочешь сказать: «но», «а», «тем не менее», «в отличие от этого»</li>
+<li>когда сравниваешь два действия, мнения, состояния</li>
+</ul>
+<hr>
+<h3>Главное: два типа противопоставления</h3>
+<div class="guide-table"><table> <tr> <td> Тип </td> <td> Что выражает </td> <td> Пример </td> </tr> <tr> <td> <b>Контраст</b> </td> <td> два действия происходят <b>параллельно</b>, но по-разному </td> <td> Während sie arbeitet, schläft er. </td> </tr> <tr> <td> <b>Противоположность</b> </td> <td> одно исключает другое </td> <td> Nicht er, sondern sie war da. </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>ТОП противительных союзов</h3>
+<div class="guide-table"><table> <tr> <td> Союз / фраза </td> <td> Перевод </td> <td> Особенности </td> </tr> <tr> <td> <b>aber</b> </td> <td> но </td> <td> классика, прямой порядок слов </td> </tr> <tr> <td> <b>sondern</b> </td> <td> а (в отрицании) </td> <td> после <b>nicht</b>, прямой порядок слов </td> </tr> <tr> <td> <b>doch</b> </td> <td> однако, тем не менее </td> <td> устно часто, как <i>aber</i> </td> </tr> <tr> <td> <b>jedoch / dennoch</b> </td> <td> однако, тем не менее </td> <td> формальные, письменная речь </td> </tr> <tr> <td> <b>während</b> </td> <td> в то время как </td> <td> подчинительный союз, глагол в конец </td> </tr> <tr> <td> <b>dagegen</b> </td> <td> зато, напротив </td> <td> наречие, глагол на 2 месте </td> </tr> <tr> <td> <b>im Gegensatz dazu</b> </td> <td> в отличие от этого </td> <td> вводное наречие, глагол на 2 месте </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>Примеры и нюансы</h3>
+<h3>🟠 <b>aber</b> — классическое «НО»</h3>
+<p>Самый универсальный союз. Можно вставлять <b>в любое место</b>, не меняя порядок слов.</p>
+<ul>
+<li>Ich will helfen, <b>aber</b> ich habe keine Zeit.<p>
+(<i>Я хочу помочь, но у меня нет времени.</i>)
+</p></li>
+</ul>
+<hr>
+<h3>🟠 <b>sondern</b> — А (в значении «а не…»)</h3>
+<p>Работает ТОЛЬКО после отрицания.</p>
+<ul>
+<li>Er ist <b>nicht</b> dumm, <b>sondern</b> faul.<p>
+(<i>Он не глупый, а ленивый.</i>)
+</p></li>
+</ul>
+<hr>
+<h3>🟠 <b>doch</b> — тоже «НО», но мягче</h3>
+<p>Используется как альтернатива <b>aber</b>, чаще в устной речи.</p>
+<p>Можно ставить в начало предложения.</p>
+<ul>
+<li>Es regnet, <b>doch</b> wir gehen spazieren.</li>
+<li><b>Doch</b> er kam trotzdem.</li>
+</ul>
+<hr>
+<h3>🟠 <b>jedoch / dennoch</b> — формально, сильно, красиво</h3>
+<p>Обычно используются в письменной речи, в новостях, статьях, эссе.</p>
+<ul>
+<li>Sie wollte helfen, <b>jedoch</b> war sie verhindert.<p>
+(<i>Она хотела помочь, однако не смогла.</i>)
+</p></li>
+<li>Er war krank, <b>dennoch</b> kam er zur Arbeit.<p>
+(<i>Он был болен, но всё равно пришёл на работу.</i>)
+</p></li>
+</ul>
+<hr>
+<h3>🟠 <b>während</b> — в то время как</h3>
+<p>Противопоставляет <b>одновременные</b>, но <b>разные по смыслу</b> действия.</p>
+<p>📌 Подчинительный союз ⇒ глагол уходит в конец</p>
+<ul>
+<li><b>Während</b> ich arbeite, spielt mein Bruder am Handy.<p>
+(<i>Пока я работаю, мой брат играет в телефоне.</i>)
+</p></li>
+<li>Ich entspanne mich, <b>während</b> sie noch im Büro sitzt.<p>
+(<i>Я отдыхаю, в то время как она всё ещё в офисе.</i>)
+</p></li>
+</ul>
+<hr>
+<h3>🟠 <b>dagegen</b> — ЗАТО, НАПРОТИВ</h3>
+<p>Это не союз, а <b>наречие</b>.</p>
+<p>Стоит в начале или после подлежащего, требует <b>инверсии</b>.</p>
+<ul>
+<li>Ich mag Tee. <b>Dagegen</b> trinkt sie nur Kaffee.</li>
+<li><b>Sie</b> trinkt <b>dagegen</b> keinen Tee.<p>
+(<i>Она, напротив, чай не пьёт.</i>)
+</p></li>
+</ul>
+<hr>
+<h3>🟠 <b>im Gegensatz dazu</b> — в отличие от этого</h3>
+<p>Очень формальная и точная конструкция. Используется в эссе, аналитике, письмах.</p>
+<ul>
+<li>Viele Jugendliche leben in Städten. <b>Im Gegensatz dazu</b> wohnen die meisten Senioren auf dem Land.<p>
+(<i>Молодёжь живёт в городах. В отличие от этого, большинство пожилых — в деревне.</i>)
+</p></li>
+</ul>
+<hr>
+<h3>📊 Быстрый обзор: сравнение конструкций</h3>
+<div class="guide-table"><table> <tr> <td> Хочешь сказать… </td> <td> Используй… </td> <td> Порядок слов </td> </tr> <tr> <td> «но» </td> <td> <b>aber</b>, <b>doch</b> </td> <td> прямой </td> </tr> <tr> <td> «а не…» </td> <td> <b>sondern</b> </td> <td> после отрицания </td> </tr> <tr> <td> «однако» </td> <td> <b>doch</b>, <b>jedoch</b> </td> <td> формально / устно </td> </tr> <tr> <td> «в то время как…» </td> <td> <b>während</b> </td> <td> глагол в конец </td> </tr> <tr> <td> «зато / напротив» </td> <td> <b>dagegen</b> </td> <td> инверсия </td> </tr> <tr> <td> «в отличие от этого» </td> <td> <b>im Gegensatz dazu</b> </td> <td> вводная конструкция </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>✅ Итог: как не запутаться</h3>
+<p>
+Если действия <b>одновременны</b> →  <b>während</b>, <b>doch</b>                    <br>Если действия <b>в противоположность</b> →  <b>aber</b>, <b>dagegen</b>, <b>im Gegensatz dazu</b> <br>Если одно действие <b>исключает</b> другое →  <b>sondern</b>                                  <br>Если нужна <b>формальность</b> →\| <b>jedoch</b>, <b>dennoch</b>, <b>im Gegensatz dazu</b> 
+</p>
+
+<hr>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/vBO_vx5P4P8?si=rG6pfQqM3iJqFWWh" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+<h3>Мини-практика: соедини предложения</h3>
+<ol>
+<li>Ich arbeite. Mein Freund schläft.<p>
+→ Ich arbeite, <b>während</b> mein Freund schläft.
+</p></li>
+<li>Sie trinkt keinen Tee. Sie trinkt Kaffee.<p>
+→ Sie trinkt <b>nicht</b> Tee, <b>sondern</b> Kaffee.
+</p>
+
+<p>
+→ Sie trinkt keinen Tee. <b>Dagegen</b> liebt sie Kaffee.
+</p></li>
+<li>Es regnet. Wir gehen trotzdem raus.<p>
+→ Es regnet. <b>Dennoch</b> gehen wir raus.
+</p>
+
+<p>
+→ Es regnet, <b>doch</b> wir gehen raus.
+</p></li>
+</ol>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-129","guide":{"title":"Противопоставительные предложения","kind":"grammar","level":"B2","html":"$1c","materials":[],"meta":"Недели 38-42"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-129","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

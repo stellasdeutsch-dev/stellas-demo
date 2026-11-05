@@ -1,0 +1,149 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-121","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-121",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T17fb,<div class="guide-media"><a href="https://gemini.google.com/share/e3c907a110eb" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Двойные союзы (Doppelkonjunktionen) в немецком языке помогают красиво и лаконично выразить мысли, соединяя две части одного или нескольких предложений. Их часто используют как для объединения (не только… но и…), так и для противопоставления (либо… либо…).</p>
+<p>Разберём главные двойные союзы подробнее!</p>
+<hr>
+<h3>Отрицание с уточнением (nicht… sondern…)</h3>
+<p>Этот союз выражает противопоставление, когда нужно уточнить или исправить информацию:</p>
+<ul>
+<li><b>Das ist kein Apfel, sondern eine Birne.</b><p>
+Это не яблоко, а груша.
+</p></li>
+<li><b>Ich fahre nicht nach Berlin, sondern nach München.</b><p>
+Я еду не в Берлин, а в Мюнхен.
+</p></li>
+</ul>
+<hr>
+<h3>Двойное перечисление (sowohl… als auch…)</h3>
+<p>Используется, чтобы подчеркнуть, что оба элемента важны и присутствуют одновременно:</p>
+<ul>
+<li><b>Ich mag sowohl Kaffee als auch Tee.</b><p>
+Я люблю как кофе, так и чай.
+</p></li>
+<li><b>Maria lernt sowohl selbst als auch mit einem Lehrer Deutsch.</b><p>
+Мария учит немецкий как сама, так и с преподавателем.
+</p></li>
+</ul>
+<p><i>Особенность:</i> не меняются подлежащее и сказуемое во второй части.</p>
+<hr>
+<h3>Не только… но и… (nicht nur… sondern auch…)</h3>
+<p>Используется, чтобы показать важность обоих элементов, при этом возможна смена действия или субъекта во второй части:</p>
+<ul>
+<li><b>Ich spreche nicht nur Englisch, sondern auch Deutsch.</b><p>
+Я говорю не только по-английски, но и по-немецки.
+</p></li>
+<li><b>Er kümmert sich nicht nur um sie, sondern er glaubt auch an sie.</b><p>
+Он не только о ней заботится, но и верит в неё.
+</p></li>
+</ul>
+<hr>
+<h3>Альтернатива (entweder… oder…)</h3>
+<p>Используется, когда нужно выбрать одно из двух:</p>
+<ul>
+<li><b>Ich möchte entweder Pizza oder Pasta essen.</b><p>
+Я хочу съесть или пиццу, или пасту.
+</p></li>
+<li><b>Du kannst entweder bleiben oder gehen.</b><p>
+Ты можешь либо остаться, либо уйти.
+</p></li>
+</ul>
+<p><i>Особенность:</i> могут изменяться и подлежащее, и сказуемое во второй части.</p>
+<hr>
+<h3>Двойное отрицание (weder… noch…)</h3>
+<p>Используется для выражения отрицания обоих элементов:</p>
+<ul>
+<li><b>Er trinkt weder Bier noch Wein.</b><p>
+Он не пьёт ни пиво, ни вино.
+</p></li>
+<li><b>Weder ich noch meine Schwester verstehen die Aufgabe.</b><p>
+Ни я, ни моя сестра не понимаем задание.
+</p></li>
+</ul>
+<p><i>Особенность:</i> после noch сразу идёт глагол!</p>
+<hr>
+<h3>Частично… частично… (teils… teils…)</h3>
+<p>Используется, чтобы описать две части одного целого:</p>
+<ul>
+<li><b>Er arbeitet teils zu Hause, teils im Büro.</b><p>
+Он работает частично дома, частично в офисе.
+</p></li>
+</ul>
+<hr>
+<h3>Хотя… но… (zwar… aber…)</h3>
+<p>Используется для уступительных конструкций:</p>
+<ul>
+<li><b>Er ist zwar intelligent, aber faul.</b><p>
+Он хоть и умный, но ленивый.
+</p></li>
+<li><b>Ich möchte zwar reisen, aber ich habe kein Geld.</b><p>
+Хотя я и хочу путешествовать, у меня нет денег.
+</p></li>
+</ul>
+<hr>
+<h3>С одной стороны… с другой стороны… (einerseits… andererseits…)</h3>
+<p>Используется, чтобы показать две противоположные стороны ситуации:</p>
+<ul>
+<li><b>Einerseits bin ich müde, andererseits möchte ich ausgehen.</b><p>
+С одной стороны, я устал, с другой — хочу выйти куда-нибудь.
+</p></li>
+</ul>
+<hr>
+<h3>Чем… тем… (je… desto / umso…)</h3>
+<p>Используется для выражения зависимости одного действия или состояния от другого:</p>
+<ul>
+<li><b>Je mehr man lernt, desto besser versteht man.</b><p>
+Чем больше учишься, тем лучше понимаешь.
+</p></li>
+<li><b>Je schneller du fährst, umso gefährlicher wird es.</b><p>
+Чем быстрее ты едешь, тем это опаснее.
+</p></li>
+</ul>
+<p><i>Особенность:</i> после je глагол идёт в конец, после desto / umso сначала ставится сравнительная степень прилагательного, а затем глагол.</p>
+<hr>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=neyskfjy65w" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения</h3>
+<div class="guide-media"><a href="https://quizlet.com/ru/659586007/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B%D0%B5-%D1%81%D0%BE%D1%8E%D0%B7%D1%8B-%D0%B2-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%BC-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5-flash-cards/" target="_blank" rel="noopener noreferrer">quizlet.com</a></div>13:["$","$L21",null,{"id":"g-121","guide":{"title":"Двойные союзы","kind":"grammar","level":"B2","html":"$22","materials":[],"meta":"Недели 33-37"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

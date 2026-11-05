@@ -1,0 +1,186 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-135","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-135",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T1e7b,<div class="guide-media"><a href="https://gemini.google.com/share/84196d9ba850" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h2><b>Nomen-Verb-Verbindungen: секретный код продвинутого немецкого</b></h2>
+<p>Ты уже знаешь отдельные слова, но в реальной речи немцы любят говорить так, что ни учебник, ни Google Translate не спасут.</p>
+<p>Это всё из-за <b>Nomen-Verb-Verbindungen</b> — устойчивых сочетаний <b>существительного + глагола</b>, которые передают одно целое значение.</p>
+<p>И если ты их не знаешь — звучишь либо слишком просто, либо вообще непонятно.</p>
+<hr>
+<h3><b>Почему нельзя переводить дословно</b></h3>
+<ul>
+<li><b>Hilfe leisten</b> — буквально: <i>помощь оказывать</i>. Но в жизни: <i>помогать</i>.</li>
+<li><b>einen Hinweis geben</b> — <i>дать указание</i> → <i>подсказать</i>.</li>
+<li><b>in Kenntnis setzen</b> — <i>поставить в известность</i> → <i>сообщить</i>.</li>
+</ul>
+<p>Обычный глагол (<i>helfen, informieren, hinweisen</i>) звучит проще, но <b>в официальной и письменной речи</b> немцы чаще выбирают именно такие конструкции.</p>
+<hr>
+<h3><b>Топ-глаголы, которые попадаются в связках</b></h3>
+<ul>
+<li><b>bringen</b> (<i>bringen zum Abschluss, zur Sprache bringen…</i>)</li>
+<li><b>nehmen</b> (<i>in Anspruch nehmen, in Betrieb nehmen…</i>)</li>
+<li><b>stellen</b> (<i>unter Druck stellen, zur Verfügung stellen…</i>)</li>
+<li><b>setzen</b> (<i>in Gang setzen, in Kraft setzen…</i>)</li>
+<li><b>kommen</b> (<i>zum Abschluss kommen, in Konflikt kommen…</i>)</li>
+</ul>
+<hr>
+<h3><b>Формула</b></h3>
+<pre><code>[Существительное в Akk/Dativ] + Глагол (bringen/nehmen/setzen/stellen/kommen)
+</code></pre>
+<p>Артикль и предлог фиксированы — менять нельзя.</p>
+<hr>
+<h3><b>Мини-словарь, который спасёт</b></h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Немецкий</th>
+<th>Перевод</th>
+<th>Контекст</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>Hilfe leisten</b></td>
+<td>оказывать помощь</td>
+<td>официально, в отчётах</td>
+</tr>
+<tr>
+<td><b>in Anspruch nehmen</b></td>
+<td>занимать (время), требовать</td>
+<td>услуги, ресурсы</td>
+</tr>
+<tr>
+<td><b>in Angriff nehmen</b></td>
+<td>приступать</td>
+<td>проекты, задачи</td>
+</tr>
+<tr>
+<td><b>unter Druck setzen</b></td>
+<td>оказывать давление</td>
+<td>переговоры, конфликты</td>
+</tr>
+<tr>
+<td><b>in Betrieb nehmen</b></td>
+<td>вводить в эксплуатацию</td>
+<td>техника, системы</td>
+</tr>
+<tr>
+<td><b>zur Sprache bringen</b></td>
+<td>поднять тему</td>
+<td>совещания</td>
+</tr>
+<tr>
+<td><b>in Kraft treten</b></td>
+<td>вступить в силу</td>
+<td>закон, правила</td>
+</tr>
+<tr>
+<td><b>in Kauf nehmen</b></td>
+<td>смириться</td>
+<td>недостатки, риски</td>
+</tr>
+<tr>
+<td><b>in Erfahrung bringen</b></td>
+<td>разузнать</td>
+<td>факты, сведения</td>
+</tr>
+<tr>
+<td><b>in Betracht ziehen</b></td>
+<td>учитывать</td>
+<td>планы, решения</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h3><b>Пример в действии</b></h3>
+<ul>
+<li><b>Обычно:</b> <i>Ich helfe dir morgen.</i></li>
+<li><b>По-немецки:</b> <i>Ich werde dir morgen Hilfe leisten.</i> — звучит солидно.</li>
+<li><b>Обычно:</b> <i>Das Gesetz gilt ab Montag.</i></li>
+<li><b>По-немецки:</b> <i>Das Gesetz tritt am Montag in Kraft.</i> — официально, как в новостях.</li>
+</ul>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/bh7tEPSja9E?si=pI2HbIiiELkd2cHm" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение: Nomen-Verb-Verbindungen</h3>
+<h3>Замените простые глаголы на соответствующие Nomen-Verb-Verbindungen, используя мини-словарь из гайда.</h3>
+<ol>
+<li>Die Firma benutzt die neuen Maschinen bald.<p>
+→ Die Firma wird die neuen Maschinen bald \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+</p></li>
+<li>Wir müssen dieses Problem besprechen.<p>
+→ Wir müssen dieses Problem \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+</p></li>
+<li>Ich muss erfahren, wann das Treffen stattfindet.<p>
+→ Ich muss \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+</p></li>
+<li>Er hat die schlechten Noten akzeptiert.<p>
+→ Er hat die schlechten Noten \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+</p></li>
+<li>Die Regierung überlegt den Vorschlag.<p>
+→ Die Regierung wird den Vorschlag \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+</p></li>
+</ol>
+<hr>
+<h3>Ответы и объяснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>...in Betrieb nehmen.</b><ul>
+<li><b>Объяснение:</b> Простой глагол <b>benutzen</b> (использовать) в этом контексте заменяется на более официальное <b>in Betrieb nehmen</b> (вводить в эксплуатацию). Это сочетание идеально подходит, когда речь идет о запуске оборудования.</li>
+</ul>
+</li>
+<li><b>...zur Sprache bringen.</b><ul>
+<li><b>Объяснение:</b> Глагол <b>besprechen</b> (обсудить) заменяется на <b>zur Sprache bringen</b> (поднять тему). Эта фраза часто используется в официальных ситуациях, например, на совещаниях.</li>
+</ul>
+</li>
+<li><b>...in Erfahrung bringen, wann das Treffen stattfindet.</b><ul>
+<li><b>Объяснение:</b> <b>erfahren</b> (узнать, разузнать) заменяется на <b>in Erfahrung bringen</b>. Конструкция &quot;in Erfahrung bringen&quot; делает фразу более сложной и формальной, подчеркивая, что вы прилагаете усилия, чтобы что-то выяснить.</li>
+</ul>
+</li>
+<li><b>...in Kauf genommen.</b><ul>
+<li><b>Объяснение:</b> <b>akzeptieren</b> (принимать, смириться) заменяется на <b>in Kauf nehmen</b>. Эта идиома означает &quot;принимать что-то как неизбежное&quot;, часто в контексте негативных последствий или недостатков.</li>
+</ul>
+</li>
+<li><b>...in Betracht ziehen.</b><ul>
+<li><b>Объяснение:</b> Глагол <b>überlegen</b> (обдумывать, размышлять) заменяется на <b>in Betracht ziehen</b> (принимать во внимание, учитывать). Это сочетание придает высказыванию официальность и подчеркивает, что предложение серьезно рассматривается.</li>
+</ul>
+</li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-135","guide":{"title":"Устойчивые сочетания существительных с глаголами","kind":"grammar","level":"C1","html":"$22","materials":[],"meta":"Недели 50-54"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

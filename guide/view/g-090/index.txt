@@ -1,0 +1,270 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-090","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-090",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T47ec,<h2>Наречия</h2><div class="guide-media"><a href="https://gemini.google.com/share/f7fd86ae34ff" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Учить язык без наречий — всё равно что играть в Skyrim без модов. Слова есть, но эмоций ноль. Немецкие наречия заряжают речь живостью, добавляют точности и позволяют звучать естественно.</p>
+<hr>
+<p>⚡ <b>Что такое наречие и зачем оно нужно?</b></p>
+<p>Наречия (Adverbien) в немецком — это слова, которые объясняют <b>где, когда, как и в какой степени</b> происходит действие. Они не изменяются, но могут прокачиваться в сравнительную и превосходную степени. Без них фразы звучат как немецкий у учебников из 90-х.</p>
+<p>Пример:</p>
+<ul>
+<li>Ich bin <b>hier</b>. — Я здесь. (где?)</li>
+<li>Er lernt <b>sehr</b> schnell. — Он учится очень быстро. (как?)</li>
+<li>Ich komme <b>morgen</b>. — Я приду завтра. (когда?)</li>
+</ul>
+<p>🔥 <b>Классы немецких наречий</b></p>
+<p>Разделяем на типы — так проще запомнить:</p>
+<p>1️⃣ <b>Наречия времени</b> (Temporale Adverbien) — отвечают на вопрос <i>Когда?</i></p>
+<ul>
+<li><b>jetzt</b> — сейчас</li>
+<li><b>sofort</b> — немедленно</li>
+<li><b>bald</b> — скоро</li>
+<li><b>gestern</b> — вчера</li>
+<li><b>morgen</b> — завтра</li>
+<li><b>oft</b> — часто</li>
+<li><b>nie</b> — никогда (чтобы добавить драмы в жизнь)</li>
+</ul>
+<p>📌 <i>Пример:</i> Ich komme <b>sofort</b>! — Я сейчас же приду!</p>
+<p>2️⃣ <b>Наречия места</b> (Lokale Adverbien) — отвечают на вопрос <i>Где?</i></p>
+<ul>
+<li><b>hier</b> — здесь</li>
+<li><b>dort</b> — там</li>
+<li><b>überall</b> — повсюду</li>
+<li><b>drinnen</b> — внутри</li>
+<li><b>draußen</b> — снаружи</li>
+</ul>
+<p>📌 <i>Пример:</i> Der Hund ist <b>draußen</b>. — Собака снаружи.</p>
+<p>3️⃣ <b>Наречия образа действия</b> (Modale Adverbien) — отвечают на вопрос <i>Как?</i></p>
+<ul>
+<li><b>schnell</b> — быстро</li>
+<li><b>langsam</b> — медленно</li>
+<li><b>gerne</b> — охотно</li>
+<li><b>anders</b> — иначе</li>
+<li><b>plötzlich</b> — внезапно</li>
+</ul>
+<p>📌 <i>Пример:</i> Sie spricht <b>schnell</b>. — Она говорит быстро.</p>
+<p>4️⃣ <b>Наречия причины</b> (Kausale Adverbien) — отвечают на вопрос <i>Почему?</i></p>
+<ul>
+<li><b>deshalb</b> — поэтому</li>
+<li><b>wegen</b> — из-за</li>
+<li><b>darum</b> — по этой причине</li>
+<li><b>trotzdem</b> — несмотря на это</li>
+</ul>
+<p>📌 <i>Пример:</i> Es regnet, <b>deshalb</b> nehme ich einen Regenschirm. — Идёт дождь, поэтому я беру зонт.</p>
+<p>💥 <b>Степени сравнения наречий</b></p>
+<p>Некоторые наречия умеют <b>улучшаться</b> (как ваш немецкий после этого гайда):</p>
+<ul>
+<li><b>gern</b> → <b>lieber</b> → <b>am liebsten</b> (охотно → охотнее → охотнее всего)</li>
+<li><b>viel</b> → <b>mehr</b> → <b>am meisten</b> (много → больше → больше всего)</li>
+<li><b>bald</b> → <b>eher</b> → <b>am ehesten</b> (скоро → скорее → скорее всего)</li>
+<li><b>gut</b> → <b>besser</b> → <b>am besten</b> (хорошо → лучше → лучше всего)</li>
+</ul>
+<p>📌 <i>Пример:</i> Ich trinke Tee <b>lieber</b> als Kaffee. — Я охотнее пью чай, чем кофе.</p>
+<p>🔥 <b>Как отличить наречие от прилагательного?</b></p>
+<ul>
+<li><b>Если слово описывает существительное → это прилагательное.</b><br>📌 Beispiel: <i>Er ist ein </i><i><b>schneller</b></i><i> Läufer.</i> (Он быстрый бегун.)</li>
+<li><b>Если слово описывает глагол → это наречие.</b><br>📌 Beispiel: <i>Er läuft </i><i><b>schnell</b></i><i>.</i> (Он бегает быстро.)</li>
+</ul>
+<p><b>Чек-лист, чтобы говорить, как носитель:</b></p>
+<p>✅ Добавляй наречия в речь, чтобы она не звучала скучно.<br>✅ Помни, что они <b>не изменяются</b> по падежам, но могут меняться по степеням сравнения.<br>✅ Запомни основные наречия времени, места, причины и образа действия.<br>✅ Разберись, где прилагательное, а где наречие, чтобы не запутаться.</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=ZlM2jmQn4jE&amp;amp;t=2s" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3><b>Упражнение</b></h3>
+<p>Вставь подходящее наречие из списка по смыслу. Определи тип наречия (время, место, образ действия, причина, степень сравнения).</p>
+<p><b>(sofort, draußen, schnell, deshalb, lieber, gestern, hier, gerne, bald, am besten)</b></p>
+<ol>
+<li>Ich komme _______ zurück, warte kurz!</li>
+<li>Der Hund spielt _______ im Garten.</li>
+<li>Sie spricht sehr _______.</li>
+<li>Es war kalt, _______ blieben wir zu Hause.</li>
+<li>Trinkst du Kaffee oder _______ Tee?</li>
+<li>Ich war _______ den ganzen Tag müde.</li>
+<li>Stell die Tasche _______ ab.</li>
+<li>Ich helfe dir immer _______.</li>
+<li>Wir fahren _______ in den Urlaub.</li>
+<li>Er kann das _______ erklären, frag ihn!</li>
+</ol>
+<hr>
+<h3><b>Ответы</b></h3><details><summary>Показать ответы</summary>
+<ol>
+<li>Ich komme <b>sofort</b> zurück, warte kurz! <i>(наречие времени)</i></li>
+<li>Der Hund spielt <b>draußen</b> im Garten. <i>(наречие места)</i></li>
+<li>Sie spricht sehr <b>schnell</b>. <i>(наречие образа действия)</i></li>
+<li>Es war kalt, <b>deshalb</b> blieben wir zu Hause. <i>(наречие причины)</i></li>
+<li>Trinkst du Kaffee oder <b>lieber</b> Tee? <i>(сравнительная степень)</i></li>
+<li>Ich war <b>gestern</b> den ganzen Tag müde. <i>(наречие времени)</i></li>
+<li>Stell die Tasche <b>hier</b> ab. <i>(наречие места)</i></li>
+<li>Ich helfe dir immer <b>gerne</b>. <i>(наречие образа действия)</i></li>
+<li>Wir fahren <b>bald</b> in den Urlaub. <i>(наречие времени)</i></li>
+<li>Er kann das <b>am besten</b> erklären, frag ihn! <i>(превосходная степень)</i></li>
+</ol>
+</details><hr><h2>Наречия времени</h2><div class="guide-media"><a href="https://gemini.google.com/share/aa8f4ee4532e" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p><b>Сколько раз ты задавался вопросом: а где вообще в предложении ставить эти чертовы наречия?</b> А ведь без них никуда! Они помогают уточнять, когда, как, где и почему что-то происходит. Давай разбираться, какие бывают наречия в немецком, как их образовывать и на что обращать внимание!</p>
+<hr>
+<h3><b>Что такое наречия в немецком?</b></h3>
+<p>😶 <b>Наречия (Adverbien)</b> – слова, которые дополняют глаголы, прилагательные или даже целые предложения. Они отвечают на вопросы типа <b>где? когда? как? почему?</b> и делают речь точнее и живее.</p>
+<p>🚀 <b>Важно:</b> в отличие от прилагательных, наречия <b>не изменяются по родам, числам и падежам</b>. Но (!) некоторые могут изменяться по степеням сравнения.</p>
+<p>📌 <b>Как образуются наречия?</b></p>
+<p>✅ <b>От существительных с суффиксами -weise или -s:</b></p>
+<ul>
+<li><i>Wir könnten ihn versuchsweise anstellen.</i> – Мы могли бы взять его на испытательный срок.</li>
+<li><i>Morgens ist die Sicht am besten.</i> – По утрам вид самый лучший.</li>
+</ul>
+<p>✅ <b>От прилагательных (добавляем -weise):</b></p>
+<ul>
+<li><i>Dumm → dummerweise</i> (глупый → по глупости)</li>
+<li><i>Glücklich → glücklicherweise</i> (счастливый → к счастью)</li>
+<li><i>Ich habe dummerweise meinen Schlüssel vergessen.</i> – По глупости я забыл ключи.</li>
+</ul>
+<hr>
+<h3><b>Виды наречий: какие они бывают?</b></h3>
+<p>💥 <b>Наречия времени (Temporaladverbien)</b> – отвечают на вопросы <b>Wann? (Когда?), Bis wann? (До какого времени?), Wie lange? (Как долго?), Wie oft? (Как часто?)</b>.</p>
+<div class="guide-table"><table> <tr> <td> Немецкий </td> <td> Перевод </td> </tr> <tr> <td> <b>jetzt</b> </td> <td> сейчас </td> </tr> <tr> <td> <b>sofort</b> </td> <td> немедленно </td> </tr> <tr> <td> <b>bald</b> </td> <td> скоро </td> </tr> <tr> <td> <b>morgen</b> </td> <td> завтра </td> </tr> <tr> <td> <b>abends</b> </td> <td> по вечерам </td> </tr> <tr> <td> <b>nachts</b> </td> <td> по ночам </td> </tr> </table></div>
+
+
+
+<hr>
+<p>💥 <b>Наречия образа действия (Modaladverbien)</b> – <b>Wie? (Как?)</b></p>
+<div class="guide-table"><table> <tr> <td> Немецкий </td> <td> Перевод </td> </tr> <tr> <td> <b>anders</b> </td> <td> по-другому </td> </tr> <tr> <td> <b>gern</b> </td> <td> охотно </td> </tr> <tr> <td> <b>ebenso</b> </td> <td> так же </td> </tr> <tr> <td> <b>insgeheim</b> </td> <td> тайком </td> </tr> <tr> <td> <b>geradeaus</b> </td> <td> прямо </td> </tr> </table></div>
+
+
+
+<hr>
+<p>💥 <b>Наречия места (Lokaladverbien)</b> – <b>Wo? (Где?), Wohin? (Куда?), Woher? (Откуда?)</b></p>
+<div class="guide-table"><table> <tr> <td> Немецкий </td> <td> Перевод </td> </tr> <tr> <td> <b>hier</b> </td> <td> здесь </td> </tr> <tr> <td> <b>dort</b> </td> <td> там </td> </tr> <tr> <td> <b>überall</b> </td> <td> повсюду </td> </tr> <tr> <td> <b>unten</b> </td> <td> внизу </td> </tr> <tr> <td> <b>hinten</b> </td> <td> позади </td> </tr> </table></div>
+
+
+
+<hr>
+<p>💥 <b>Наречия причины и цели (Kausaladverbien)</b> – <b>Warum? (Почему?)</b></p>
+<div class="guide-table"><table> <tr> <td> Немецкий </td> <td> Перевод </td> </tr> <tr> <td> <b>deshalb</b> </td> <td> поэтому </td> </tr> <tr> <td> <b>folglich</b> </td> <td> следовательно </td> </tr> <tr> <td> <b>weshalb</b> </td> <td> отчего </td> </tr> <tr> <td> <b>darum</b> </td> <td> по этой причине </td> </tr> <tr> <td> <b>infolgedessen</b> </td> <td> вследствие этого </td> </tr> </table></div>
+
+
+
+<hr>
+<p>💥 <b>Наречия меры и степени (Gradadverbien)</b> – <b>Как сильно? Насколько?</b></p>
+<div class="guide-table"><table> <tr> <td> Немецкий </td> <td> Перевод </td> </tr> <tr> <td> <b>besonders</b> </td> <td> особенно </td> </tr> <tr> <td> <b>sehr</b> </td> <td> очень </td> </tr> <tr> <td> <b>ziemlich</b> </td> <td> довольно </td> </tr> <tr> <td> <b>kaum</b> </td> <td> едва </td> </tr> <tr> <td> <b>schwerlich</b> </td> <td> с трудом </td> </tr> </table></div>
+
+
+
+<hr>
+<p>💥 <b>Наречия уступки (Konzessivadverbien)</b> – показывают, что действие произошло вопреки чему-то.</p>
+<div class="guide-table"><table> <tr> <td> Немецкий </td> <td> Перевод </td> </tr> <tr> <td> <b>dennoch</b> </td> <td> тем не менее </td> </tr> <tr> <td> <b>doch</b> </td> <td> однако </td> </tr> <tr> <td> <b>trotzdem</b> </td> <td> несмотря на это </td> </tr> <tr> <td> <b>gleichwohl</b> </td> <td> всё же </td> </tr> </table></div>
+
+
+
+<hr>
+<h3><b>Степени сравнения наречий</b></h3>
+<p>Некоторые наречия можно изменять по степеням сравнения <b>(Komparation)</b>, как прилагательные.</p>
+<div class="guide-table"><table> <tr> <td> Наречие </td> <td> Сравнительная </td> <td> Превосходная </td> </tr> <tr> <td> <b>bald</b> (скоро) </td> <td> eher </td> <td> am ehesten </td> </tr> <tr> <td> <b>gern</b> (охотно) </td> <td> lieber </td> <td> am liebsten </td> </tr> <tr> <td> <b>oft</b> (часто) </td> <td> öfter </td> <td> am häufigsten </td> </tr> <tr> <td> <b>wohl</b> (хорошо) </td> <td> besser </td> <td> am besten </td> </tr> </table></div>
+
+
+
+<p>📌 <b>Запоминаем:</b></p>
+<ul>
+<li><b>Сравнительная степень</b> = добавляем <b>er</b> (eher, lieber, besser).</li>
+<li><b>Превосходная степень</b> = <b>am + -sten</b> (am ehesten, am liebsten, am besten).</li>
+</ul>
+<hr>
+<h3><b>Местоимённые наречия: воробер, даробер… что?</b></h3>
+<p>🔥 <b>Местоимённые наречия (Pronominaladverbien)</b> – это слова, которые заменяют длинные фразы с предлогами.</p>
+<p>✅ <b>Вопросительные:</b> wo + предлог</p>
+<ul>
+<li><i>Worüber sprichst du?</i> – О чем ты говоришь?</li>
+<li><i>Womit schreibst du?</i> – Чем ты пишешь?</li>
+</ul>
+<p>✅ <b>Указательные:</b> da + предлог</p>
+<ul>
+<li><i>Ich spreche darüber.</i> – Я говорю об этом.</li>
+<li><i>Ich interessiere mich dafür.</i> – Я интересуюсь этим.</li>
+</ul>
+<p>📌 <b>Правило:</b> если предлог начинается с гласной, добавляется <b>-r-</b> (worüber, darüber, wofür, dafür).</p>
+<hr>
+<h3><b>Как не спутать наречие с прилагательным?</b></h3>
+<p>🔥 <b>Лайфхак:</b></p>
+<p>✅ <b>Прилагательное</b> определяет <b>существительное</b> → <i>Das ist ein schöner Tag.</i> (Это красивый день.)<br>✅ <b>Наречие</b> определяет <b>глагол, прилагательное или другое наречие</b> → <i>Er singt schön.</i> (Он красиво поет.)</p>
+<p>Если слово не изменяется и стоит перед глаголом – это наречие! 😎</p>
+<hr>
+<h3><b>Итоги: фиксируем базу!</b></h3>
+<p>✅ <b>Наречия не изменяются по родам, числам и падежам.</b><br>✅ <b>Есть разные типы: времени, места, образа действия, причины и т. д.</b><br>✅ <b>Некоторые наречия имеют степени сравнения (gern – lieber – am liebsten).</b><br>✅ <b>Местоимённые наречия заменяют длинные фразы с предлогами (worüber, darüber).</b><br>✅ <b>Не путай наречия с прилагательными!</b></p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=ZlM2jmQn4jE" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3><b>Упражнение</b></h3>
+<p>Определи тип наречия (время, место, образ действия, причина, степень и т.д.) и впиши пропущенное наречие из списка:</p>
+<p><b>(deshalb, gern, morgen, dort, trotzdem, sehr, lieber, worüber, kaum, hier)</b></p>
+<ol>
+<li>Ich komme _______ zu dir. (указание времени)</li>
+<li>Er arbeitet _______. (образ действия)</li>
+<li>Wir treffen uns _______ im Café. (место)</li>
+<li>Es regnet, _______ gehen wir spazieren. (уступка)</li>
+<li>Sie ist krank, _______ bleibt sie zu Hause. (причина)</li>
+<li>Ich esse _______ Pizza als Pasta. (сравнительная степень)</li>
+<li>Er spricht _______ laut. (степень/мера)</li>
+<li>Ich habe heute so viel zu tun, ich kann _______ atmen! (степень/мера)</li>
+<li>_______ liegt mein Handy? (место)</li>
+<li>_______ sprichst du? (вопросительное местоимённое наречие)</li>
+</ol>
+<hr>
+<h3><b>Ответы</b></h3><details><summary>Показать ответы</summary>
+<ol>
+<li>Ich komme <b>morgen</b> zu dir.</li>
+<li>Er arbeitet <b>gern</b>.</li>
+<li>Wir treffen uns <b>dort</b> im Café.</li>
+<li>Es regnet, <b>trotzdem</b> gehen wir spazieren.</li>
+<li>Sie ist krank, <b>deshalb</b> bleibt sie zu Hause.</li>
+<li>Ich esse <b>lieber</b> Pizza als Pasta.</li>
+<li>Er spricht <b>sehr</b> laut.</li>
+<li>Ich habe heute so viel zu tun, ich kann <b>kaum</b> atmen!</li>
+<li><b>Hier</b> liegt mein Handy.</li>
+<li><b>Worüber</b> sprichst du?</li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-090","guide":{"title":"Наречия и наречия времени","kind":"grammar","level":"B1","html":"$22","materials":[],"meta":"Недели 16-18"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

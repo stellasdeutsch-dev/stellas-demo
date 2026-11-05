@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T177c,<div class="guide-media"><a href="https://gemini.google.com/share/86340b55f4c6" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3>Präzisierende Verbindungsadverbien — когда нужно сказать точнее</h3>
+<blockquote>
+
+
+<p>Сначала ты говоришь общее.</p>
+<p>А потом вставляешь <b>und zwar</b>… и оппоненту уже нечего крыть.</p>
+<p>Именно так работают <b>уточняющие соединительные наречия</b>. Без воды. Без &quot;эм...&quot;. Только факты.</p>
+</blockquote>
+
+
+
+<hr>
+<h3>Что это вообще?</h3>
+<p><b>Präzisierende Verbindungsadverbien</b> — это наречия, которые:</p>
+<ul>
+<li><b>уточняют</b> или <b>переформулируют</b> уже сказанное;</li>
+<li><b>конкретизируют</b> или <b>сужают</b> информацию;</li>
+<li>чаще всего <b>вводят вторую часть предложения</b> и дают точное разъяснение;</li>
+<li>используются в письменной и формальной речи, но и в устной — как риторическое оружие 🔪</li>
+</ul>
+<hr>
+<h3>ТОП-4 Präzisierende Verbindungsadverbien:</h3>
+<h3>1. <b>beziehungsweise</b> — точнее говоря / или же</h3>
+<p>Используется, когда нужно <b>исправить</b>, <b>уточнить</b> или <b>расширить</b> предыдущее слово.</p>
+<p><b>Пример:</b></p>
+<p>Wir fahren mit meinem Bruder, <b>beziehungsweise</b> mit meinem Stiefbruder.</p>
+<p>→ <i>Мы едем с моим братом — точнее, с моим сводным братом.</i></p>
+<p>💡 <i>Часто переводится как «или, точнее», «а именно», «соответственно».</i></p>
+<hr>
+<h3>2. <b>respektive</b> — соответственно / в смысле / по отдельности</h3>
+<p>→ Уточняет, что <b>одно относится к одному</b>, другое — к другому.</p>
+<p><b>Пример:</b></p>
+<p>Die Erwachsenen, respektive die Eltern, tragen die Verantwortung.</p>
+<p>→ <i>Взрослые, то есть родители, несут ответственность.</i></p>
+<p>Или:</p>
+<p>Die Tickets kosten 15 und 10 Euro, <b>respektive</b> für Erwachsene und Kinder.</p>
+<p>→ <i>Билеты стоят 15 и 10 евро — соответственно для взрослых и детей.</i></p>
+<p>⚠️ Часто используется в формальной письменной речи.</p>
+<hr>
+<h3>3. <b>und zwar</b> — а именно / точнее</h3>
+<p>Это король уточнений. Сразу после общей фразы добавляет <b>ударную конкретику</b>.</p>
+<p><b>Пример:</b></p>
+<p>Wir haben ein Problem — <b>und zwar</b> ein großes.</p>
+<p>→ <i>У нас проблема — и притом большая.</i></p>
+<p><b>🔥 Формула:</b></p>
+<blockquote>
+<p>[Общее утверждение]. Und zwar + [конкретика].</p>
+</blockquote>
+<p><b>Пример:</b></p>
+<p>Ich habe etwas Neues gelernt. <b>Und zwar</b>, wie man irreale Folgesätze bildet.</p>
+<p>→ <i>Я выучил кое-что новое. А именно — как строятся нереальные придаточные следствия.</i></p>
+<hr>
+<h3>4. <b>vielmehr</b> — напротив / наоборот / скорее</h3>
+<p>Когда надо <b>опровергнуть</b> или <b>исправить</b> сказанное. Мягкая форма «не так, а вот так».</p>
+<p><b>Пример:</b></p>
+<p>Das ist kein Rückschritt, <b>vielmehr</b> ein Fortschritt.</p>
+<p>→ <i>Это не шаг назад, а скорее шаг вперёд.</i></p>
+<hr>
+<h3>Формулы и конструкции</h3>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Наречие</th>
+<th>Формула использования</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>beziehungsweise</b></td>
+<td>X, beziehungsweise Y. (точнее, Y)</td>
+</tr>
+<tr>
+<td><b>respektive</b></td>
+<td>A, B, respektive C, D. (A=C, B=D)</td>
+</tr>
+<tr>
+<td><b>und zwar</b></td>
+<td>Hauptsatz. Und zwar + Ergänzung.</td>
+</tr>
+<tr>
+<td><b>vielmehr</b></td>
+<td>Aussage 1. Vielmehr + Gegenteil / Korrektur.</td>
+</tr>
+</tbody></table></div>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/1m85AuvB7os?si=C8pxX1QfZ0uqBa00" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение на Präzisierende Verbindungsadverbien</h3>
+<p><b>Задание:</b> Соедини предложения с помощью подходящего <b>Präzisierende Verbindungsadverb</b> из списка:</p>
+<p>(<b>beziehungsweise, respektive, und zwar, vielmehr</b>)</p>
+<p>Сохрани правильный порядок слов.</p>
+<ol>
+<li>Wir fahren nach Italien. Wir fahren nach Rom.</li>
+<li>Das ist kein Problem. Это, наоборот, преимущество.</li>
+<li>Ich habe ein Haustier. Это кошка.</li>
+<li>Die Preise sind 50 Euro und 30 Euro. Первый для взрослых, второй — для детей.</li>
+</ol>
+<hr>
+<h3>Ответы</h3><details><summary>Показать ответы</summary>
+<ol>
+<li>Wir fahren nach Italien, <b>beziehungsweise</b> nach Rom. <i>(точнее говоря)</i></li>
+<li>Das ist kein Problem, <b>vielmehr</b> ein Vorteil. <i>(наоборот)</i></li>
+<li>Ich habe ein Haustier, <b>und zwar</b> eine Katze. <i>(а именно)</i></li>
+<li>Die Preise sind 50 Euro und 30 Euro, <b>respektive</b> für Erwachsene und Kinder. <i>(соответственно)</i></li>
+</ol>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-145","guide":{"title":"Уточняющие соединительные наречия","kind":"grammar","level":"C1","html":"$1c","materials":[],"meta":"Недели 55-59"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-145","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

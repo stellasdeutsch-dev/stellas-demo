@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T1abf,<div class="guide-media"><a href="https://gemini.google.com/share/c9556f5a8d13" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Если вы думали, что немецкие существительные – это просто, то вы глубоко заблуждались! Встречайте новую грамматическую бомбу: <b>управляемые существительные</b>!</p>
+<p>Эти существительные требуют фиксированных предлогов и определённого падежа (чаще всего Dativ или Akkusativ). К счастью, многие из них образованы от глаголов и сохраняют их управление.</p>
+<hr>
+<h3>Что это за зверь такой – управляемые существительные?</h3>
+<p>Это существительные, которые зафиксировали за собой конкретный предлог и падеж. Чаще всего они образованы от глаголов:</p>
+<ul>
+<li><b>abhängen von + Dativ</b> (зависеть от) → <b>die Abhängigkeit von + Dativ</b> (зависимость от)</li>
+<li><b>teilnehmen an + Dativ</b> (участвовать в) → <b>die Teilnahme an + Dativ</b> (участие в)</li>
+</ul>
+<p>То есть, запомнив глагол, вы автоматически запоминаете и существительное!</p>
+<hr>
+<h3>Управляемые существительные с Dativ (дательным падежом)</h3>
+<p>Запоминаем сразу на конкретных примерах:</p>
+<ul>
+<li><b>das Bedürfnis nach + Dativ</b> – потребность в чём-то<p>
+<i>Das Bedürfnis nach Sicherheit ist stark.</i> (Потребность в безопасности велика.)
+</p></li>
+<li><b>die Vorstellung von + Dativ</b> – представление/мысль о чём-то<p>
+<i>Die Vorstellung von der Prüfung macht mich nervös.</i> (Мысль об экзамене нервирует меня.)
+</p></li>
+<li><b>die Suche nach + Dativ</b> – поиск чего-то<p>
+<i>Die Suche nach einer Wohnung ist schwierig.</i> (Поиск квартиры сложен.)
+</p></li>
+</ul>
+<p>Дополнительные примеры:</p>
+<ul>
+<li><b>Angst vor + Dativ</b> – страх перед чем-то</li>
+<li><b>Interesse an + Dativ</b> – интерес к чему-то</li>
+<li><b>Austausch mit + Dativ</b> – обмен с кем-то</li>
+<li><b>Fähigkeit zu + Dativ</b> – способность к чему-то</li>
+<li><b>Liebe zu + Dativ</b> – любовь к кому-то/чему-то</li>
+<li><b>Beziehung zu + Dativ</b> – отношение к кому-то/чему-то</li>
+<li><b>Erfahrung in + Dativ</b> – опыт в чём-то</li>
+<li><b>Unterstützung bei + Dativ</b> – поддержка в чём-то</li>
+<li><b>Bedarf an + Dativ</b> – потребность в чём-то</li>
+<li><b>Freude an + Dativ</b> – радость от чего-то</li>
+<li><b>Schutz vor + Dativ</b> – защита от чего-то</li>
+<li><b>Respekt vor + Dativ</b> – уважение к кому-то</li>
+<li><b>Zweifel an + Dativ</b> – сомнение в чём-то</li>
+</ul>
+<hr>
+<h3>📌 Управляемые существительные с Akkusativ (винительным падежом)</h3>
+<p>Здесь тоже всё ясно:</p>
+<ul>
+<li><b>die Erinnerung an + Akkusativ</b> – воспоминание о чём-то<p>
+<i>Ich habe eine schöne Erinnerung an diesen Tag.</i> (У меня прекрасное воспоминание об этом дне.)
+</p></li>
+<li><b>das Verständnis für + Akkusativ</b> – понимание чего-то<p>
+<i>Er hat kein Verständnis für die Probleme seiner Kinder.</i> (Он не понимает проблемы своих детей.)
+</p></li>
+</ul>
+<p>Дополнительные примеры:</p>
+<ul>
+<li><b>die Antwort auf + Akkusativ</b> – ответ на что-то</li>
+<li><b>die Bitte um + Akkusativ</b> – просьба о чём-то</li>
+<li><b>die Hoffnung auf + Akkusativ</b> – надежда на что-то</li>
+<li><b>die Vorbereitung auf/für + Akkusativ</b> – подготовка к чему-то</li>
+<li><b>die Verantwortung für + Akkusativ</b> – ответственность за что-то</li>
+<li><b>die Reaktion auf + Akkusativ</b> – реакция на что-то</li>
+<li><b>die Entscheidung für + Akkusativ</b> – решение в пользу чего-то</li>
+<li><b>die Lösung für + Akkusativ</b> – решение чего-то</li>
+<li><b>der Grund für + Akkusativ</b> – причина чего-то</li>
+<li><b>die Sorge um + Akkusativ</b> – беспокойство о чём-то</li>
+</ul>
+<hr>
+<h3>Почему так важно знать управляемые существительные?</h3>
+<p>✅ Вы избегаете распространённых ошибок.</p>
+<p>✅ Ваш немецкий звучит естественно и грамотно.</p>
+<p>✅ Вы гораздо проще и быстрее выражаете свои мысли, используя готовые языковые конструкции.</p>
+<hr>
+<h3>Как запоминать управляемые существительные легко?</h3>
+<ul>
+<li>Учите глагол и существительное одновременно.</li>
+<li>Практикуйте использование этих конструкций в предложениях.</li>
+<li>Создавайте свои собственные примеры для лучшего запоминания.</li>
+</ul>
+<hr>
+<p><b>Итог:</b></p>
+<p>Знание управляемых существительных – ваш прямой путь к грамотному и беглому немецкому языку. Используйте эту таблицу для регулярной тренировки и почувствуйте разницу уже через несколько дней!</p>
+<p>Запоминайте, практикуйте и становитесь увереннее в своём немецком каждый день! 🚀</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=lS1uj0RGWG4" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение</h3>
+<div class="guide-media"><a href="https://linguatheka.com/ru/library/suschestvitelnye-s-upravleniem-v-nemetskom-yazyke" target="_blank" rel="noopener noreferrer">linguatheka.com</a></div>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-108","guide":{"title":"Существительные с фиксированными предлогами","kind":"grammar","level":"B2","html":"$1c","materials":[],"meta":"Недели 29-32"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-108","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

@@ -1,0 +1,301 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-152","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-152",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T1ed8,<div class="guide-media"><a href="https://gemini.google.com/share/4c7411900a75" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<hr>
+<h3>Как из глагола или прилагательного слепить «серьёзное» существительное</h3>
+<p><b>Суффиксы -(a)tion, -ie, -ität, -ur, -tum, -ium</b> в немецком</p>
+<hr>
+<p>В немецком, как и в русском, есть магия: берёшь слово, добавляешь суффикс — и получаешь существительное, которое звучит так, будто ты только что вышел с заседания парламента.</p>
+<hr>
+<h3>1. <b>(a)tion</b></h3>
+<p><b>Значение:</b> процесс, действие, результат</p>
+<p>📍 Приходит из латинского через французский. Часто от глаголов на -ieren.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Nomen</th>
+<th>Перевод</th>
+<th>От чего образовано</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Organisation</td>
+<td>организация</td>
+<td>organisieren</td>
+</tr>
+<tr>
+<td>Diskussion</td>
+<td>дискуссия</td>
+<td>diskutieren</td>
+</tr>
+<tr>
+<td>Dekoration</td>
+<td>декорация</td>
+<td>dekorieren</td>
+</tr>
+<tr>
+<td>Produktion</td>
+<td>производство</td>
+<td>produzieren</td>
+</tr>
+</tbody></table></div>
+<p>Лайфхак: если глагол на <b>-ieren</b>, почти всегда можно сделать существительное на <b>-tion</b>.</p>
+<hr>
+<h3>2. <b>ie</b></h3>
+<p><b>Значение:</b> абстрактное понятие, наука, область знаний</p>
+<p>📍 Французские и латинские корни.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Nomen</th>
+<th>Перевод</th>
+<th>От чего образовано</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Energie</td>
+<td>энергия</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Demokratie</td>
+<td>демократия</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Biologie</td>
+<td>биология</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Strategie</td>
+<td>стратегия</td>
+<td>—</td>
+</tr>
+</tbody></table></div>
+<p>На письме часто ударение на последнем слоге, в речи — может меняться.</p>
+<hr>
+<h3>3. <b>ität</b></h3>
+<p><b>Значение:</b> свойство, качество</p>
+<p>📍 Похоже на русское «-ность».</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Nomen</th>
+<th>Перевод</th>
+<th>От чего образовано</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Aktivität</td>
+<td>активность</td>
+<td>aktiv</td>
+</tr>
+<tr>
+<td>Priorität</td>
+<td>приоритет</td>
+<td>prioritär</td>
+</tr>
+<tr>
+<td>Stabilität</td>
+<td>стабильность</td>
+<td>stabil</td>
+</tr>
+<tr>
+<td>Kreativität</td>
+<td>креативность</td>
+<td>kreativ</td>
+</tr>
+</tbody></table></div>
+<p>Любимое слово преподавателей: <i>Ihre Aktivität im Unterricht ist sehr wichtig!</i></p>
+<hr>
+<h3>4. <b>ur</b></h3>
+<p><b>Значение:</b> результат действия, абстракция или явление</p>
+<p>📍 Латинское происхождение, часто из глаголов.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Nomen</th>
+<th>Перевод</th>
+<th>От чего образовано</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Kultur</td>
+<td>культура</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Struktur</td>
+<td>структура</td>
+<td>strukturieren</td>
+</tr>
+<tr>
+<td>Natur</td>
+<td>природа</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Zensur</td>
+<td>цензура</td>
+<td>zensieren</td>
+</tr>
+</tbody></table></div>
+<p>В официальных текстах звучит солидно, в разговоре — редко.</p>
+<hr>
+<h3>5. <b>tum</b></h3>
+<p><b>Значение:</b> состояние, сфера, область, власть</p>
+<p>📍 Чисто немецкий корень, реже — заимствования.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Nomen</th>
+<th>Перевод</th>
+<th>Пример контекста</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Eigentum</td>
+<td>собственность</td>
+<td>Eigentum erwerben</td>
+</tr>
+<tr>
+<td>Reichtum</td>
+<td>богатство</td>
+<td>großen Reichtum haben</td>
+</tr>
+<tr>
+<td>Christentum</td>
+<td>христианство</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Altertum</td>
+<td>древность</td>
+<td>—</td>
+</tr>
+</tbody></table></div>
+<p>Часто встречается в исторических и юридических текстах.</p>
+<hr>
+<h3>6. <b>ium</b></h3>
+<p><b>Значение:</b> место, учреждение, хим. элемент, абстрактное понятие</p>
+<p>📍 Латинское происхождение.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Nomen</th>
+<th>Перевод</th>
+<th>Пример контекста</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Studium</td>
+<td>учёба, обучение</td>
+<td>Studium abschließen</td>
+</tr>
+<tr>
+<td>Gymnasium</td>
+<td>гимназия</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Ministerium</td>
+<td>министерство</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Aluminium</td>
+<td>алюминий</td>
+<td>—</td>
+</tr>
+</tbody></table></div>
+<p>В науке и официальных названиях встречается постоянно.</p>
+<hr>
+<h3>Как запомнить</h3>
+<ul>
+<li><b>(a)tion</b> → процесс (<i>Organisation, Produktion</i>)</li>
+<li><b>ie</b> → наука / абстракция (<i>Biologie, Strategie</i>)</li>
+<li><b>ität</b> → качество (<i>Aktivität, Kreativität</i>)</li>
+<li><b>ur</b> → результат / структура (<i>Kultur, Natur</i>)</li>
+<li><b>tum</b> → состояние / сфера (<i>Reichtum, Eigentum</i>)</li>
+<li><b>ium</b> → место / элемент (<i>Studium, Ministerium</i>)</li>
+</ul>
+<hr>
+<h3>Формула:</h3>
+<p><b>Основа слова (Verb / Adjektiv / Nomen) + суффикс = «серьёзное» существительное</b></p>
+<p>📌 <i>organisieren + tion = Organisation</i></p>
+<p>📌 <i>kreativ + ität = Kreativität</i></p>
+<p>📌 <i>strukturieren + ur = Struktur</i></p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/k-9IIDon0pY?si=KJOf1bxq8k7mBu1c" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение</h3>
+<p>Образуйте существительные с правильным суффиксом.</p>
+<ol>
+<li>organisieren → die …</li>
+<li>stabil → die …</li>
+<li>reich → der …</li>
+<li>studieren → das …</li>
+<li>biologisch → die …</li>
+</ol>
+<hr>
+<h3>✅ Ответы + объяснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>die Organisation</b><p>
+👉 Глагол на <b>-ieren</b> почти всегда даёт существительное на <b>-tion</b>.
+</p></li>
+<li><b>die Stabilität</b><p>
+👉 Прилагательное + <b>-ität</b> = качество/свойство.
+</p></li>
+<li><b>der Reichtum</b><p>
+👉 Прилагательное <b>reich</b> + <b>-tum</b> = состояние, «богатство».
+</p></li>
+<li><b>das Studium</b><p>
+👉 Глагол <b>studieren</b> → <b>Studium</b>, обозначает процесс/область учёбы.
+</p></li>
+<li><b>die Biologie</b><p>
+👉 Прилагательное/корень <b>biologisch</b> → область науки, суффикс <b>-ie</b>.
+</p></li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-152","guide":{"title":"Суффиксы существительных -tion, -ie, -ität, -ur, -tum, -ium","kind":"grammar","level":"C1","html":"$22","materials":[],"meta":"Недели 55-59"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

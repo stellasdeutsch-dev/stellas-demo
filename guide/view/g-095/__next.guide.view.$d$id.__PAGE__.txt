@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T1ea7,<div class="guide-media"><a href="https://gemini.google.com/share/a7ee21c06b77" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>🔥 <b>Сколько? Какой по счёту? Половина или треть?</b> Числа – это основа языка! В немецком они играют огромную роль: помогают говорить о времени, датах, количестве и многом другом. <b>Но как их правильно использовать?</b> Давай разберёмся! 🚀</p>
+<hr>
+<h3><b>1️⃣ Количественные числительные (Wie viel?)</b></h3>
+<p>😶 <b>Выражают количество предметов, отвечают на вопрос «Сколько?»</b></p>
+<p>💡 <b>Примеры:</b></p>
+<ul>
+<li><i>ein Apfel</i> – одно яблоко 🍏</li>
+<li><i>drei Bücher</i> – три книги 📚</li>
+<li><i>zehn Euro</i> – десять евро 💶</li>
+</ul>
+<h3><b>📌 Таблица чисел 0–12 (их нужно просто выучить!):</b></h3>
+<div class="guide-table"><table> <tr> <td> 0 </td> <td> 1 </td> <td> 2 </td> <td> 3 </td> <td> 4 </td> <td> 5 </td> <td> 6 </td> <td> 7 </td> <td> 8 </td> <td> 9 </td> <td> 10 </td> <td> 11 </td> <td> 12 </td> </tr> <tr> <td> null </td> <td> eins </td> <td> zwei </td> <td> drei </td> <td> vier </td> <td> fünf </td> <td> sechs </td> <td> sieben </td> <td> acht </td> <td> neun </td> <td> zehn </td> <td> elf </td> <td> zwölf </td> </tr> </table></div>
+
+
+
+<h3><b>📌 Особенности:</b></h3>
+<p>✅ Числа <b>13–19</b> образуются с суффиксом <b>-zehn</b>: <i>dreizehn, vierzehn, fünfzehn...</i><br>✅ <b>Десятки</b> – с суффиксом <b>-zig</b> (<i>außer dreißig!</i>): <i>zwanzig, dreißig, vierzig...</i><br>✅ <b>Сложные числа пишутся слитно!</b> <i>einundzwanzig, siebenundsechzig, hundertachtzehn...</i><br>✅ <b>100 и 1000</b> можно говорить <b>mit oder ohne „ein“</b>: <i>hundert</i> oder <i>einhundert</i>, <i>tausend</i> oder <i>eintausend</i>.</p>
+<hr>
+<h3><b>2️⃣ Порядковые числительные (Der wievielte?)</b></h3>
+<p>😶 <b>Обозначают порядок, отвечают на вопрос «Какой по счёту?»</b></p>
+<p>💡 <b>Примеры:</b></p>
+<ul>
+<li><i>der erste Tag</i> – первый день 🌞</li>
+<li><i>die dritte Etage</i> – третий этаж 🏢</li>
+<li><i>das zehnte Kapitel</i> – десятая глава 📖</li>
+</ul>
+<h3><b>📌 Образование порядковых числительных:</b></h3>
+<p>✅ <b>С 1 по 19</b> → добавляется <b>-te</b>: <i>erste, zweite, dritte, vierte...</i><br>✅ <b>С 20 и дальше</b> → <b>-ste</b>: <i>zwanzigste, einunddreißigste...</i><br>✅ <b>Написание цифрами:</b> после числа ставится <b>точка</b>: <i>1. (erste), 2. (zweite), 3. (dritte)...</i><br>✅ <b>Обычно используются с артиклем</b>: <i>am 19. Mai (19-го мая), der 3. Stock (3-й этаж)</i>.</p>
+<hr>
+<h3><b>3️⃣ Дробные числительные (Brüche)</b></h3>
+<p>😶 <b>Используются для выражения частей от целого</b></p>
+<p>💡 <b>Примеры:</b></p>
+<ul>
+<li><i>ein Drittel des Kuchens</i> – треть пирога 🍰</li>
+<li><i>eineinhalb Stunden</i> – полтора часа ⏳</li>
+<li><i>0,5 Liter Wasser</i> – 0,5 литра воды 💧 (<i>null Komma fünf Liter</i>)</li>
+</ul>
+<h3><b>📌 Образование дробей:</b></h3>
+<p>✅ <b>½ = halb</b> (<i>ein halbes Jahr</i> – полгода)<br>✅ <b>2–19</b> → <b>-tel</b> (<i>Drittel (1/3), Viertel (1/4), Achtel (1/8)...</i>)<br>✅ <b>От 20 и дальше</b> → <b>-stel</b> (<i>zwanzigstel (1/20), fünfzigstel (1/50)...</i>)<br>✅ <b>Десятичные дроби читаются через „Komma“:</b> <i>3,14 – drei Komma vierzehn</i>.<br>✅ <b>Существительное после дроби стоит во множественном числе:</b> <i>zweieinhalb Jahre (2,5 года), anderthalb Seiten (1,5 страницы).</i></p>
+<hr>
+<h3><b>4️⃣ Как говорить о годах и датах?</b></h3>
+<p>😶 <b>Годы до 1999 читаются „по сотням“:</b></p>
+<ul>
+<li><i>1789</i> → <b>siebzehnhundertneunundachtzig</b></li>
+<li><i>1999</i> → <b>neunzehnhundertneunundneunzig</b></li>
+</ul>
+<p>😶 <b>С 2000 года – как обычные числа:</b></p>
+<ul>
+<li><i>2011</i> → <b>zweitausendelf</b></li>
+<li><i>2023</i> → <b>zweitausenddreiundzwanzig</b></li>
+</ul>
+<p>💡 <b>Говорим дату:</b></p>
+<ul>
+<li><i>Heute ist der dritte Mai.</i> – Сегодня <b>третье мая</b>.</li>
+<li><i>Ich bin am neunzehnten Juli geboren.</i> – Я родился <b>19 июля</b>.</li>
+</ul>
+<p>✅ <b>Важно!</b> Если число пишем цифрой, то <b>ставим точку!</b> <i>3. Mai, 19. Juli, 5. September...</i></p>
+<hr>
+<h3><b>⚡ Итоги: как не запутаться?</b></h3>
+<p>✅ <b>Количественные числительные</b> → отвечают на <b>Wie viel?</b> (<i>zwei Bücher</i>)<br>✅ <b>Порядковые числительные</b> → отвечают на <b>Der wievielte?</b> (<i>der zweite Tag</i>)<br>✅ <b>Дроби</b> → ½ = <i>halb</i>, 1/3 = <i>Drittel</i>, 1,5 = <i>eins Komma fünf</i><br>✅ <b>Даты</b> → <i>am 3. Mai, 2024 = zweitausendvierundzwanzig</i><br>✅ <b>Сложные числа пишутся слитно!</b> <i>einunddreißig, fünfhundertneunundvierzig...</i></p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://youtu.be/OmWHlGKa-E8?si=mAkzXJ1T0ycrvpIx" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h2><b>Упражнение: выбери правильную форму числительного</b></h2>
+<p>Заполни пропуски подходящим вариантом (<b>количественное, порядковое или дробное числительное</b>)</p>
+<hr>
+<ol>
+<li>Heute ist der ___ September. (5)</li>
+<li>Ich habe ___ Bücher gelesen. (12)</li>
+<li>Wir wohnen im ___ Stock. (3)</li>
+<li>Sie hat ___ Kuchen gegessen. (1/4)</li>
+<li>Meine Schwester wurde am ___ Januar geboren. (21)</li>
+<li>Ich habe ___ Stunden gearbeitet. (8,5)</li>
+<li>Der Zug kommt am ___ Gleis an. (7)</li>
+<li>In der Klasse gibt es ___ Schüler. (25)</li>
+<li>Das ist mein ___ Versuch, die Prüfung zu bestehen. (2)</li>
+<li>Er trinkt jeden Morgen ___ Liter Wasser. (0,5)</li>
+</ol>
+<hr>
+<h2><b>Ответы и объяснения</b></h2><details><summary>Показать ответы</summary>
+<ol>
+<li><b>fünfte</b> – порядковое: <i>der fünfte September</i>.</li>
+<li><b>zwölf</b> – количественное: <i>zwölf Bücher</i>.</li>
+<li><b>dritte</b> – порядковое: <i>im dritten Stock</i>.</li>
+<li><b>ein Viertel</b> – дробное: <i>ein Viertel Kuchen</i>.</li>
+<li><b>einundzwanzigste</b> – порядковое: <i>am einundzwanzigsten Januar</i>.</li>
+<li><b>achtundeinhalb</b> – дробное: <i>achtundeinhalb Stunden</i>.</li>
+<li><b>siebte</b> – порядковое: <i>am siebten Gleis</i>.</li>
+<li><b>fünfundzwanzig</b> – количественное: <i>fünfundzwanzig Schüler</i>.</li>
+<li><b>zweite</b> – порядковое: <i>mein zweiter Versuch</i>.</li>
+<li><b>ein halber</b> – дробное: <i>ein halber Liter Wasser</i>.</li>
+</ol>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-095","guide":{"title":"Числительные","kind":"grammar","level":"B1","html":"$1c","materials":[],"meta":"Недели 16-18"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-095","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

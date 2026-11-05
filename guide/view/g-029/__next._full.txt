@@ -1,0 +1,195 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-029","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-029",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T2d15,<div class="guide-media"><a href="https://gemini.google.com/share/daf7d4f41b6b" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+
+
+<aside class="guide-callout">
+
+
+<p>Stellas - онлайн курсы немецкого</p>
+</aside>
+
+
+
+<p>Модальные глаголы — это особая группа глаголов, с помощью которых говорящий выражает <b>своё отношение к действию</b>. Они помогают передавать разрешение, необходимость, способность или желание.</p>
+<hr>
+<h2><b>1. Какие модальные глаголы есть в немецком?</b></h2>
+<p>В немецком всего <b>7 модальных глаголов</b>:</p>
+<ul>
+<li><b>dürfen</b> – мочь (с чьего-то разрешения), иметь право;</li>
+<li><b>können</b> – мочь, уметь, быть в состоянии;</li>
+<li><b>sollen</b> – быть должным (по приказу, правилу);</li>
+<li><b>müssen</b> – быть вынужденным, обязанным;</li>
+<li><b>wollen</b> – хотеть, намереваться;</li>
+<li><b>möchten</b> – хотеть (вежливая форма);</li>
+<li><b>mögen</b> – любить, нравиться.</li>
+</ul>
+<h3><b>Функции модальных глаголов</b></h3>
+<div class="guide-table"><table> <tr> <td> Глагол </td> <td> Значение </td> <td> Примеры </td> </tr> <tr> <td> <b>dürfen</b> </td> <td> Разрешение, запрет </td> <td> <i>Ich darf ins Kino gehen.</i> (Мне можно пойти в кино.) </td> </tr> <tr> <td> <b>können</b> </td> <td> Способность, возможность </td> <td> <i>Paul kann Gitarre spielen.</i> (Пауль умеет играть на гитаре.) </td> </tr> <tr> <td> <b>sollen</b> </td> <td> Обязанность, приказ </td> <td> <i>Du sollst deine Hausaufgaben machen.</i> (Ты должен сделать домашнее задание.) </td> </tr> <tr> <td> <b>müssen</b> </td> <td> Вынужденная необходимость </td> <td> <i>Ich muss früh aufstehen.</i> (Я должен рано вставать.) </td> </tr> <tr> <td> <b>wollen</b> </td> <td> Намерение, желание </td> <td> <i>Ich will nach Hause gehen.</i> (Я хочу пойти домой.) </td> </tr> <tr> <td> <b>möchten</b> </td> <td> Вежливое желание </td> <td> <i>Ich möchte einen Kaffee.</i> (Я бы хотел кофе.) </td> </tr> <tr> <td> <b>mögen</b> </td> <td> Симпатия, предпочтение </td> <td> <i>Ich mag Pizza.</i> (Я люблю пиццу.) </td> </tr> </table></div>
+
+
+
+<hr>
+<h2><b>2. Спряжение модальных глаголов</b></h2>
+<p>Как и другие <b>неправильные глаголы</b>, модальные глаголы меняют корневую гласную в <b>единственном числе</b>. Также у них <b>совпадают формы 1-го и 3-го лица</b> в <b>единственном числе</b> (без окончания).</p>
+<h3><b>Спряжение модальных глаголов в Präsens (настоящее время)</b></h3>
+<h3><b>dürfen</b> (мочь, иметь право)</h3>
+<div class="guide-table"><table> <tr> <td> Лицо </td> <td> Форма </td> </tr> <tr> <td> ich </td> <td> darf </td> </tr> <tr> <td> du </td> <td> darfst </td> </tr> <tr> <td> er/sie/es </td> <td> darf </td> </tr> <tr> <td> wir </td> <td> dürfen </td> </tr> <tr> <td> ihr </td> <td> dürft </td> </tr> <tr> <td> Sie/sie </td> <td> dürfen </td> </tr> </table></div>
+
+
+
+<h3><b>können</b> (мочь, уметь)</h3>
+<div class="guide-table"><table> <tr> <td> Лицо </td> <td> Форма </td> </tr> <tr> <td> ich </td> <td> kann </td> </tr> <tr> <td> du </td> <td> kannst </td> </tr> <tr> <td> er/sie/es </td> <td> kann </td> </tr> <tr> <td> wir </td> <td> können </td> </tr> <tr> <td> ihr </td> <td> könnt </td> </tr> <tr> <td> Sie/sie </td> <td> können </td> </tr> </table></div>
+
+
+
+<h3><b>sollen</b> (быть должным)</h3>
+<div class="guide-table"><table> <tr> <td> Лицо </td> <td> Форма </td> </tr> <tr> <td> ich </td> <td> soll </td> </tr> <tr> <td> du </td> <td> sollst </td> </tr> <tr> <td> er/sie/es </td> <td> soll </td> </tr> <tr> <td> wir </td> <td> sollen </td> </tr> <tr> <td> ihr </td> <td> sollt </td> </tr> <tr> <td> Sie/sie </td> <td> sollen </td> </tr> </table></div>
+
+
+
+<h3><b>müssen</b> (быть вынужденным)</h3>
+<div class="guide-table"><table> <tr> <td> Лицо </td> <td> Форма </td> </tr> <tr> <td> ich </td> <td> muss </td> </tr> <tr> <td> du </td> <td> musst </td> </tr> <tr> <td> er/sie/es </td> <td> muss </td> </tr> <tr> <td> wir </td> <td> müssen </td> </tr> <tr> <td> ihr </td> <td> müsst </td> </tr> <tr> <td> Sie/sie </td> <td> müssen </td> </tr> </table></div>
+
+
+
+<h3><b>wollen</b> (хотеть)</h3>
+<div class="guide-table"><table> <tr> <td> Лицо </td> <td> Форма </td> </tr> <tr> <td> ich </td> <td> will </td> </tr> <tr> <td> du </td> <td> willst </td> </tr> <tr> <td> er/sie/es </td> <td> will </td> </tr> <tr> <td> wir </td> <td> wollen </td> </tr> <tr> <td> ihr </td> <td> wollt </td> </tr> <tr> <td> Sie/sie </td> <td> wollen </td> </tr> </table></div>
+
+
+
+<h3><b>möchten</b> (вежливое хотеть)</h3>
+<div class="guide-table"><table> <tr> <td> Лицо </td> <td> Форма </td> </tr> <tr> <td> ich </td> <td> möchte </td> </tr> <tr> <td> du </td> <td> möchtest </td> </tr> <tr> <td> er/sie/es </td> <td> möchte </td> </tr> <tr> <td> wir </td> <td> möchten </td> </tr> <tr> <td> ihr </td> <td> möchtet </td> </tr> <tr> <td> Sie/sie </td> <td> möchten </td> </tr> </table></div>
+
+
+
+<h3><b>mögen</b> (любить, нравиться)</h3>
+<div class="guide-table"><table> <tr> <td> Лицо </td> <td> Форма </td> </tr> <tr> <td> ich </td> <td> mag </td> </tr> <tr> <td> du </td> <td> magst </td> </tr> <tr> <td> er/sie/es </td> <td> mag </td> </tr> <tr> <td> wir </td> <td> mögen </td> </tr> <tr> <td> ihr </td> <td> mögt </td> </tr> <tr> <td> Sie/sie </td> <td> mögen </td> </tr> </table></div>
+
+
+
+<p>🔹 <b>Важно помнить</b>: Все модальные глаголы (кроме <b>möchten</b>) меняют <b>корневую гласную</b> в единственном числе.</p>
+<hr>
+<h2><b>3. Как строить предложения с модальными глаголами?</b></h2>
+<p>✅ <b>Если в предложении есть модальный глагол, второй глагол стоит в инфинитиве в конце.</b></p>
+<p><b>Примеры:</b></p>
+<ul>
+<li><b>Ich kann Deutsch sprechen.</b> — Я могу говорить по-немецки.</li>
+<li><b>Wir dürfen hier parken.</b> — Нам разрешено здесь парковаться.</li>
+<li><b>Sie will ins Kino gehen.</b> — Она хочет пойти в кино.</li>
+<li><b>Er muss heute viel arbeiten.</b> — Ему нужно много работать сегодня.</li>
+</ul>
+<p>✅ <b>После möchten чаще всего идет существительное:</b></p>
+<ul>
+<li><b>Ich möchte einen Kaffee.</b> — Я бы хотел кофе.</li>
+<li><b>Möchtest du ein Stück Kuchen?</b> — Ты хочешь кусок торта?</li>
+</ul>
+<p><b>Разница между wollen и möchten</b></p>
+<ul>
+<li><b>Ich will ein Auto kaufen.</b> — Я хочу купить машину (решимость, четкое намерение).</li>
+<li><b>Ich möchte ein Auto kaufen.</b> — Я бы хотел купить машину (более вежливо, менее категорично).</li>
+</ul>
+<hr>
+<h2><b>4. Итог</b></h2>
+<p>✅ В немецком <b>7 модальных глаголов</b>, они передают разрешение, необходимость, желание и возможность.</p>
+<p>✅ <b>В единственном числе</b> формы <b>1-го и 3-го лица совпадают</b>.</p>
+<p>✅ <b>При модальных глаголах второй глагол стоит в инфинитиве в конце предложения</b>.</p>
+<p>✅ <b>Möchten – это вежливая форма wollen</b>.</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=4Tld1KNsf_E" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения</h3>
+<div class="guide-media"><a href="https://talkpal.ai/ru/grammar_exercises/modalverben-%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%B9-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA/" target="_blank" rel="noopener noreferrer">talkpal.ai</a></div>
+
+
+
+
+
+<div class="guide-media"><a href="https://deutsch.lingolia.com/ru/grammatika/glagol/modalnye-glagoly/uprazhnenija" target="_blank" rel="noopener noreferrer">deutsch.lingolia.com</a></div>
+
+
+
+
+
+<h3>
+Упражнение 
+</h3>
+
+<p>Вставь подходящий модальный глагол в правильной форме</p>
+<ol>
+<li>Ich ________ heute ins Kino gehen. (хочу)</li>
+<li>Wir ________ gut Deutsch sprechen. (умеем)</li>
+<li>Du ________ hier nicht rauchen. (нельзя)</li>
+<li>Er ________ früh aufstehen. (должен)</li>
+<li>Ich ________ einen Kaffee. (вежливо хочу)</li>
+</ol>
+<hr>
+<h3>✅ Ответы и объяснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>will</b> — <i>Ich will heute ins Kino gehen.</i><p>
+→ <i>wollen</i> выражает твёрдое желание или намерение.
+</p></li>
+<li><b>können</b> — <i>Wir können gut Deutsch sprechen.</i><p>
+→ <i>können</i> показывает способность, умение что-то делать.
+</p></li>
+<li><b>darfst</b> — <i>Du darfst hier nicht rauchen.</i><p>
+→ <i>dürfen + nicht</i> = «нельзя», запрет на действие.
+</p></li>
+<li><b>muss</b> — <i>Er muss früh aufstehen.</i><p>
+→ <i>müssen</i> обозначает необходимость, обязанность.
+</p></li>
+<li><b>möchte</b> — <i>Ich möchte einen Kaffee.</i><p>
+→ <i>möchten</i> — вежливая форма от <i>wollen</i>, используется при просьбах и желаниях.
+</p></li>
+</ol>
+<hr>
+</details><h3>Разбор</h3>
+<p>Чтобы не путаться, запомни простое правило:</p>
+<p><b>Модальный глагол всегда на втором месте, смысловой — в конце.</b></p>
+<p>Ich will schlafen. / Du kannst kommen.</p>
+<p><b>Хочешь говорить естественно — играй с интонацией.</b></p>
+<p><i>Ich will!</i> звучит решительно.</p>
+<p><i>Ich möchte…</i> — мягко, по-немецки вежливо.</p>
+<p>А ещё: если не уверен, какой модальный использовать — начинай с <b>können</b>.</p>
+<p>Им можно заменить половину немецких конструкций на старте и не ошибиться.</p>13:["$","$L21",null,{"id":"g-029","guide":{"title":"Модальные глаголы, вторая версия гайда","kind":"grammar","level":"A1","html":"$22","materials":[],"meta":"Недели 9-10"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

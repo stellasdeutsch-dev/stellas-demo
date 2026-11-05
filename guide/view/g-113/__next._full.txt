@@ -1,0 +1,195 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-113","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-113",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T243a,<div class="guide-media"><a href="https://gemini.google.com/share/0d4dc04d8bf7" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p><b>НЕ ПРОСТО „НЕ“!</b></p>
+<p>Как НЕМЦЫ образуют отрицательные прилагательные и говорят НЕТ стильно 💅</p>
+<p>Забудь школьное &quot;nicht + прилагательное&quot;. У немцев есть целый АРСЕНАЛ способов сказать, что <b>что-то не так</b>. В этом посте ты узнаешь:</p>
+<ul>
+<li>
+Как отрицать с помощью приставок 
+</li>
+<li>
+Где уместны суффиксы 🚫
+</li>
+<li>
+Чем <b>uninteressant</b> отличается от <b>desinteressiert</b>
+</li>
+<li>
+Почему <b>sinnlos</b> — это не "без греха" 😅
+</li>
+</ul>
+
+<hr>
+<h3>1. <b>ПРИСТАВКИ</b>, которые встраиваются в ДНК слова</h3>
+<p>Они добавляют перед корнем, и — бац! — уже антоним:</p>
+<div class="guide-table"><table> <tr> <td> 🔗 Приставка </td> <td> Значение </td> <td> 💬 Пример </td> </tr> <tr> <td> <b>a-</b> </td> <td> не- (как «a-typical») </td> <td> <i>atypisch</i> — нетипичный </td> </tr> <tr> <td> <b>des-</b> </td> <td> разрушение, лишение </td> <td> <i>desillusioniert</i> — разочарованный </td> </tr> <tr> <td> <b>ir-</b> </td> <td> противоположность </td> <td> <i>irrelevant</i> — неактуальный </td> </tr> <tr> <td> <b>miss-</b> </td> <td> ошибка, неправильность </td> <td> <i>missverständlich</i> — вводящий в заблуждение </td> </tr> <tr> <td> <b>non-</b> </td> <td> нет, отсутствие </td> <td> <i>nonverbal</i> — невербальный </td> </tr> <tr> <td> <b>un-</b> </td> <td> самый частый антониматор </td> <td> <i>unfreundlich</i> — недружелюбный </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>🔥 2. <b>СУФФИКСЫ</b>, которые шепчут: &quot;без…&quot;</h3>
+<p>💡 Чаще всего — <b>-los</b>: передаёт идею <i>отсутствия чего-то важного</i></p>
+<div class="guide-table"><table> <tr> <td> 📎 Слово </td> <td> 📖 Значение </td> </tr> <tr> <td> <i>hilflos</i> </td> <td> беспомощный </td> </tr> <tr> <td> <i>arbeitslos</i> </td> <td> безработный </td> </tr> <tr> <td> <i>humorlos</i> </td> <td> без чувства юмора </td> </tr> <tr> <td> <i>sinnlos</i> </td> <td> бессмысленный </td> </tr> <tr> <td> <i>verantwortungslos</i> </td> <td> безответственный </td> </tr> </table></div>
+
+
+
+<p>💡 Простой шаблон:</p>
+<blockquote>
+<p>[существительное] + -los = без этого</p>
+</blockquote>
+<p><i>Hilfe (помощь) → hilflos (без помощи)</i></p>
+<hr>
+<h3>🚨 3. НЕ ВСЕ ОДИНАКОВО ОТРИЦАТЕЛЬНЫ</h3>
+<p>Некоторые пары выглядят похоже, но по смыслу – совсем разные звери:</p>
+<div class="guide-table"><table> <tr> <td> ❗️Слово </td> <td> 🎯 Значение </td> </tr> <tr> <td> <i>uninteressant</i> </td> <td> просто неинтересный </td> </tr> <tr> <td> <i>desinteressiert</i> </td> <td> равнодушный, отрешённый </td> </tr> <tr> <td> <i>hilflos</i> </td> <td> беспомощный </td> </tr> <tr> <td> <i>hilfsbedürftig</i> </td> <td> нуждающийся в помощи </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>ПОДКАЧАЙ СЛОВАРНЫЙ ЗАПАС</h3>
+<p>Вот топ 🔝 универсальных негативных прилагательных, чтобы впечатлить любого преподавателя или нативчика:</p>
+<div class="guide-table"><table> <tr> <td> Слово </td> <td> Перевод </td> </tr> <tr> <td> <i>ungerecht</i> </td> <td> несправедливый </td> </tr> <tr> <td> <i>unhöflich</i> </td> <td> невежливый </td> </tr> <tr> <td> <i>instabil</i> </td> <td> нестабильный </td> </tr> <tr> <td> <i>intolerant</i> </td> <td> нетерпимый </td> </tr> <tr> <td> <i>irreparabel</i> </td> <td> непоправимый </td> </tr> <tr> <td> <i>unglaublich</i> </td> <td> невероятный (но в хорошем смысле!) </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>💡 ВИЖН ПО ПРОСТОМУ</h3>
+<div class="guide-table"><table> <tr> <td> 🔧 Структура </td> <td> 🛠 Пример </td> <td> 💥 Значение </td> </tr> <tr> <td> <b>un-</b> + прилагательное </td> <td> <i>unmöglich</i> </td> <td> невозможный </td> </tr> <tr> <td> <b>-los</b> после корня </td> <td> <i>wertlos</i> </td> <td> бесполезный, ничего не стоит </td> </tr> <tr> <td> <b>a-/in-/ir-/des-</b> </td> <td> <i>asozial, irrelevant, desinteressiert</i> </td> <td> антисоциальный, неважный, без интереса </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>🚀 БОНУС: ОТРИЦАТЕЛЬНЫЕ ПРЕДЛОЖЕНИЯ ПО-ГЕНИАЛЬНОМУ</h3>
+<p>Ты ведь не всегда хочешь сказать просто &quot;нет&quot;? Вот тебе КОМБО-ХОДЫ:</p>
+<div class="guide-table"><table> <tr> <td> Конструкция </td> <td> Пример </td> </tr> <tr> <td> <b>nicht …, sondern …</b> </td> <td> <i>Nicht ich, sondern er hat das gemacht.</i> </td> </tr> <tr> <td> <b>weder … noch …</b> </td> <td> <i>Ich mag weder Kaffee noch Tee.</i> </td> </tr> <tr> <td> <b>ohne … zu + Inf.</b> </td> <td> <i>Sie ging, ohne sich zu verabschieden.</i> </td> </tr> <tr> <td> <b>außer + Dativ</b> </td> <td> <i>Alle kamen pünktlich, außer dem Chef.</i> </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=wSTSaIB0Kcg" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения</h3>
+<div class="guide-media"><a href="https://ifu-institut.at/ru/online-lernen/grammatik/deutsch-grammatik-a2-thema-30" target="_blank" rel="noopener noreferrer">ifu-institut.at</a></div>
+
+
+
+
+
+<h3>УПРАЖНЕНИЕ. Отрицательные прилагательные в деле</h3>
+<p><b>Задание:</b></p>
+<p>Выбери ПРАВИЛЬНЫЙ вариант. Где нужно, обрати внимание, приставка это или суффикс и меняется ли смысл слова.</p>
+<ol>
+<li>Der Film war total ___ (интересный).<p>
+a) desinteressiert
+</p>
+
+<p>
+b) uninteressant
+</p></li>
+<li>Das war eine ___ Entscheidung. Niemand versteht sie.<p>
+a) sinnvolle
+</p>
+
+<p>
+b) sinnlose
+</p></li>
+<li>Er hat die Aufgabe erklärt, aber es war sehr ___.<p>
+a) missverständlich
+</p>
+
+<p>
+b) unverständlich
+</p></li>
+<li>Sie wirkt nicht kalt, sondern einfach ___.<p>
+a) uninteressant
+</p>
+
+<p>
+b) desinteressiert
+</p></li>
+<li>Ohne Hilfe war er völlig ___.<p>
+a) hilfsbedürftig
+</p>
+
+<p>
+b) hilflos
+</p></li>
+<li>Dieses Problem ist ___. Man kann nichts mehr tun.<p>
+a) irreparabel
+</p>
+
+<p>
+b) instabil
+</p></li>
+</ol>
+<hr>
+<h2>✅ ОТВЕТЫ И ОБЪЯСНЕНИЯ</h2>
+<p><b>1) b) uninteressant</b></p>
+<p>Речь о фильме. Он просто неинтересный.</p>
+<p><i>desinteressiert</i> используется ТОЛЬКО про людей и их отношение.</p>
+<p><b>2) b) sinnlose</b></p>
+<p><i>sinnlos</i> = без смысла. Суффикс -los показывает отсутствие чего-то важного.</p>
+<p><b>3) a) missverständlich</b></p>
+<p><i>miss-</i> = ошибка, неправильность.</p>
+<p>Объяснение есть, но оно вводит в заблуждение.</p>
+<p><i>unverständlich</i> было бы если вообще ничего не понятно.</p>
+<p><b>4) b) desinteressiert</b></p>
+<p>Опять человек.</p>
+<p><i>desinteressiert</i> = равнодушная, отрешенная.</p>
+<p><i>uninteressant</i> тут логически не подходит.</p>
+<p><b>5) b) hilflos</b></p>
+<p><i>hilflos</i> = без помощи, беспомощный.</p>
+<p><i>hilfsbedürftig</i> означает нуждающийся в помощи, но не обязательно беспомощный.</p>
+<p><b>6) a) irreparabel</b></p>
+<p><i>irreparabel</i> = непоправимый.</p>
+<p><i>instabil</i> = нестабильный, это про состояние, а не про невозможность исправить.</p>
+<hr>
+<h3>🔑 КОРОТКОЕ ПРАВИЛО, ЧТОБЫ НЕ ТУПИТЬ</h3>
+<ul>
+<li><b>un-</b> чаще просто антоним</li>
+<li><b>des-</b> часто про потерю интереса, состояния</li>
+<li><b>miss-</b> всегда про ошибку</li>
+<li><b>los</b> = без этого, ноль, пусто</li>
+</ul>13:["$","$L21",null,{"id":"g-113","guide":{"title":"Отрицание приставками и суффиксами","kind":"grammar","level":"B2","html":"$22","materials":[],"meta":"Недели 29-32"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

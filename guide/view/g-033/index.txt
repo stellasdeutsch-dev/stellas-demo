@@ -1,0 +1,388 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+14:I[45611,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[45611,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[45611,["$2","$3","$4"],"$1a"]
+1d:I[21197,["$2","$3","$4"],"default",1]
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HC["/",""]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L13",[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":{"n":"id","t":"d","k":"g-033","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q12"}]]
+10:[["children",{"s":"view","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"guide","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","guide","view","g-033",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"ref":"$undefined","icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"omUwgOKK1HY3VqOGPJEvX"}
+1e:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+1f:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+20:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+21:I[343,["$2","$3","$4","$1e","$1f","$20","$9"],"GuideView"]
+f:C
+22:T34f1,<div class="guide-media"><a href="https://gemini.google.com/share/292dc7e0f14f" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+
+
+<aside class="guide-callout">
+
+
+<p>Stellas - онлайн курсы немецкого</p>
+</aside>
+
+
+
+<p>В немецком языке существует группа предлогов, требующих использования <b>дательного падежа (Dativ)</b>. Эти предлоги помогают обозначить различные пространственные, временные и смысловые отношения между словами в предложении.</p>
+<hr>
+<h2>Общие правила для предлогов с Dativ</h2>
+<ul>
+<li><b>После них всегда используется дательный падеж.</b></li>
+<li><b>Не нужно задавать вопрос, чтобы понять, какой падеж употребляется.</b></li>
+<li><b>Во множественном числе к существительным чаще всего добавляется окончание –(e)n.</b></li>
+</ul>
+<p>Чтобы запомнить минимум таких предлогов, можно воспользоваться простой считалкой:</p>
+<blockquote>
+<p>&quot;Mit, nach, aus, zu, von, bei – Dativ ты не забывай!&quot;</p>
+</blockquote>
+<p>Помимо этих основных, к группе относятся также:</p>
+<ul>
+<li><b>ab, seit, außer, entgegen, gegenüber</b></li>
+</ul>
+<p>Давайте подробно разберем каждый из предлогов, их значения и примеры употребления.</p>
+<hr>
+<h2>1. <b>mit</b></h2>
+<p><b>Значения:</b></p>
+<ol>
+<li><b>С кем-либо (совместно)</b><p>
+<i>Jeden Sonntag gehe ich mit meinen Eltern in die Kirche.</i>
+</p>
+
+<p>
+— Каждое воскресенье я с родителями иду в церковь.
+</p></li>
+<li><b>При помощи какого-либо средства или инструмента</b><p>
+<i>Er öffnete die Tür mit einem Schlüssel.</i>
+</p>
+
+<p>
+— Он открыл дверь ключом.
+</p></li>
+<li><b>На каком-либо виде транспорта</b><p>
+<i>Ich fahre jeden Tag mit dem Bus.</i>
+</p>
+
+<p>
+— Я езжу каждый день на автобусе.
+</p></li>
+<li><b>С чувством (без артикля)</b><p>
+<i>Ich habe mit Freude festgestellt, dass...</i>
+</p>
+
+<p>
+— Я с радостью обнаружил, что...
+</p></li>
+<li><b>При обозначении определенного пункта во времени (например, в каком-то возрасте)</b><p>
+<i>Mit 40 Jahren bin ich nach Deutschland umgezogen.</i>
+</p>
+
+<p>
+— В 40 лет я переехал в Германию.
+</p></li>
+</ol>
+<hr>
+<h2>2. <b>nach</b></h2>
+<p><b>Значения:</b></p>
+<ol>
+<li><b>Направление движения в города или страны (среднего рода)</b><p>
+<i>Wir fahren nach Deutschland.</i>
+</p>
+
+<p>
+— Мы едем в Германию.
+</p></li>
+<li><b>Направление движения с указанием стороны</b><p>
+<i>Fahren Sie bitte nach links.</i>
+</p>
+
+<p>
+— Езжайте, пожалуйста, налево.
+</p></li>
+<li><b>Время (после определенного часа)</b><p>
+<i>Es ist fünf Minuten nach zwölf.</i>
+</p>
+
+<p>
+— Сейчас пять минут первого (пять минут после двенадцати).
+</p></li>
+<li><b>Согласно (может стоять после существительного)</b><p>
+<i>Meiner Meinung nach ist der Satz richtig.</i>
+</p>
+
+<p>
+<i>Nach dem Gesetz darf ich hier nicht rauchen.</i>
+</p>
+
+<p>
+— По моему мнению предложение верно.
+</p>
+
+<p>
+— Согласно закону, мне нельзя здесь курить.
+</p></li>
+<li><b>Устойчивое выражение:</b><p>
+<i>nach Hause</i> — домой
+</p></li>
+</ol>
+<hr>
+<h2>3. <b>aus</b></h2>
+<p><b>Значения:</b></p>
+<ol>
+<li><b>Из помещения</b><p>
+<i>Er ging aus dem Haus.</i>
+</p>
+
+<p>
+— Он вышел из дома.
+</p></li>
+<li><b>Из страны, города или другого населённого пункта</b><p>
+<i>Wir kommen aus Russland.</i>
+</p>
+
+<p>
+— Мы приехали из России.
+</p></li>
+<li><b>Из какого-то материала (без артикля)</b><p>
+<i>Mein Ehering ist aus Gold.</i>
+</p>
+
+<p>
+— Мое обручальное кольцо сделано из золота.
+</p></li>
+<li><b>Из чувства (без артикля)</b><p>
+<i>Aus Liebe zu ihm verließ sie ihre Heimat.</i>
+</p>
+
+<p>
+— Из любви к нему она покинула свою Родину.
+</p></li>
+</ol>
+<hr>
+<h2>4. <b>zu</b></h2>
+<p><b>Значения:</b></p>
+<ol>
+<li><b>Направление движения (к кому-либо, к месту)</b><p>
+<i>Ich fahre morgen zu meiner Oma.</i>
+</p>
+
+<p>
+— Завтра я поеду к бабушке.
+</p></li>
+<li><b>К определенному моменту времени</b><p>
+<i>Zu dieser Zeit will ich die Prüfung ablegen.</i>
+</p>
+
+<p>
+— К этому времени я хочу сдать экзамен.
+</p></li>
+<li><b>Для + существительное от инфинитива глагола</b><p>
+<i>Zum Lernen brauche ich dieses Buch.</i>
+</p>
+
+<p>
+— Для учебы мне нужна эта книга.
+</p></li>
+</ol>
+<p><b>Слияния с артиклями:</b></p>
+<ul>
+<li><b>zu + dem = zum</b></li>
+<li><b>zu + der = zur</b></li>
+</ul>
+<p><b>Устойчивые выражения:</b></p>
+<ul>
+<li><i>zu Hause sein</i> — быть дома</li>
+<li><i>zu Gast sein</i> — быть в гостях</li>
+<li><i>zu Ende sein</i> — заканчиваться</li>
+<li><i>zu Mittag essen</i> — обедать</li>
+<li><i>zu Abend essen</i> — ужинать</li>
+<li><i>zu Boden fallen</i> — падать на землю</li>
+<li><i>zu Hilfe kommen</i> — прийти на помощь</li>
+<li><i>zu Besuch kommen</i> — приходить в гости</li>
+<li><i>zu Fuß gehen</i> — ходить пешком</li>
+<li><i>zu Bett gehen</i> — ложиться спать</li>
+</ul>
+<hr>
+<h2>5. <b>von</b></h2>
+<p><b>Значения:</b></p>
+<ol>
+<li><b>Откуда-то</b><p>
+<i>Ich bin gerade vom Bahnhof gekommen.</i>
+</p>
+
+<p>
+— Я только что пришёл с вокзала.
+</p></li>
+<li><b>От... до... (о датах)</b><p>
+<i>Vom 1. April bis zum 15. Mai arbeite ich nicht.</i>
+</p>
+
+<p>
+— С 1 апреля по 15 мая я не работаю.
+</p></li>
+<li><b>Принадлежность</b><p>
+<i>Ich mag Bücher von diesem Autor.</i>
+</p>
+
+<p>
+— Я люблю книги этого автора.
+</p></li>
+<li><b>В пассивных конструкциях – чем или кем что-то выполнено</b><p>
+<i>Die Rechnung ist von meinem Freund bezahlt.</i>
+</p>
+
+<p>
+— Счёт оплачен моим другом.
+</p></li>
+</ol>
+<p><b>Слияние:</b></p>
+<ul>
+<li><b>von + dem = vom</b></li>
+</ul>
+<hr>
+<h2>6. <b>bei</b></h2>
+<p><b>Значения:</b></p>
+<ol>
+<li><b>У кого-либо, возле кого-либо</b><p>
+<i>Ich war beim Arzt.</i>
+</p>
+
+<p>
+— Я был у врача.
+</p></li>
+<li><b>Вблизи, рядом с чем-либо</b><p>
+<i>Hanau liegt bei Frankfurt.</i>
+</p>
+
+<p>
+— Ганау расположен вблизи Франкфурта.
+</p></li>
+<li><b>Во время чего-либо</b><p>
+<i>Beim Kochen hat sie sich verbrannt.</i>
+</p>
+
+<p>
+— Во время готовки она обожглась.
+</p></li>
+</ol>
+<p><b>Слияние:</b></p>
+<ul>
+<li><b>bei + dem = beim</b></li>
+</ul>
+<hr>
+<h2>7. <b>ab</b></h2>
+<p><b>Значение:</b></p>
+<ul>
+<li><b>С какого-то момента в будущем</b><i>Ab morgen beginne ich Sport zu treiben.</i><br>— С завтрашнего дня я начну заниматься спортом.<i>Ab dem ersten Januar will ich mehr lesen.</i><br>— С 1 января я хочу больше читать.</li>
+</ul>
+<hr>
+<h2>8. <b>seit</b></h2>
+<p><b>Значения:</b></p>
+<ol>
+<li><b>С какого-то момента в прошлом и по сегодняшний день</b><i>Seit 1990 wohne ich in Bremen.</i><br>— С 1990 года я живу в Бремене.</li>
+<li><b>С какого-то момента в прошлом, длительный период до настоящего</b><i>Seit 5 Jahren arbeite ich bei Siemens.</i><br>— На протяжении 5 лет я работаю в &quot;Сименс&quot; (подразумевается, что продолжаю работать).</li>
+</ol>
+<hr>
+<h2>9. <b>außer</b></h2>
+<p><b>Значения:</b></p>
+<ol>
+<li><b>Кроме, за исключением</b><i>Alle Kinder spielen Fußball außer diesem Jungen.</i><br>— Все дети играют в футбол, кроме этого мальчика.</li>
+<li><b>Устойчивые выражения (без артикля):</b><i>außer Betrieb</i> — не работает<i>außer Frage</i> — вне сомнения<i>außer sich</i> — вне себя<i>außer Haus</i> — не дома, вне помещения</li>
+</ol>
+<hr>
+<h2>10. <b>entgegen</b></h2>
+<p><b>Значение:</b></p>
+<ul>
+<li><b>Вопреки, против ожиданий или желания</b><i>Den Wünschen seiner Eltern entgegen will er nicht Arzt werden.</i><br>— Вопреки желаниям своих родителей он не хочет становиться врачом.<i>Entgegen den allgemeinen Erwartungen gewann diese Partei die Wahl.</i><br>— Вопреки всеобщим ожиданиям эта партия выиграла выборы.</li>
+</ul>
+<hr>
+<h2>11. <b>gegenüber</b></h2>
+<p><b>Значения:</b></p>
+<ol>
+<li><b>Напротив (может стоять как перед, так и после существительного)</b><i>Gegenüber der Post sehen Sie ein Reisebüro.</i><br>— Напротив почты вы увидите туристическое бюро.<i>Dem Rathaus gegenüber liegt ein Park.</i><br>— Напротив ратуши находится парк.</li>
+<li><b>По отношению к (обычно стоит после существительного)</b><i>Den Bitten seines Sohns gegenüber blieb er hart.</i><br>— По отношению к просьбам своего сына он оставался непреклонным.</li>
+</ol>
+<hr>
+<h2>Итог</h2>
+<p>Предлоги дательного падежа – важная часть немецкой грамматики, которая помогает точно выражать пространственные, временные и смысловые отношения. Главное помнить:</p>
+<ul>
+<li><b>После всех этих предлогов всегда используется Dativ.</b></li>
+<li><b>Не требуется задавать специальные вопросы, чтобы определить падеж – правило простое и всегда действует.</b></li>
+<li><b>Во множественном числе большинство существительных получает окончание –(e)n.</b></li>
+</ul>
+<p>Чтобы быстро запомнить основу, воспользуйтесь считалкой:</p>
+<blockquote>
+<p>&quot;Mit, nach, aus, zu, von, bei – Dativ ты не забывай!&quot;</p>
+</blockquote>
+<p>А дальше изучайте дополнительные предлоги: <b>ab, seit, außer, entgegen, gegenüber</b>.</p>
+<hr>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=NV4qQT8ugSs" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3><b>Упражнение: Предлоги с Dativ</b></h3>
+<p>Вставь подходящий предлог из списка: <b>mit</b>, <b>nach</b>, <b>aus</b>, <b>zu</b>, <b>von</b>, <b>bei</b>, <b>ab</b>, <b>seit</b>, <b>außer</b>, <b>entgegen</b>, <b>gegenüber</b>.</p>
+<ol>
+<li>Ich fahre morgen ___ meiner Freundin.</li>
+<li>Er kommt gerade ___ dem Büro.</li>
+<li>Wir sprechen ___ dem Lehrer.</li>
+<li>Ich gehe jeden Tag ___ dem Bus zur Arbeit.</li>
+<li>___ dem nächsten Monat beginnt mein Kurs.</li>
+<li>Das Hotel liegt ___ dem Bahnhof.</li>
+<li>___ seiner Krankheit arbeitet er weiter.</li>
+<li>___ 2015 wohne ich in Berlin.</li>
+<li>Alle sind da ___ meinem Bruder.</li>
+<li>Das Restaurant liegt ___ der Bank.</li>
+<li>___ meiner Meinung hast du recht.</li>
+<li>Sie öffnet die Tür ___ einem Schlüssel.</li>
+<li>Er fährt ___ Hause.</li>
+<li>___ dem Gesetz ist das verboten.</li>
+<li>___ dem Regen spielen die Kinder draußen.</li>
+</ol>
+<hr>
+<h3><b>Ответы</b></h3><details><summary>Показать ответы</summary>
+<ol>
+<li>zu</li>
+<li>aus</li>
+<li>mit</li>
+<li>mit</li>
+<li>Ab</li>
+<li>bei</li>
+<li>Trotz / Entgegen</li>
+<li>Seit</li>
+<li>außer</li>
+<li>gegenüber</li>
+<li>Nach</li>
+<li>mit</li>
+<li>nach</li>
+<li>Nach</li>
+<li>Trotz / Entgegen</li>
+</ol>
+</details>13:["$","$L21",null,{"id":"g-033","guide":{"title":"Предлоги Dativ","kind":"grammar","level":"A1","html":"$22","materials":[],"meta":"Недели 9-10"}}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:null
+1c:[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]

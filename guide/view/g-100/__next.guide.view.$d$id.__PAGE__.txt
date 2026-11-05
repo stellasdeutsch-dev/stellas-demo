@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T1b12,<div class="guide-media"><a href="https://gemini.google.com/share/51dedde4d8d0" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<hr>
+<h3>Что такое субъективные модальные глаголы?</h3>
+<p>Это модальные глаголы (müssen, dürfen, können, mögen и др.), которые выражают не фактические обстоятельства (должен, могу), а степень уверенности говорящего в происходящем.</p>
+<p>Например:</p>
+<ul>
+<li><b>Er muss im Büro sein.</b> — Он, должно быть, в офисе (мы почти уверены).</li>
+</ul>
+<hr>
+<h3>Градация уверенности в настоящем времени (Präsens)</h3>
+<p>Чётко распределим глаголы и их уверенность в таблице:</p>
+<div class="guide-table"><table> <tr> <td> Глагол / форма </td> <td> Уровень уверенности </td> <td> Пример </td> </tr> <tr> <td> <b>müssen</b> </td> <td> 95–100% </td> <td> Er muss jetzt im Büro sein. <i>(Он точно сейчас в офисе.)</i> </td> </tr> <tr> <td> <b>müsste</b> (Konjunktiv II от müssen) </td> <td> \~80% </td> <td> Er müsste jetzt im Büro sein. <i>(Он, должно быть, сейчас в офисе.)</i> </td> </tr> <tr> <td> <b>dürfte</b> (Konjunktiv II от dürfen) </td> <td> \~75% </td> <td> Er dürfte jetzt im Büro sein. <i>(Он, наверное, сейчас в офисе.)</i> </td> </tr> <tr> <td> <b>kann</b> </td> <td> \~50% </td> <td> Er kann jetzt im Büro sein. <i>(Он может быть сейчас в офисе.)</i> </td> </tr> <tr> <td> <b>könnte</b> (Konjunktiv II от können) </td> <td> \~40% </td> <td> Er könnte jetzt im Büro sein. <i>(Он мог бы сейчас быть в офисе.)</i> </td> </tr> <tr> <td> <b>mögen</b> </td> <td> \~30% </td> <td> Er mag jetzt im Büro sein. <i>(Может быть, он сейчас в офисе.)</i> </td> </tr> </table></div>
+
+
+
+<p>Аналоги этих глаголов через наречия:</p>
+<ul>
+<li><b>müssen</b> → sicherlich, bestimmt <i>(точно, наверняка)</i></li>
+<li><b>dürfte</b> → wahrscheinlich <i>(вероятно)</i></li>
+<li><b>kann/könnte</b> → vielleicht, möglicherweise <i>(возможно)</i></li>
+</ul>
+<hr>
+<h3>📌 Субъективные модальные глаголы в прошедшем времени (Perfekt)</h3>
+<p>Используем конструкцию:<br><b>Модальный глагол + смысловой глагол в Infinitiv Perfekt (Partizip II + haben/sein)</b></p>
+<div class="guide-table"><table> <tr> <td> Пример </td> <td> Перевод и степень уверенности </td> </tr> <tr> <td> Er muss im Büro gewesen sein. </td> <td> Он точно был в офисе (\~100%) </td> </tr> <tr> <td> Er müsste im Büro gewesen sein. </td> <td> Он, должно быть, был в офисе (\~80%) </td> </tr> <tr> <td> Er dürfte im Büro gewesen sein. </td> <td> Он, вероятно, был в офисе (\~75%) </td> </tr> <tr> <td> Er könnte im Büro gewesen sein. </td> <td> Он мог быть в офисе (\~40%) </td> </tr> <tr> <td> Er mag im Büro gewesen sein. </td> <td> Возможно, он был в офисе (\~30%) </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>📌 Особенности глаголов <b>können + nur</b> и <b>können + nicht</b>:</h3>
+<ul>
+<li><b>Er kann jetzt nur im Büro sein.</b> <i>(Он может быть только в офисе = почти 100% уверенность)</i></li>
+<li><b>Er kann jetzt nicht im Büro sein.</b> <i>(Он сейчас не может быть в офисе = почти 100% уверенность в отрицании)</i></li>
+</ul>
+<hr>
+<h3>📌 Глаголы для передачи чужих слов: <b>sollen</b> и <b>wollen</b></h3>
+<p>Эти глаголы передают информацию с дистанцией и сомнением:</p>
+<ul>
+<li><b>sollen</b> — передача чужих слов (&quot;говорят, что…&quot;)</li>
+<li><b>wollen</b> — слова человека о себе (&quot;он утверждает, что якобы…&quot;)</li>
+</ul>
+<p>Примеры:</p>
+<ul>
+<li><b>Carlos soll nach Spanien fahren.</b> <i>(Говорят, Карлос едет в Испанию.)</i></li>
+<li><b>Maria will zu Hause bleiben.</b> <i>(Мария сама говорит, что останется дома.)</i></li>
+</ul>
+<hr>
+<h3>📌 Субъективные модальные глаголы и наречия — полезные замены:</h3>
+<div class="guide-table"><table> <tr> <td> Степень уверенности </td> <td> Модальный глагол </td> <td> Наречия-заменители </td> </tr> <tr> <td> \~95–100% </td> <td> müssen </td> <td> bestimmt, sicher, gewiss </td> </tr> <tr> <td> \~80% </td> <td> müsste </td> <td> sehr wahrscheinlich </td> </tr> <tr> <td> \~75% </td> <td> dürfte, werden </td> <td> wahrscheinlich </td> </tr> <tr> <td> \~50% </td> <td> kann </td> <td> vielleicht, möglicherweise </td> </tr> <tr> <td> \~30% </td> <td> mögen </td> <td> vielleicht </td> </tr> </table></div>
+
+
+
+<hr>
+<h3>📌 Итоговая конструкция предложений:</h3>
+<ul>
+<li><b>Настоящее:</b> модальный глагол + смысловой глагол в инфинитиве:<ul>
+<li>Er muss im Büro sein.</li>
+</ul>
+</li>
+<li><b>Прошедшее:</b> модальный глагол + Infinitiv Perfekt (Partizip II + haben/sein):<ul>
+<li>Er muss im Büro gewesen sein.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><b>Короткий вывод:</b></p>
+<ul>
+<li>Субъективные модальные глаголы используются, чтобы выразить уверенность говорящего в действии.</li>
+<li>Каждый глагол соответствует чёткой степени уверенности.</li>
+<li>Их можно заменить подходящими наречиями (bestimmt, wahrscheinlich, vielleicht).</li>
+</ul>
+<p>Запоминайте этот гайд, держите под рукой таблицы и говорите по-немецки уверенно и естественно! 🚀🔥</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=y0F6BjHPO5s" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнение</h3>
+<div class="guide-media"><a href="https://ifu-institut.at/ru/online-lernen/grammatik/grammatikbungen-zu-dem-thema-21-a1" target="_blank" rel="noopener noreferrer">ifu-institut.at</a></div>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-100","guide":{"title":"Субъективное значение модальных глаголов","kind":"grammar","level":"B2","html":"$1c","materials":[],"meta":"Недели 21-24"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-100","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

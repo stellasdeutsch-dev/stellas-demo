@@ -1,0 +1,475 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T3d7f,<div class="guide-media"><a href="https://gemini.google.com/share/0239daecef17" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+
+
+<aside class="guide-callout">
+
+
+<p>Stellas - онлайн курсы немецкого</p>
+</aside>
+
+
+
+<p>Genitiv пугает новичка сильнее остальных падежей. Зря. Предлогов тут немного, окончание всего одно, а главный секрет в конце сэкономит тебе половину нервов.</p>
+<p>Строим тему по шагам. Сначала зачем. Потом четыре главных предлога, которые покрывают почти всё. Потом редкие. Потом окончание. И в финале секрет, который превращает Genitiv в Dativ.</p>
+<hr>
+<h2>Шаг 0. Зачем вообще нужен этот падеж после предлогов</h2>
+<p>Эти предлоги отвечают на три типа вопросов. Когда, почему, и где относительно чего-то. Время, причина, расположение. Всё.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Что выражаем</th>
+<th>Какой предлог отвечает</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Время. Во время чего</td>
+<td>während</td>
+</tr>
+<tr>
+<td>Причина. Из-за чего</td>
+<td>wegen</td>
+</tr>
+<tr>
+<td>Уступка. Несмотря на что</td>
+<td>trotz</td>
+</tr>
+<tr>
+<td>Замена. Вместо чего</td>
+<td>statt</td>
+</tr>
+<tr>
+<td>Место. Внутри, снаружи, рядом</td>
+<td>innerhalb, außerhalb, unweit</td>
+</tr>
+</tbody></table></div>
+<p>Видишь предлог из списка ниже — следующее существительное автоматом уходит в Genitiv. Вопросов задавать не надо. Правило железное, как у Akkusativ.</p>
+<hr>
+<h2>Шаг 1. Ядро. Четыре предлога на каждый день</h2>
+<p>Если выучить только эти четыре, ты закрываешь процентов восемьдесят живой речи. Остальные редкие, к ним вернёшься потом.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Предлог</th>
+<th>Значение</th>
+<th>Пример</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>während</b></td>
+<td>во время, в течение</td>
+<td>Während <b>des</b> Gewitters blitzt es.</td>
+<td>Во время грозы сверкает молния</td>
+</tr>
+<tr>
+<td><b>wegen</b></td>
+<td>из-за</td>
+<td>Wegen <b>meiner</b> Krankheit gehe ich nicht zur Schule.</td>
+<td>Из-за болезни не иду в школу</td>
+</tr>
+<tr>
+<td><b>trotz</b></td>
+<td>несмотря на</td>
+<td>Trotz <b>seiner</b> schlechten Leistung bestand er die Prüfung.</td>
+<td>Несмотря на слабые успехи, сдал экзамен</td>
+</tr>
+<tr>
+<td><b>statt</b></td>
+<td>вместо</td>
+<td>Statt <b>eines</b> Mantels kaufe ich eine Hose.</td>
+<td>Вместо пальто беру штаны</td>
+</tr>
+</tbody></table></div>
+<blockquote>
+<p><b>Лайфхак.</b> Запоминай парами по смыслу. während и wegen на оба w, время и причина. trotz и statt на резкий слом, несмотря и вместо. Четыре слова, две пары, держится крепко.</p>
+</blockquote>
+<hr>
+<h2>Шаг 2. У каждого главного предлога есть двойник</h2>
+<p>Полезно знать сразу. Три из четырёх ядровых имеют брата с тем же смыслом, только более книжного. В газете и в законе встретишь именно их.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Простой предлог</th>
+<th>Книжный двойник</th>
+<th>Общий смысл</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>wegen</td>
+<td>aufgrund, infolge</td>
+<td>из-за, вследствие</td>
+</tr>
+<tr>
+<td>trotz</td>
+<td>ungeachtet</td>
+<td>несмотря на</td>
+</tr>
+<tr>
+<td>statt</td>
+<td>anstatt</td>
+<td>вместо</td>
+</tr>
+</tbody></table></div>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Пример</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>Aufgrund eines</b> Unglücks hatte der Zug Verspätung.</td>
+<td>Из-за аварии поезд опоздал</td>
+</tr>
+<tr>
+<td><b>Infolge starker</b> Schneefälle wurde die Straße gesperrt.</td>
+<td>Вследствие снегопадов дорогу закрыли</td>
+</tr>
+</tbody></table></div>
+<blockquote>
+<p><b>Лайфхак.</b> В разговоре говори wegen и trotz, простые формы. Книжные aufgrund, infolge, ungeachtet просто узнавай в текстах, сам не лепи. Их перебор в устной речи звучит как чтение инструкции вслух.</p>
+</blockquote>
+<hr>
+<h2>Шаг 3. Предлоги места. Где относительно чего</h2>
+<p>Отдельная группа, объединённая значением границы. Внутри, снаружи, недалеко. Все строятся одинаково, поэтому идут вместе.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Предлог</th>
+<th>Значение</th>
+<th>Пример</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>innerhalb</b></td>
+<td>внутри, в пределах</td>
+<td>Bezahlen Sie <b>innerhalb einer</b> Woche.</td>
+<td>Оплатите в течение недели</td>
+</tr>
+<tr>
+<td><b>außerhalb</b></td>
+<td>снаружи, за пределами</td>
+<td><b>Außerhalb der</b> Stadt gibt es viel Wald.</td>
+<td>За городом много леса</td>
+</tr>
+<tr>
+<td><b>unweit</b></td>
+<td>недалеко от</td>
+<td><b>Unweit dieses</b> Parks gibt es ein Schloss.</td>
+<td>Недалеко от парка есть замок</td>
+</tr>
+</tbody></table></div>
+<blockquote>
+<p><b>Лайфхак.</b> innerhalb и außerhalb работают и по месту, и по времени. Внутри города и внутри недели. Один предлог на пространство и на срок. Заметь корень halb и противоположные приставки inner и außer, внутри и снаружи. Половина слова общая, меняется только направление.</p>
+</blockquote>
+<hr>
+<h2>Шаг 4. Редкие, но полезные</h2>
+<p>Эти встречаются реже, но в новостях и в умной речи всплывают. Знать в лицо стоит.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Предлог</th>
+<th>Значение</th>
+<th>Пример</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>laut</b></td>
+<td>согласно</td>
+<td><b>Laut einer</b> Studie sind 50 Prozent glücklich.</td>
+<td>Согласно исследованию, счастливы половина</td>
+</tr>
+<tr>
+<td><b>angesichts</b></td>
+<td>ввиду, учитывая</td>
+<td><b>Angesichts wachsender</b> Vorurteile wird es schwieriger.</td>
+<td>Ввиду растущих предрассудков становится тяжелее</td>
+</tr>
+</tbody></table></div>
+<blockquote>
+<p><b>Лайфхак.</b> laut особенный. С артиклем он тянет Genitiv, laut einer Studie. А вот с голым словом без артикля чаще идёт Dativ, laut Plan. Маленькая хитрость, на которой спотыкаются.</p>
+</blockquote>
+<hr>
+<h2>Шаг 5. Окончание. Что дописать к существительному</h2>
+<p>Главная механика Genitiv. Само существительное тоже меняется, не только артикль.</p>
+<p>Мужской и средний род в единственном числе получают на конце <b>-s</b> или <b>-es</b>.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Слово</th>
+<th>В Genitiv</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>der Mantel</td>
+<td>des Mantel<b>s</b></td>
+<td>пальто</td>
+</tr>
+<tr>
+<td>das Gewitter</td>
+<td>des Gewitter<b>s</b></td>
+<td>гроза</td>
+</tr>
+<tr>
+<td>der Mann</td>
+<td>des Mann<b>es</b></td>
+<td>мужчина</td>
+</tr>
+</tbody></table></div>
+<p>Женский род и множественное число ничего к слову не добавляют. Меняется только артикль.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Слово</th>
+<th>В Genitiv</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>die Woche</td>
+<td>der Woche</td>
+<td>неделя</td>
+</tr>
+<tr>
+<td>die Stadt</td>
+<td>der Stadt</td>
+<td>город</td>
+</tr>
+</tbody></table></div>
+<blockquote>
+<p><b>Лайфхак.</b> Короткое слово берёт длинное -es, длинное слово берёт короткое -s. des Mannes, но des Gewitters. Язык балансирует длину, чтобы слово не споткнулось на согласных. Произнеси оба и услышишь, почему так удобнее.</p>
+</blockquote>
+<hr>
+<h2>Шаг 6. Главный секрет. Genitiv в разговоре превращается в Dativ</h2>
+<p>Самое важное в теме, и этого нет в обычных таблицах. В живой устной речи немцы массово заменяют Genitiv после wegen, trotz, statt на Dativ. Это не ошибка улицы, это уже признанная разговорная норма.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Книжно, Genitiv</th>
+<th>Разговорно, Dativ</th>
+<th>Перевод</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>wegen <b>des</b> Wetter<b>s</b></td>
+<td>wegen <b>dem</b> Wetter</td>
+<td>из-за погоды</td>
+</tr>
+<tr>
+<td>trotz <b>des</b> Regen<b>s</b></td>
+<td>trotz <b>dem</b> Regen</td>
+<td>несмотря на дождь</td>
+</tr>
+<tr>
+<td>während <b>des</b> Essen<b>s</b></td>
+<td>während <b>dem</b> Essen</td>
+<td>во время еды</td>
+</tr>
+</tbody></table></div>
+<p>Есть даже немецкая поговорка про это. Dem Genitiv sein Tod ist der Dativ, дательный это смерть родительного. Сами носители шутят, что Genitiv потихоньку умирает в разговоре.</p>
+<blockquote>
+<p><b>Лайфхак.</b> Стратегия для новичка. В письме и на экзамене держи Genitiv, des Wetters. В болтовне спокойно используй Dativ, wegen dem Wetter, тебя поймут и никто не поморщится. Знаешь обе формы — выбираешь по ситуации. Это снимает половину страха перед падежом.</p>
+</blockquote>
+<hr>
+<h2>Шпаргалка целиком</h2>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Предлог</th>
+<th>Смысл</th>
+<th>Группа</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>während</td>
+<td>во время</td>
+<td>ядро, время</td>
+</tr>
+<tr>
+<td>wegen</td>
+<td>из-за</td>
+<td>ядро, причина</td>
+</tr>
+<tr>
+<td>trotz</td>
+<td>несмотря на</td>
+<td>ядро, уступка</td>
+</tr>
+<tr>
+<td>statt</td>
+<td>вместо</td>
+<td>ядро, замена</td>
+</tr>
+<tr>
+<td>aufgrund, infolge</td>
+<td>вследствие</td>
+<td>книжные двойники wegen</td>
+</tr>
+<tr>
+<td>ungeachtet</td>
+<td>несмотря на</td>
+<td>книжный двойник trotz</td>
+</tr>
+<tr>
+<td>anstatt</td>
+<td>вместо</td>
+<td>книжный двойник statt</td>
+</tr>
+<tr>
+<td>innerhalb</td>
+<td>внутри, в течение</td>
+<td>место и время</td>
+</tr>
+<tr>
+<td>außerhalb</td>
+<td>снаружи</td>
+<td>место</td>
+</tr>
+<tr>
+<td>unweit</td>
+<td>недалеко от</td>
+<td>место</td>
+</tr>
+<tr>
+<td>laut</td>
+<td>согласно</td>
+<td>редкий, с артиклем Genitiv</td>
+</tr>
+<tr>
+<td>angesichts</td>
+<td>ввиду</td>
+<td>редкий</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>Порядок изучения. Что учить в каком порядке</h2>
+<p>Чтобы не утонуть, бери тему слоями.</p>
+<div class="guide-table"><table>
+<thead>
+<tr>
+<th>Этап</th>
+<th>Что выучить</th>
+<th>Зачем</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>während, wegen, trotz, statt</td>
+<td>покрывают почти всю речь</td>
+</tr>
+<tr>
+<td>2</td>
+<td>окончание -s и -es для m и n</td>
+<td>без него Genitiv не Genitiv</td>
+</tr>
+<tr>
+<td>3</td>
+<td>секрет с Dativ в разговоре</td>
+<td>снимает страх говорить</td>
+</tr>
+<tr>
+<td>4</td>
+<td>innerhalb, außerhalb, unweit</td>
+<td>группа места</td>
+</tr>
+<tr>
+<td>5</td>
+<td>книжные двойники и редкие</td>
+<td>для чтения и понимания</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>Итог</h2>
+<p>Genitiv после предлогов держится на четырёх словах. während, wegen, trotz, statt. Время, причина, уступка, замена.</p>
+<p>Дописываешь -s или -es к мужскому и среднему роду, женский и множественное оставляешь как есть.</p>
+<p>А главный секрет такой. В разговоре Genitiv спокойно живёт как Dativ, и носители сами так говорят. Поэтому пиши строго, говори свободно, и страшный падеж окажется самым лёгким из всех.</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=EnMRABuYapo" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3><b>Упражнение: Предлоги с Genitiv</b></h3>
+<p>Вставь подходящий предлог из списка:</p>
+<p><b>während</b>, <b>wegen</b>, <b>aufgrund</b>, <b>statt</b>, <b>trotz</b>, <b>außerhalb</b>, <b>innerhalb</b>, <b>infolge</b>, <b>laut</b>, <b>angesichts</b>, <b>unweit</b>.</p>
+<ol>
+<li>___ des starken Regens wurde das Spiel abgesagt.</li>
+<li>Wir bleiben ___ der Öffnungszeiten im Gebäude.</li>
+<li>___ der Ferien ist die Schule geschlossen.</li>
+<li>___ technischer Probleme fährt der Zug nicht weiter.</li>
+<li>Er kaufte ein Fahrrad ___ eines Autos.</li>
+<li>___ der Gefahr mussten alle das Gebäude verlassen.</li>
+<li>___ einer aktuellen Umfrage sind viele Menschen unzufrieden.</li>
+<li>Es gibt viele schöne Seen ___ der Stadt.</li>
+<li>___ des Nebels kam es zu mehreren Unfällen.</li>
+<li>___ neuer Regeln wird das Projekt verschoben.</li>
+</ol>
+<hr>
+<h3><b>Ответы</b></h3><details><summary>Показать ответы</summary>
+<ol>
+<li>Wegen</li>
+<li>Innerhalb</li>
+<li>Während</li>
+<li>Aufgrund</li>
+<li>statt</li>
+<li>Angesichts</li>
+<li>Laut</li>
+<li>außerhalb</li>
+<li>Infolge</li>
+<li>Aufgrund / Angesichts</li>
+</ol>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-059","guide":{"title":"Предлоги Genitiv","kind":"grammar","level":"A2","html":"$1c","materials":[],"meta":"Недели 22-24"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-059","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

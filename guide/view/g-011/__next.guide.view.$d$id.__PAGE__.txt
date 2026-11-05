@@ -1,0 +1,199 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T20b5,<div class="guide-media"><a href="https://gemini.google.com/share/4995f1990408" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+
+
+<aside class="guide-callout">
+
+
+<p>Stellas - онлайн курсы немецкого языка</p>
+</aside>
+
+
+
+<p>Если тебе кажется, что немецкие <b>der</b>, <b>die</b>, <b>das</b>, <b>den</b>, <b>dem</b>, <b>des</b> — это заклинания из «Гарри Поттера», то ты не один. Но не паникуй, мы собрали простой гайд, который расставит всё по местам.</p>
+<p><b>Почему артикли важны?</b></p>
+<p>В немецком артикль показывает:</p>
+<ul>
+<li>Род существительного.</li>
+<li>Число (единственное или множественное).</li>
+<li>Падеж.</li>
+</ul>
+<p>Без артиклей получится что-то вроде «Я видеть мой собака» — звучит странно, правда?</p>
+<hr>
+<h3><b>📖 Немного теории: 4 вида артиклей</b></h3>
+<ol>
+<li><b>Определённый</b> (der, die, das). Используем, если предмет известен или упоминается повторно.</li>
+<li><b>Неопределённый</b> (ein, eine). Подходит, если говорим о чём-то впервые.</li>
+<li><b>Отрицательный</b> (kein, keine). Для отрицания существительных.</li>
+<li><b>Нулевой артикль</b>. Когда артикль просто не нужен (например, в обращениях).</li>
+</ol>
+<hr>
+<h3><b>Определённый артикль: когда использовать?</b></h3>
+<h3>1️⃣ Повторное упоминание.</h3>
+<p><i>Ich sehe einen Hund. Der Hund ist groß.</i></p>
+<h3>(Я вижу собаку. Эта собака большая.)</h3>
+<p>2️⃣ Со странами мужского, женского рода и во множественном числе.</p>
+<p><i>Die Schweiz ist wunderschön.</i></p>
+<p>(Швейцария прекрасна.)</p>
+<h3>3️⃣ С причастными оборотами:</h3>
+<p><i>Das Buch, das ich gestern gelesen habe, war interessant.</i></p>
+<p>(Книга, которую я читал вчера, была интересной.)</p>
+<h3>4️⃣ С порядковыми числительными.</h3>
+<p><i>Der erste Platz geht an dich!</i></p>
+<p>(Первое место твоё!)</p>
+<h3>5️⃣ С датами:</h3>
+<p><i>Der 3. Oktober ist ein Feiertag.</i></p>
+<p>(3 октября — выходной.)</p>
+<hr>
+<h3><b>Таблица артиклей по падежам</b></h3>
+<div class="guide-table"><table> <tr> <td> <b>Род</b> </td> <td> <b>Nominativ</b> </td> <td> <b>Akkusativ</b> </td> <td> <b>Dativ</b> </td> <td> <b>Genitiv</b> </td> </tr> <tr> <td> Мужской (<b>m</b>) </td> <td> der </td> <td> den </td> <td> dem </td> <td> des </td> </tr> <tr> <td> Средний (<b>n</b>) </td> <td> das </td> <td> das </td> <td> dem </td> <td> des </td> </tr> <tr> <td> Женский (<b>f</b>) </td> <td> die </td> <td> die </td> <td> der </td> <td> der </td> </tr> <tr> <td> Множественное (<b>pl</b>) </td> <td> die </td> <td> die </td> <td> den </td> <td> der </td> </tr> </table></div>
+
+
+
+<hr>
+<h3><b>🔍 Разбор падежей</b></h3>
+<h3><b>1️⃣ Nominativ (Кто? Что?)</b></h3>
+<p>Используется для подлежащего. Всё просто:</p>
+<ul>
+<li><b>der</b> (мужской), <b>das</b> (средний), <b>die</b> (женский и множественное).</li>
+</ul>
+<p>Пример:</p>
+<p><i>Der Hund spielt.</i></p>
+<p>(Собака играет.)</p>
+<h3><b>2️⃣ Akkusativ (Кого? Что?)</b></h3>
+<p>Всё как в Nominativ, кроме мужского рода — он меняется на <b>den</b>.</p>
+<p>Пример:</p>
+<p><i>Ich sehe den Hund.</i></p>
+<p>(Я вижу собаку.)</p>
+<h3><b>3️⃣ Dativ (Кому? Чему?)</b></h3>
+<p>Мужской и средний род: <b>dem</b>, женский: <b>der</b>, множественное: <b>den</b> (и добавляется окончание -n к существительному).</p>
+<p>Пример:</p>
+<p><i>Ich helfe dem Hund.</i></p>
+<p>(Я помогаю собаке.)</p>
+<p><i>Ich spreche mit den Kindern.</i></p>
+<p>(Я говорю с детьми.)</p>
+<h3><b>4️⃣ Genitiv (Чей? Чего?)</b></h3>
+<p>Мужской и средний род получают окончание <b>-es</b>, а женский и множественное — <b>der</b>.</p>
+<p>Пример:</p>
+<p><i>Das Spiel des Hundes ist lustig.</i></p>
+<p>(Игра собаки забавная.)</p>
+<hr>
+<h3><b>🔥 Лайфхаки по запоминанию</b></h3>
+<p>1️⃣ <b>Волшебный треугольник der</b></p>
+<p>Если не понимаешь, что к чему, просто визуализируй треугольник, где <b>der</b> встречается во всех падежах, кроме Akkusativ.</p>
+<p>2️⃣ <b>Fokus на мужской род</b></p>
+<p>Только он меняется в Akkusativ (<b>der → den</b>).</p>
+<p>3️⃣ <b>Множественное число Dativ</b></p>
+<p>Не забудь про <b>den</b> и окончание <b>-n</b> у существительного:</p>
+<p><i>Ich gebe den Kindern ein Geschenk.</i></p>
+<p>(Я дарю детям подарок.)</p>
+<hr>
+<h2>Видео</h2>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=RvnE4s6eJFY" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h2>Упраженения</h2>
+<div class="guide-media"><a href="https://www.de-online.ru/index/igra_quot_der_die_das_quot/0-781" target="_blank" rel="noopener noreferrer">de-online.ru</a></div>
+
+
+
+
+
+<div class="guide-media"><a href="https://a1c2deutschonline.com/uprazhnenya-po-nemeckomu/vyberite-pravilnyy-artikl-der-die-das" target="_blank" rel="noopener noreferrer">a1c2deutschonline.com</a></div>
+
+
+
+
+
+<h3>Упражнение: выбери правильный определённый артикль</h3>
+<ol>
+<li>___ Mann liest ein Buch.</li>
+<li>Ich sehe ___ Hund im Garten.</li>
+<li>Wir helfen ___ Frau mit den Einkäufen.</li>
+<li>Das ist das Spiel ___ Kindes.</li>
+<li>___ Kinder spielen draußen.</li>
+<li>Ich gebe ___ Lehrer das Buch.</li>
+<li>Heute ist ___ 3. Oktober.</li>
+<li>Ich kenne ___ Stadt gut.</li>
+</ol>
+<hr>
+<h3>Ответы и объяснения</h3><details><summary>Показать ответы</summary>
+<ol>
+<li><b>Der Mann</b> — мужской род, подлежащее (Nominativ).<p>
+<i>Объяснение:</i> Подлежащее в Nominativ, мужской род → der.
+</p></li>
+<li><b>den Hund</b> — мужской род, Akkusativ (кого/что).<p>
+<i>Объяснение:</i> Прямое дополнение, мужской род меняется на den.
+</p></li>
+<li><b>der Frau</b> — женский род, Dativ (кому/чему).<p>
+<i>Объяснение:</i> Для женского рода в Dativ используется der.
+</p></li>
+<li><b>des Kindes</b> — средний род, Genitiv (чей/чего).<p>
+<i>Объяснение:</i> Для мужского и среднего рода в Genitiv → des + окончание -es.
+</p></li>
+<li><b>Die Kinder</b> — множественное число, Nominativ.<p>
+<i>Объяснение:</i> Множественное число для подлежащего → die.
+</p></li>
+<li><b>dem Lehrer</b> — мужской род, Dativ (кому/чему).<p>
+<i>Объяснение:</i> Dativ для мужского и среднего рода → dem.
+</p></li>
+<li><b>Der 3. Oktober</b> — мужской род, Nominativ.<p>
+<i>Объяснение:</i> Даты с порядковым числительным мужского рода → der.
+</p></li>
+<li><b>Die Stadt</b> — женский род, Nominativ.<p>
+<i>Объяснение:</i> Подлежащее, женский род → die.
+</p></li>
+</ol>
+</details>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-011","guide":{"title":"Определённые артикли","kind":"grammar","level":"A1","html":"$1c","materials":[],"meta":"Недели 3-4"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-011","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"

@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+2:"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js"
+3:"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js"
+4:"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js"
+5:I[32818,["$2","$3","$4"],"TimeTracker"]
+6:I[47168,["$2","$3","$4"],"LiveProvider"]
+7:I[19938,["$2","$3","$4"],"default"]
+8:"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js"
+9:"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js"
+a:I[58298,["$2","$3","$4","$8","$9"],"default"]
+b:I[94114,["$2","$3","$4"],"default"]
+c:I[2819,["$2","$3","$4","$9"],"default"]
+d:I[12494,["$2","$3","$4","$9"],""]
+18:"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js"
+19:"/stellas-demo/_next/static/chunks/1p484a2734igf.js"
+1a:"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js"
+1b:I[343,["$2","$3","$4","$18","$19","$1a","$9"],"GuideView"]
+23:"ViewportBoundary"
+24:I[45611,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[45611,["$2","$3","$4"],"$25"]
+27:"$Sreact.suspense"
+:HL["/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+f:X
+12:X
+12:C
+1c:T2f97,<h2>Условные придаточные предложения</h2><div class="guide-media"><a href="https://gemini.google.com/share/64b6fe90953b" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<h3><b>Что это за условные предложения такие?</b></h3>
+<p>Условные предложения — это предложения, в которых есть две части: условие и его следствие. По-немецки такие предложения обычно соединяются союзами wenn и falls (оба переводятся как «если»).</p>
+<p>✅ <b>Пример:</b></p>
+<ul>
+<li>Wenn ich genug Geld habe, kaufe ich mir ein neues Auto.<br>(«Если у меня будет достаточно денег, я куплю новую машину.»)</li>
+</ul>
+<p>🔄 <b>Важно:</b> придаточное предложение (с wenn или falls) может стоять и перед, и после главного:</p>
+<ul>
+<li>Wenn ich Zeit habe, komme ich.</li>
+<li>Ich komme, wenn ich Zeit habe.</li>
+</ul>
+<h3><b>Разница между wenn и falls:</b></h3>
+<p>Оба союза означают «если», но есть небольшой оттенок:</p>
+<ul>
+<li>wenn — простое условие (используется чаще).</li>
+<li>falls — «в случае, если» (чуть более формально и осторожно).</li>
+</ul>
+<p>✅ <b>Пример:</b></p>
+<ul>
+<li>Falls du später kommst, ruf mich an.<br>(«В случае если придёшь позже, позвони мне.»)</li>
+</ul>
+<h3><b>Verkürzte wenn-Sätze (сокращённые условные предложения)</b></h3>
+<p>Хочешь звучать круче и лаконичнее? Тогда используй сокращённые условные предложения без wenn! Это крутой способ сделать речь динамичнее и современнее:</p>
+<p>✅ <b>Примеры:</b></p>
+<ul>
+<li>Habe ich genug Geld, kaufe ich mir ein neues Auto.<br>(«Будет достаточно денег — куплю новую машину.»)</li>
+<li>Hätte ich mehr Zeit, würde ich mehr lesen.<br>(«Было бы больше времени — читал бы больше.»)</li>
+</ul>
+<h3><b>Как это работает?</b></h3>
+<ul>
+<li>Просто ставишь глагол на первое место в предложении (тем самым опуская союз wenn).</li>
+<li>Часто используется с конъюнктивом II, чтобы показать нереальные условия:<ul>
+<li>Wenn ich Millionär wäre, würde ich die Welt bereisen.</li>
+<li>Wäre ich Millionär, würde ich die Welt bereisen.</li>
+</ul>
+</li>
+</ul>
+<p>🔥 <b>Коротко и ясно:</b></p>
+<ul>
+<li>wenn / falls + придаточное предложение = обычные условия.</li>
+<li>Verkürzte wenn-Sätze = глагол на первое место = стильно и динамично!</li>
+</ul>
+<h3><b>Итог:</b></h3>
+<p>Используя wenn и falls, ты управляешь условиями, а сокращённые формы позволяют делать твою речь естественной, быстрой и профессиональной. Это инструмент, который выведет твой немецкий на новый уровень!</p>
+<p>Начинай использовать прямо сейчас, и немецкий будет под твоим контролем! 💪🚀</p>
+<h3>Видео</h3>
+<div class="guide-media"><a href="https://www.youtube.com/watch?v=rNlcEtfYi5w" target="_blank" rel="noopener noreferrer">Смотреть видео на YouTube</a></div>
+
+
+
+
+
+<h3>Упражнения</h3>
+<div class="guide-media"><a href="https://talkpal.ai/ru/grammar_exercises/nebensatze-%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%B9-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8/" target="_blank" rel="noopener noreferrer">talkpal.ai</a></div><hr><h2>Условные связи (wenn, falls, sofern, bei)</h2><div class="guide-media"><a href="https://gemini.google.com/share/7211c6d6759e" target="_blank" rel="noopener noreferrer">Разбор в чате Gemini</a></div>
+
+
+
+<p>Как строить <b>условные предложения</b> на немецком, чтобы звучать УМНО и УВЕРЕННО 💼🇩🇪</p>
+<p>Ты можешь знать слова, грамматику и глаголы,</p>
+<p>но если не умеешь строить <b>условные конструкции</b>,</p>
+<p>твоя речь = набор заявлений, а не <b>гибкое общение</b>.</p>
+<p>Сегодня покажу тебе, как немцы выражают <b>&quot;если...&quot;</b>,</p>
+<p>чтобы строить условия в настоящем, прошлом и даже фантазиях.</p>
+<p>Залетаем в <b>Konditionalsätze</b> – мощный инструмент уровня B1–B2!</p>
+<hr>
+<h2>Что такое условное предложение?</h2>
+<p><b>Konditionalsatz</b> = предложение с УСЛОВИЕМ</p>
+<blockquote>
+
+
+<p>Главное предложение (что произойдёт)</p>
+<ul>
+<li>Придаточное (условие этого действия)</li>
+</ul>
+</blockquote>
+
+
+
+<p>📌 Связываются с помощью союзов:</p>
+<p><b>wenn, falls, sofern, bei, außer, nur wenn</b> и др.</p>
+<hr>
+<h2>🔥 Структура:</h2>
+<p><b>Wenn + подлежащее + остальное + глагол, подлежащее + глагол...</b></p>
+<p>⚠️ В придаточной части глагол <b>всегда в КОНЦЕ</b>!</p>
+<hr>
+<h2>🛠 СОЮЗЫ УСЛОВИЯ</h2>
+<div class="guide-table"><table> <tr> <td> Союз </td> <td> Значение </td> <td> Комментарий </td> </tr> <tr> <td> <b>wenn</b> </td> <td> если, когда </td> <td> самый универсальный </td> </tr> <tr> <td> <b>falls</b> </td> <td> если вдруг, в случае </td> <td> формальный, больше для непредсказуемого </td> </tr> <tr> <td> <b>sofern</b> </td> <td> если, при условии </td> <td> как «при условии, что...» </td> </tr> <tr> <td> <b>nur wenn</b> </td> <td> только если </td> <td> подчёркивает ограничение </td> </tr> <tr> <td> <b>bei + D</b> </td> <td> при… </td> <td> без глагола! </td> </tr> </table></div>
+
+
+
+<hr>
+<h2>🟢 1. <b>Реальное условие в настоящем/будущем</b> (Präsens)</h2>
+<p>💬 Что-то вполне может произойти. Глагол в <b>настоящем времени</b>, даже если говорим о будущем!</p>
+<div class="guide-table"><table> <tr> <td> 🔥 Пример </td> <td> 💡 Перевод </td> </tr> <tr> <td> Wenn ich Zeit <b>habe</b>, <b>besuche</b> ich dich. </td> <td> Если у меня будет время, я тебя навещу. </td> </tr> <tr> <td> Wenn du willst, <b>kommen</b> wir morgen. </td> <td> Если хочешь, мы придём завтра. </td> </tr> </table></div>
+
+
+
+<hr>
+<h2>🟡 2. <b>Нереальное условие в настоящем</b> (Konjunktiv II Präsens)</h2>
+<p>💬 Мы говорим о <b>нереальности</b> – фантазии, сожалении, невозможности.</p>
+<div class="guide-table"><table> <tr> <td> 🔥 Пример </td> <td> 💡 Перевод </td> </tr> <tr> <td> Wenn ich Zeit <b>hätte</b>, <b>würde</b> ich Sport machen. </td> <td> Если бы у меня было время, я бы занялся спортом. </td> </tr> <tr> <td> Wenn ich ein Auto <b>hätte</b>, <b>würde</b> ich dich abholen. </td> <td> Если бы у меня была машина, я бы тебя забрал. </td> </tr> </table></div>
+
+
+
+<p>📌 Используем <b>würde + Infinitiv</b></p>
+<p>⚠️ Некоторые глаголы (sein, haben, модальные) – с ОТДЕЛЬНЫМИ формами!</p>
+<div class="guide-table"><table> <tr> <td> Глагол </td> <td> Konjunktiv II </td> </tr> <tr> <td> haben </td> <td> hätte </td> </tr> <tr> <td> sein </td> <td> wäre </td> </tr> <tr> <td> dürfen </td> <td> dürfte </td> </tr> <tr> <td> können </td> <td> könnte </td> </tr> </table></div>
+
+
+
+<hr>
+<h2>🔴 3. <b>Нереальное условие в прошлом</b> (Konjunktiv II Perfekt)</h2>
+<p>💬 Сожаление о том, что НЕ произошло. Используем <b>hätte/wäre + Partizip II</b></p>
+<div class="guide-table"><table> <tr> <td> 🔥 Пример </td> <td> 💡 Перевод </td> </tr> <tr> <td> Wenn ich gestern Zeit <b>gehabt hätte</b>, <b>hätte</b> ich angerufen. </td> <td> Если бы у меня было время, я бы позвонил. </td> </tr> <tr> <td> Wenn sie früher gekommen <b>wäre</b>, <b>hätten</b> wir zusammen gegessen. </td> <td> Если бы она пришла раньше, мы бы поели вместе. </td> </tr> </table></div>
+
+
+
+<hr>
+<h2>💥 БЕССОЮЗНЫЕ УСЛОВНЫЕ ПРЕДЛОЖЕНИЯ</h2>
+<p>Немцы умеют и <b>без союзов</b>! Просто ставим <b>глагол на первое место</b>:</p>
+<div class="guide-table"><table> <tr> <td> С союзом </td> <td> Без союза </td> </tr> <tr> <td> Wenn ich Zeit habe, gehe ich spazieren. </td> <td> <b>Habe ich Zeit</b>, gehe ich spazieren. </td> </tr> <tr> <td> Wenn du kommst, freue ich mich. </td> <td> <b>Kommst du</b>, freue ich mich. </td> </tr> </table></div>
+
+
+
+<p>⚠️ Это продвинутая форма — стильно, но осторожно!</p>
+<hr>
+<h2>🧊 SOFERN / FALLS / BEI</h2>
+<div class="guide-table"><table> <tr> <td> Союз </td> <td> Пример </td> <td> Перевод </td> </tr> <tr> <td> <b>falls</b> </td> <td> Falls du Fragen hast, schreib mir. </td> <td> Если вдруг будут вопросы – пиши. </td> </tr> <tr> <td> <b>sofern</b> </td> <td> Sofern du Zeit hast, kannst du mitkommen. </td> <td> При условии, что у тебя есть время. </td> </tr> <tr> <td> <b>nur wenn</b> </td> <td> Ich komme nur, wenn du auch kommst. </td> <td> Я приду только если ты тоже придёшь. </td> </tr> <tr> <td> <b>bei + D</b> </td> <td> Bei gutem Wetter gehen wir wandern. </td> <td> При хорошей погоде мы пойдём в поход. </td> </tr> </table></div>
+
+
+
+<hr>
+<h2>🧪 Быстрое сравнение:</h2>
+<div class="guide-table"><table> <tr> <td> Тип </td> <td> Пример </td> <td> Время/Форма </td> </tr> <tr> <td> Реальное условие </td> <td> Wenn du willst, helfe ich dir. </td> <td> Präsens </td> </tr> <tr> <td> Нереальное условие (настоящее) </td> <td> Wenn ich reich <b>wäre</b>, <b>würde</b> ich ein Haus kaufen. </td> <td> Konjunktiv II </td> </tr> <tr> <td> Нереальное в прошлом </td> <td> Wenn ich dich <b>gesehen hätte</b>, <b>hätte</b> ich Hallo gesagt. </td> <td> Konjunktiv II Perfekt </td> </tr> <tr> <td> Без союза (продвинуто) </td> <td> <b>Hätte ich Zeit</b>, käme ich mit. </td> <td> Konjunktiv II </td> </tr> </table></div>
+
+
+
+<hr>
+<h2>ИТОГ</h2>
+<p>✅ Строй условные предложения → звучишь как носитель</p>
+<p>✅ Разделяй реальное и нереальное → не путай времена</p>
+<p>✅ Используй <b>würde, hätte, wäre</b> правильно</p>
+<p>✅ Прокачивай стиль через <b>falls, sofern, bei</b></p>17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{"id":"g-124","guide":{"title":"Условные придаточные и условные связи wenn, falls, sofern, bei","kind":"grammar","level":"B2","html":"$1c","materials":[],"meta":"Недели 38-42"}}],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$f"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"g-124","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@16","v":"$12","s":"$f"},"c":"$Q17"}]]
+13:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@14","v":"$12","s":"$f"},"c":"$Q15"}]]
+10:[["children",{"s":"guide","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/stellas-demo/_next/static/chunks/1t0dxczc8qgbx.css","precedence":"next"}],["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/2jf9-qz2i6uqg.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/3e1mj8n5oe_0f.js","async":true}],["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/2bishydb-7ck-.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/3f9zw1s3416m0.js","async":true}],["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"relative flex min-h-dvh flex-col items-center justify-center gap-16 px-16 py-24","children":[["$","div",null,{"aria-hidden":true,"className":"fixed inset-0 -z-10 bg-(image:--gradient-app)"}],["$","div",null,{"className":"flex w-full max-w-(--grid-narrow) flex-col gap-16","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-12","children":[["$","span",null,{"className":"flex items-center gap-12","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-[30px] shrink-0 items-center justify-center rounded-sm bg-accent text-small-strong text-on-accent","children":"S"}],["$","span",null,{"className":"text-body-strong","children":"Stellas"}]]}],["$","span",null,{"className":"inline-flex min-h-[26px] w-fit shrink-0 items-center gap-4 rounded-tag px-8 text-caption bg-warn text-warn","children":[["$","$Lc",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"className":"size-[14px]","aria-hidden":true,"strokeWidth":2}],"Демо: данные никуда не отправляются"]}]]}],["$","section",null,{"className":"flex min-w-0 flex-col gap-12 rounded-lg p-20 md:p-24 bg-surface","children":[["$","div",null,{"className":"flex flex-col gap-8","children":["$undefined",["$","h2",null,{"className":"text-h1","children":"Такой страницы нет"}],["$","p",null,{"className":"text-body text-secondary","children":"Возможно, ссылка устарела."}]]}],["$","$Ld",null,{"href":"/plan","className":"inline-flex h-[46px] items-center justify-center gap-8 rounded-button text-center text-body-strong transition-colors bg-accent px-20 text-on-accent hover:bg-tint-strong w-full","children":["$undefined","К плану"]}]]}]]}]]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stellas: Демо"}],["$","meta","1",{"name":"description","content":"Немецкий для русскоязычных"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@28","v":null,"s":"$f"}},"a":"$@29","u":"$@2a","b":"omUwgOKK1HY3VqOGPJEvX"}
+2b:I[45611,["$2","$3","$4"],"OutletBoundary"]
+1d:["$","script","script-0",{"src":"/stellas-demo/_next/static/chunks/40pl44zu5fj79.js","async":true}]
+1e:["$","script","script-1",{"src":"/stellas-demo/_next/static/chunks/1p484a2734igf.js","async":true}]
+1f:["$","script","script-2",{"src":"/stellas-demo/_next/static/chunks/27v72osl9m6bz.js","async":true}]
+20:["$","script","script-3",{"src":"/stellas-demo/_next/static/chunks/2nr2az48bf3mz.js","async":true}]
+21:["$","$L2b",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+f:300
+2c:null
+2a:true
+f:C
+29:0
+16:"$undefined"
+14:"$undefined"
+11:"$undefined"
+e:"$undefined"
+28:"$undefined"
+22:"$undefined"
