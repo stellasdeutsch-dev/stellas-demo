@@ -1,8 +1,8 @@
 :HL["/stellas-demo/_next/static/chunks/2iwv-g99f3uh3.css","style"]
-:HL["/stellas-demo/_next/static/chunks/2kc6pkn_8bxcs.css","style"]
+:HL["/stellas-demo/_next/static/chunks/106qh3zyz5ba0.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"id","t":"d","k":"g-049","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"view","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"guide","h":96,"c":"$Q2"}]]
-0:{"b":"nR8laAAuC5g9sSZRLViTZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"lsKAUUcHvubwoyf1ho9FC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
