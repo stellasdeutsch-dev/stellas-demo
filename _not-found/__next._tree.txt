@@ -2,4 +2,4 @@
 :HL["/stellas-demo/_next/static/chunks/106qh3zyz5ba0.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"qvgdiJCpcVQa6xmlCqJOW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Mbd3U60zrhsy3A7WEE4bl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
